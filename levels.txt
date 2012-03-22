@@ -1,0 +1,4 @@
+Guitar DI:
+
+- Channel 1, phantom power on
+- Input gain 9.0dB (peak -3.5dB)
