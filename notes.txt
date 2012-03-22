@@ -1,0 +1,16 @@
+Guitar DI:
+- Channel 1
+- Input gain 9.0dB
+
+Engl:
+- Load box line out (-10dBv)
+- Channel 2
+- Input gain 15dB
+
+TODO:
+
+1) DP
+
+Rhythm guitars:
+- Re-record theme, some strange harmonics
+- Re-record verses + out-chorus etc

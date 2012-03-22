@@ -1,8 +1,0 @@
-Guitar DI:
-- Channel 1
-- Input gain 9.0dB
-
-Engl:
-- Load box line out (-10dBv)
-- Channel 2
-- Input gain 15dB
