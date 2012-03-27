@@ -7,3 +7,8 @@ Engl:
 - Channel 2
 - Input gain 15dB
 
+Bass DI
+- Ch 1, gain 9.0dB, +48v
+
+Bass Dawg
+- Ch 2, gain 21.0dB, Inst
