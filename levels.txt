@@ -1,6 +1,6 @@
 Guitar DI:
 - Channel 1
-- Input gain 9.0dB
+- Input gain 9.0dB (Dustin 0dB)
 
 Engl:
 - Load box line out (-10dBv)
