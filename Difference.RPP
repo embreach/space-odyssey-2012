@@ -1,7 +1,7 @@
 <REAPER_PROJECT 0.1 "4.13/OSX"
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
-  AUTOXFADE 1
+  AUTOXFADE 9
   ENVATTACH 1
   MIXERUIFLAGS 11 48
   PEAKGAIN 1.00000000000000
@@ -12,9 +12,9 @@
   GRID 3455 8 1.00000000000000 8 1.00000000000000 0
   TIMEMODE 1 0 -1
   PANMODE 3
-  CURSOR 243.21112743806808
-  ZOOM 2.32748451506291 0 0
-  VZOOMEX 14
+  CURSOR 389.25443123317797
+  ZOOM 0.95692571601791 0 0
+  VZOOMEX 5
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 23.976024 100 40 1000 300 0 0.000000 1
@@ -44,16 +44,16 @@
   >
   LOCK 1
   <METRONOME 6 2.000000
-    VOL 0.376740 0.380323
+    VOL 0.299073 0.301917
     FREQ 800 1600 1
     BEATLEN 4
     SAMPLES "" ""
   >
   GLOBAL_AUTO -1
   TEMPO 120.00000000000000 4 4
-  PLAYRATE 1.00000000000000 0 0.25000 4.00000
-  SELECTION 549.37850498232467 94.20000000000000
-  SELECTION2 549.37850498232467 94.20000000000000
+  PLAYRATE 1.00000000000000 1 0.25000 4.00000
+  SELECTION 352.64166899997588 504.78444499992861
+  SELECTION2 352.64166899997588 504.78444499992861
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0
   MASTERMUTESOLO 0
@@ -85,9 +85,2178 @@
     PT 278.498825000000 104.9999212501 1 262148
     PT 299.070269000000 112.0000597334 1
   >
+  MARKER 3 128.34285799999955 "Teema 1" 0 0
   MARKER 1 352.64166899997588 "Teema" 0 0
   MARKER 2 504.78444499992861 "Rokkii" 0 0
   <PROJBAY
+  >
+  <TRACK '{DC2CA670-2206-F148-98A7-D26F7B46B98F}'
+    NAME "Verse telecaster overdubs"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.14550606486759 0.52000000000000 -1.00000000000000 -1.00000000000000 1.00000000000000
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.666700 0.500000 1 0.500000 0 -1 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5000000000 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DC2CA670-2206-F148-98A7-D26F7B46B98F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 442 82 1262 730
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0
+      <VST "VST: Guitar Rig 5 (Native Instruments GmbH)" "Guitar Rig 5.vst" 0 ""
+        NUdpTu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAA==
+        AAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAmRIAAAEAAAALABAALWluLQ==
+        AgAAACNOSSNDUyNEb2N1bWVudCMjTkkjU291bmRTaGVsbCNTb3VuZA==
+        IwAAAAAAAAAAAAAARQEAAGF0YWQCAAAAZG5zc2JpbHoWAAAAEAAAAA==
+        eNpjYmBg0PX00zV1z/QDMhkAEaUCJ2F0YWQCAAAAb2ZuaWJpbHpLAQ==
+        AAD+AwAAeNqdU8tuwjAQPJOvWPlOTSUqVZUx6pNbhQI9VT2YsASLxA==
+        juwNlL9vQkIISI0QN894xmOPbTH+TRPYovPamhG7vxswQBPZpTbxiA==
+        fc0/+o8MPCmzVIk1OGLGMhjLQHibm0K0sifzcDBgMggAROZsho40eg==
+        WcCCMCpF+f1aeMjtAWbkFIF1MMcE4cXpZYw/gh9UlUHltLZOvmm3gQ==
+        WbROVCx4zZUBvJ1QEgtlNsewciwnuSblINQxDAU/UAdjLSzHkU2z4g==
+        TIaOxoa4cJ/4Lh1Mnb3QtmCdqYicXuTUNNMQFS6YrUpylHVXglfwOA==
+        mXt0fY8kw+kT5zPaJ+h7jbaZrdbmF4v/G/a+WmFEZ1nXm+sOntPMdw==
+        7/ZMeOtWP3EH2sAkfOgOa+tuzarqveYKbs+Y75SJIcTiFy2urq937g==
+        6sxuwfINCt78XBn8AZECPrdhdGFkAgAAAHRzcnBiaWx6hhAAACuuAA==
+        AHja7V3ZVts8u+4+7U1sL0673MTyGBbtvwIpc2ggAb5+Z0osHBVP2A==
+        TgK9qP8at5w4tmQnhISCBJuelHh49egdHr0aLEmn7X/+59OnT//73w==
+        T592/nPvudIYRTEO/G9bytf6loT8QWBj3/m2ddnbl60tKU6gb0M38A==
+        0bctP9iS/vP9844TydiPk2jkIT+RB8ORfyv1R9i1ZX/k9VH0bQtopg==
+        sSUNAi8kL5JnQji4lbFNCmmYda1hWBbYkm4i6KFJEM3ukMI9+DuI5A==
+        HJBOruBBFBRXQHrFp58hb4URitGSIhLsEdzXyJaaYSQBXVKsba2xDQ==
+        NAnUFbD1/fNnSdqJg5FvyzZMYB/GSHLcoA9d2UNJFPiBNy1jiEkhsg==
+        F9hoBhTbmNQb+j5ySYHGVm0miSgmIjAkGIZy8hDOHi4UTMqTyL+dGw==
+        fC/nuoklojQZJ8iLySNq9kz5KSmtmdWo14lAH6aVujjJHyUPpw+6KA==
+        QcWl7OLyt6XRKL3snVlqqGjo4vznyb8Haqs9+T1unn/7tkWLooXJzg==
+        CLP3yN0xRhPK3qQ2oQsTJPehf/tta2vRrRmQ1MOCCNlyKiHTsEaUVg==
+        +hXjvkv+voFujFJtM4XXHsFG4YYjGwcS5UyVWoQwdcmEPEECAZISyQ==
+        O0ngwWTua6mpiodSk6YBkuAB86BSkUzLnhoDN+eWOPLTEBug5iDBYw==
+        ROoK3dHUcaoyiJTUQykEUoS8gOjSg/dTMPOfeAq3tgBGLX+5UvviVg==
+        vFzBUyUyXlbcpPyxVnXInTxQoyRHtlNj3PwR5zdo78WOdBL4JEDdNQ==
+        g2CZlCwYDlq3B4edS6DuHui+07w4bifRzybXYFCYYFAEDob6kmCoiQ==
+        6E3qYkeQwLoOtVxQ7lP2Q+23H/bqGPY79Ri2E+d88kGwHwQrVkhYyw==
+        PFldN9FYLigLiQBqv47NltJT4ah9M2ycnrVvjj9C4iMkBAsJQDlycw==
+        askjf81gWCgiC4MIfRk6zr/NXgAOjKNkqO8Dq3b+kW28u2xDofiQ9A==
+        D9d0ofLbc+/pnOCxBSbnyYnSQLGKj+O28tFxW+A9StV7zE1JlOLQcA==
+        lEgHEPsFf37VX51BKwAP5gAPiK2kn37t581NjlDhj6/H4OsNSWANAw==
+        16aUKADI9tUcZRvG6cWrwB15VEv51TJ01bD4Iz2dAz3FHk4vlixeFw==
+        AOJejhHdJNLebNxMJJ+82KPS1WEV4kdiVO4+02OJPRiiFhrcSsq6fQ==
+        5yVSsgYOO05399C1Lvpdd9929m6Pf123nffTwCWkxjapsQJHFdTzew==
+        qYtVPGedpnGTxrGxsHFcEgRsJLl5qAdBuCJ+/kIErQjzCrwE5e5GjA==
+        HRQcVBcHYpRDjKAfh0GMBNTjKAc58gXEF47n+KoNt2YYiig4oxznBQ==
+        GgSRXc4zhAGKO9TYAYoSqRPEOOUF8WzvxjQHSd2ENHECokQMyh++zQ==
+        3ejLc44VWUd6e0lj9loJiUZnEoSSojVTker7WRJyfXfZsH40Hy7QHQ==
+        gmfuQ9L5bbf4JiGASUKAwL1s48mJRCk69oO5MfaD6FakzkwvJ8IeUQ==
+        m9TByWCY4zMa/AHGSTTwkznIbhIFfVTbSxcaiKRGO1w3y3lVeNFN0Q==
+        Lt+gCPmDAp6mCQAwbucWxm5KYm1CBm+vv5r2dFK2leZLa2pchmfpQQ==
+        +na27getO0q7WEjWjOwegjvr0v23dwegc3pp24fj/rHzfob656ul4A==
+        SBq46UqsG+xOR88G2E+CeCgdtrZPcT+C0cN2MwxdPJg2BlJ3FIZBlA==
+        bJ/BdCZKOsqXlcXbByNMUjcpnUDUt/cCPyFXt3PFbrvBhJQ0Rl8nkA==
+        JNEDIvFW7uPEg/HttDazKy8OY4gpFN7ITXDoztQ507xW04jy0xgdoA==
+        Ap+cDnL4drpUjtwmhc/+eu2Ovr55R78zyfupTxpj5pBid/2cIx/8gQ==
+        ePh6XrhkNEIBomBs5x399igRsF965S7t6OtvsRtV8OizG0JGwFyuTA==
+        PZBR5IyvCTXJOXcyPEaRV/aEBhpawzBBQ38Ciz3H6Z9lqiVGKnQsLw==
+        VBZ5rXp5jZFxeoVh0wubPnQf4rX7o0vFZPnEj6t2q9fZb1/cohtlvw==
+        fnB9/mU3bH5M/r67pQO6TjlCZypqPki4nkc9IijzKb9j3+x1Bq2L2g==
+        g7q/3xgkcUtHfBcU1Bmfqgs81KFvOtTRuVragmm6AHOjrRxfK3p42g==
+        +PSr4rvO8V1THi0OvvY/eQaF70UC1vmHYgMpXVkkEYTYd/6fTHszAg==
+        piLlYJTIS554bty+RCrz3Fh9FUxP9f9XAbOJz78KsDVZ7GUS4xVB8A==
+        zMzYrC9a7bHu9xbLpGQ5TEuNfx8q7fG5gc5/RSfm5anWOnqHa0aAaA==
+        a0aMzYeS3spkveBrW3CXHu6SeoE0W7v4MUP/bmbo38z6kb+ylADwWQ==
+        StCgVyVmy3/3/1mzmVoiZN5KfdH+HDiB1fOuYaKrp6ceSGofS/ef1g==
+        0mz8/dO6UxZizpcWdweBn0Cczp4OZtNS8tRm2MXJQz7uVewzsCgTJA==
+        1h65Uw3afQn7RFaxtYI2F0AuD9JH4lwoUXpE4iYKJjG7xQGolDAM4g==
+        hDIUKaZiT+XFZ31LFzON7/iBLy+6UYlmlUk6J9B3pAtEKt3Plypftw==
+        oqs/h+GFcf1Fj0FLmfzwz9mAXh7Mmwfy0dlRb3Uw01O7STRiYnlpHA==
+        PzWGN4jfpy0vfkbwvkqPba/Z7VLLbFCEAt6dyKvgkdkwk+TSfGDt5g==
+        ltuN0s8reFtuN08/d2FMrYr6qhoNVeM0SmIXoyT0t1C6riicIPWohQ==
+        6Kjv0s5k6Lqmc/LxHNUVjDAcPDrh+yqIuk7OAtDhD+ciDos+QUwo/A==
+        0ZV1rxNwGOYRh2HMO/4P/+SDgMHk0f7x6xhsfFoYLE0qqh8b1jVLUQ==
+        eKH76Zfg/fT5q6znlUD1MKMxta4qgFcEjrt/Sui6+A+DTgeqxonWrw==
+        8FGxPPgqXQuXpHsSkP5DTPoNNH9ZDc3ihbEb2mWM3RAhumnUVMPipg==
+        wyIoMnivHBKL+49L+44L+lTl5auqQvVx9mGcSHtBulZn1sE5v8bnuw==
+        INj/cundH5+cf/lx3qndv3wH5811bvR30bc5qjO7HNDf5jd0FfAB9Q==
+        UynG027RKKSpytB4ZclNkK/SSpLp7hzc81G9+DTARntDZoeKN0pOCg==
+        PZy6l20ndREEntSJgjlH3e4pdXAfe/btl6vzs7MxUA0tav4djjq40A==
+        NxiHWf6llgBU1XgfXFVsgIFgxD0zXT6VaZqEpPiAcpRizxXspxss5A==
+        qBqEODkxpwMYVIA/czoqg0gVAJHGINIEQKQziHQBEBkMIkMARCaDyA==
+        FACRxSCy+CMKc07qQJaSeAECNCAB2ChUaUACkFGo0YAE4KJQpwEJQA==
+        RaFBAxKAiUKTBiQAEYUWDUgAHvIU+gM3mog44QEMHsAdj8rgUbnj0Q==
+        GDwadzw6g0fnjsdg8Bjc8ZgMHpM7HovBY/HGE+f80w3cgD//xIDBww==
+        nX9ilcHDnX9ijcHDnX9incHDnX9ig8HDnX9ik8HDnX9ii8HDnX9CXA==
+        dMSGpLwjf8yfhEIMKqAAf1BqBZTKH5RWAaXxB6VXQOn8QRkVUAZ/UA==
+        ZgWUyR+UVQHFn6eGLE8JQFJDlqSEGDMashwlxLDRkKUoIUaOhixDCQ==
+        MXg0ZAlKiPGjIctPQgwhDVl6EmEUKcrJaTopzZ2bIsDgEYCZIpVBJA==
+        AC9FGoNIAFaKdAaRAJwUGQwiARgpMhlEAvBRZDGIRGAjj6UjMUa2Iw==
+        D1RRAf6o1CoqlT8qrYpK449Kr6LS+aMyqqgM/qjMKiqTPyqrior/GA==
+        uGDf0eVfqzQx969D+ku+VePUtCRLvwnjBGgP9vPGjvyNfZRQTR2npQ==
+        ym08KKaV8YACxGsTpk4QM4jIb/6oiL1A2XaAu6rwANCa4p6hpLYDZQ==
+        23FHReyllm2nCmA7ldaUKoLt1LLtVAFsp5VtpwlgO43WlCaC7bSy7Q==
+        NAFsp5dtpwtgO53WlC6C7fSy7XQBbGeUbWcIYDuD1pQhgu2Msu0MAQ==
+        bGeWbWcKYDuT1pQpgu3Msu1MAWxnlW1nCWA7i9aUJYLtrLLtrLf+6Q==
+        YMNitm7CvtRCLnyYfzP4e98d226rhep3v+L9BmpO3JPW5MW/a77C/g==
+        AEkH2HXncN7aJk7v4+PBmNkysw2xL0/tEXNfXMAA60RIEFxJvsNUug==
+        4YaUHujN7rpR5zTkQh2bmwK7YDaaqn8F5F+DDzK32DcWjZFb0RkAKg==
+        L2QRi6ysNFUzDJUPtJtcafsI2f10o+6S3hRu+7vcRBVsZc0pOrA47Q==
+        tha61BbnU9IoaY4TrKgCq6Q0PrgGeWIYBXEszy3KG9Yk3w4e28mQdw==
+        M+kt2sKf3ydbI2Z3Eok5mextpKk7tcV7j+7UnEiOiP99/5z+ihB0Ew==
+        0pwNZjte2P0igZt7wk52z0WRDRM4rSu5dIOd+e6t2d10i58tKkmeXw==
+        l9xgcDvb2XU2L3gidZANXSrnm95NsZBWglQttQGwtHQfXjeY/ST3kw==
+        wHFc9gzPx0s5wYPbVjDxVxRUN1WqIGWDgrqT9JBeSXm8IKWuNaiCQA==
+        UZCyZkFgRUFqXacKUjcvSF1RkG7QNtI2L0hjClIqBVmKSRWk0wXR2w==
+        9eZRXIRJtV8263/MjqGD93JOfBIJUDkP8vzAWGkqVWY7FdnGwKPITQ==
+        e2EJdNIDLUi0zX5FDpoBzfqG2ZWsdUq7KPMrI68/DRxKXbVCX8tVqA==
+        VFWoP65CQLuEsbYCs/O8yH/jNTWoshp8su7KeqsoTf4bWjNWaM2iHQ==
+        3NxUbWfoPllTbUBAtWXn1j+mMF2lA9VaP1BnRTwnRpnzqp+oNa0apw==
+        6QHYLxCm1uP6Mxt0Y9RYW3/UudDP0WEPhk/WXXYuNaO8Xvh85dHNxA==
+        j3tSWR+6s8xhVUsLVEC3tMomyUOpxBVNLtAtml+VtbOIMzSRsm3HHg==
+        L4k+GrUob1EyQWu5lLllD8C0QSRYnpDHzYxZyeBSBFRyVjlkfdnrRQ==
+        ajaToKwtoci5ZhIAK0F5sgQwl6BuKkGdS9A2laDNJeibStDnEoyyBA==
+        ZrB2KmLqWgw9ZA11NUBnpT0RgzHHYG6MAWyGIWs1ZqVbm+rQmktorA==
+        LaHKT5lfrx8aVeLJRK0ZIwyjZCKWBclOLaOC7OeLndqxM+sLL+huag==
+        W9X5FXlGey6OE+SnHeu0kNK11G9Z98pgySnnFfJNdj4iU1VRFJWuFw==
+        VCjTXY4ntqfrJPuZl9OI/1ZdtKVVsTaryuP50AvWJMsvFlWlsVlVHg==
+        z04eqQo9/lLyw/yR2IdhPAwSetgmvzb14PzX0qNtdmolKTu1UuBklw==
+        n3T4TS41e3A6/VakkMXruTaAaeQHzzhOd/fQtS76XXffdvZuj39dtw==
+        0/MOa+uLVayVuz1vIBXoxsoDpjcQq1rqytO0NkHbUFceJbmB2PrKgw==
+        gjYQ2tBWzmJvZC9zLjbqnOCxBSbnyYnSQLGKj+O2sqli1ZXb9G4i1Q==
+        yE/+vL67bFg/mg8X6A7BM/ch6fy2WxuaC1h5KOwegjvr0v23dwegcw==
+        emnbh+P+MSV2p1YJ8tlAbmXsdjakS8qEKWfVZj9JGVnuL90EkedBHw==
+        OimC/NC19CFIqG6M5GkXDyZDKfuddQCDyCYZyTyGQakrmImgn8W+Qw==
+        8gNC1VMGrX2fDjpjP06ikTc9V2w48m+/f/4/5fYIOmF0YWQCAAAARA==
+        TlNTYmlsehYAAAAQAAAAeNpjYmBg0PX00zV1z/QDMhkAEaUCJwAA
+      >
+      FLOATPOS 459 -758 1023 703
+      FXID {269EA560-467D-F749-89ED-E83CDD228CDB}
+      WAK 0
+    >
+    <ITEM
+      POSITION 62.67566952132296
+      SNAPOFFS 0.00000000000000
+      LENGTH 26.72257334982045
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.000000 0.000000 1 0
+      FADEOUT 1 3.932135 0.000000 1 0
+      MUTE 0
+      IGUID {8A34E61E-716B-F747-ACEE-6E4979BECDD0}
+      IID 794
+      NAME "01-Verse telecaster overdubs-120424_2003.wav"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 10.32516952132296
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {28E2CFFB-2064-4746-99FA-941FA9928600}
+      RECPASS 386
+      <SOURCE WAVE
+        FILE "../media/01-Verse telecaster overdubs-120424_2003.wav"
+      >
+    >
+    <ITEM
+      POSITION 113.83798337486708
+      SNAPOFFS 0.00000000000000
+      LENGTH 18.60384995846626
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.010000 0.000000 1 0
+      FADEOUT 1 0.010000 0.000000 1 0
+      MUTE 0
+      IGUID {7662C5A4-00F1-164C-BCBF-B5C4337111B6}
+      IID 799
+      NAME "01-Verse telecaster overdubs-120424_2008-01.wav"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 7.11774379153374
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {84069E04-770B-A84B-9220-13474FF8BDC5}
+      RECPASS 391
+      <SOURCE WAVE
+        FILE "../media/01-Verse telecaster overdubs-120424_2008-01.wav"
+      >
+    >
+  >
+  <TRACK '{43E12B26-7210-004C-87F0-A7237719DAFF}'
+    NAME "Outro sus2 arpeggio"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.27253178177058 0.00000000000000 -1.00000000000000 -1.00000000000000 1.00000000000000
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.666700 0.500000 1 0.500000 0 -1 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5000000000 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {43E12B26-7210-004C-87F0-A7237719DAFF}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 50 328 1262 730
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0
+      <VST "VST: Guitar Rig 5 (Native Instruments GmbH)" "Guitar Rig 5.vst" 0 ""
+        NUdpTu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAA==
+        AAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAjxIAAAEAAAAPABAALWluLQ==
+        AgAAACNOSSNDUyNEb2N1bWVudCMjTkkjU291bmRTaGVsbCNTb3VuZA==
+        IwAAAAAAAAAAAAAARQEAAGF0YWQCAAAAZG5zc2JpbHoWAAAAEAAAAA==
+        eNpjYmBg0PX00zV1z/QDMhkAEaUCJ2F0YWQCAAAAb2ZuaWJpbHoaAQ==
+        AACpAgAAeNqNUslOwzAQPZOvGPleXKQeEHJclQqQOFVVOSEOk3RarA==
+        JnbkpSp8PdkbIhV683t+y3hkMT/lGRzJOmV0zO5upwxIp2ar9D5mbw==
+        m+fJPQPnUW8xM5pipg2DuYyEM0GXop05m2fTKZNRBCAKawqyXpGTJQ==
+        LAmNOcn3pcXvL9hQRik6TxYSS3gIxYfgtaDRYvCfxspXtErwFlShfA==
+        mFoRCepDV1Cd5UtQHi2s1R5mgtdUbWyF1Tk1eVG+Q/vO2BMj95n/Sw==
+        BytrRtoBbDvRe6uS4Ptt9ESDS+aIWSC5WMKjOQneoO4uOLITR16uVw==
+        D5y37Yu8cDedvlc08XyUf7Hvabej1P/qu948GOTqif8ZdQCr1Qnefw==
+        Mhn9ABaU1TFhdGFkAgAAAHRzcnBiaWx6rRAAAF2xAAB42u1d2Xbaug==
+        Gu657VN45baLgmeTlXYvQuaElASSsvedMAqoeIpsINlvdd7wyGBsyQ==
+        hhCTNlJy0psGD78+/cOnX4Ml6aLV+8+nT5+u/vvp095fD64jTSEOkQ==
+        733bkb/WdiTo2f4AecNvOzfdo4q1I4UR8AbA8T34bcfzd6S/vn/eGw==
+        4grywghPXOhFFXs08cZSf4KcQcWbuH2Iv+0ommnsSLbvBuRF8kwA7A==
+        cQUNSCF1s6bVDctSdqQ7DFw48/HiDincBb98XEkB6eQKsrGfXVHiKw==
+        Hv0MeSvAMIRrioiQS3D/hAOpEWBJ0SXZ2tXqu4omKTVZ2fn++bMk7Q==
+        hf7EG1QGIAJ9EEJp6Ph94FRcGGHf8915GSNECqm4/gAugKIBIvUGng==
+        Bx1SoLFTXUgiisEEhgSCoBI9BouHMwWT8iTyb+8OPVRS3YQSUVoFRQ==
+        0A3JI2ryTP4pKa6ZVa/ViEAPxJW6Pk8fJQ/HDzowgtml5OL6t6XJJA==
+        vgwao1P732bQuWnenvfwrS+Ph4PGt287tChaWGU4Qew9cneK4IyyNw==
+        qU3ggAhW+sAbf9vZWXVrAST2MB/DQSWWkGhYI0rL/QpR3yF/3wEnhA==
+        sbaZwqtPYKNwg8kA+RLlTIVaBCB2yYg8QQIBkBLJO5Hvgmjpa7Gpsg==
+        h2KTxgESIZt5UC5IpmXPjYEaS0ucenGI2bBhR2gKSV2BM5k7TlEGkQ==
+        EnsohUDC0PWJLl3wMAez/InmcKsrYFTTlwu1z26F6xU8VyLjZdlNyg==
+        H6tFh9xLAxVHKbK9KuPmTzi/QXsvGkrnvkcC1CkZBOukJMFwfDA+Pg==
+        ad8o6v6x7g0b12etCP/gGwwyEwyywMFQWxMMVRG9SV3tCJJS1qHWCw==
+        SnxKPTk57g1MtdvvtIYXvd6s/etgMPsg2A+CFSskrHWerJZNNNYLSg==
+        QuIffHOsXByBLoDgvP1LUR9bSB1+hMRHSIgVEgrlyI25JU+9ksGwUg==
+        RBIGaHKJD7+czq6GTYDV1t+6Hh6PZx/ZxrvLNmSKD0n/sKQL5d9OvA==
+        56x3cAbH06vOndK5aF36gy9RVPvIK1Z4j1z0HnNbEqU4NJhE0jFAXg==
+        xp9f9Vdn0ALA4yXAY2Ir6YdX/XF3lyKU+ePrMvi6IxJYI98ZUEoUAA==
+        ZOt2ibIFwvjire9MXKql/GoZumpY/JFeLIFeIBfFF3MWrwkAsZlihA==
+        d5HUXIybieST100qXR0VIX4kRvnuMz2W2AUBPID2WJLL9p3XSEkaOA==
+        v4HxWbfe7VSN/eGldn8Pfjry1ftp4CJS4wGpsQwmBdTLe7GLFTynTA==
+        07hN41hf2TiuCQI2kpw01H0/2BA/vyGCNoR5AV4EU3cjxvYzDqqJAw==
+        EacQMfDCwA+hgHqcpCAnnoD4gukSX7Hh1gxDFgUnTnFeQ9vHg3yeIQ==
+        DFDUpsYOII6kth+imBfEs70T0hwkdSLSxAmIEjIoD70Bd6Ovzzk2ZA==
+        HfHtNY3ZayUkGp1JEErCJVOR4vtJEjIwWjeacRh0L0BPPr/cj+6bpw==
+        h3yHKhUmCVEE7mUbz04kctFx5C+NceTjsUidmW5KhF2iNqmNInuU4g==
+        M+r8AYYRtr1oCbITYb8Pq814oYFIahwEZbOcV4WH77J2+Q5i6NkZPA==
+        TRMAYNhKLYycmMRahAzeXn817unEbCstl9ZUuQzP0oP0rWTdDyw7Sg==
+        u1pI0oxMZ5YVPij2dRX2Lh6Crn3v9qrvaGHBcrUUmEi2E6/EukPOfA==
+        9MxGXuSHI+nkYPcC9THAj7uNIHCQPW8MpM4kCHwc7V6CeCZKOk2XlQ==
+        hbvHE0RSNymeQNR3m74Xkau7qWJ3HX9GSprCrzNAkmibSBxX+ihyQQ==
+        OJ7XZnHlj8MYIQqFO3EiFDgLdS40r1U1ovw4Rm2Y4avEgxzeIF4qRw==
+        bpPCF3+9dkdf376j356l/dRnjTFzSLE7XsqRj54tHr6uG6wZjZAVUQ==
+        MLbSjn5rEgnYL7111nb09bfYjcp49MUNISNgKbdCPZBQ5IKvCTVVUg==
+        7mR4jCKv5AlNqWt1w1Tq+jNY7CVO/yJTrTFSpuPKSmWR14qXS4yM0w==
+        KwwbbtDwgPMYlu6PrhWT5BNOA9cn7j+1zrXSNM//bVx12t3hx6rd9w==
+        t3RA1ylHaM9FLQcJy3nUE4ISn7qaeDfX4WTaOYGzf34F1377+LbOdw==
+        qKPG+FRN4KEOfduhjvbt+hZMNvn3NA9SfAf48Xnj06+K72eK7yfl0Q==
+        4uBr9dIMCj2IBKzdo9hAilcWSQQh8ob/J9PejIC5yIo/iSprnnhp3A==
+        /olU5qWx+iqYnuv/rwJmG59/FWAlWezPJMYbguCFmbFZW7Xao+z3Fg==
+        66QsV5b39Meg6aCrOjzyh//8+3P09+3h7P2tGVFEWzNibD+U9FYm6w==
+        BV/bgjr0cJfU9aXF2sWPGfp3M0P/ZtaP/JalBAqfpQR1elVisvz3qA==
+        V7KZWiMkaaW+9Du6Ggzl64PH2t934FC/++LVP5buP6+l2fr7p7JTFg==
+        Ys6XZndt34sAimdP7cW0VGVuM+Sg6DEd98r2GViVCRJrT5y5Bgd9CQ==
+        eURWtrWCthRALtvxI2EqlCgdk7jB/ixktzhQCiWM/DCiDEWKKdhT+Q==
+        47O+uYuJxvc836usulGIZtWiR2Ob0r7/sAxlrQmOe3pPs2/OxyDUrg==
+        HkfwImAXKa8P4w0hfHytPRHFp5en3c2RTM/rRnjCBPLaIH5uAG8RvA==
+        2rPyxBdE7qt015qNTodaYwMx9Hn3IG/9ND+99LELnOI3K4Zq1hQ+6A==
+        9lMD7mPkOAh40YpvanTD4DRy0u1n65Fg32G0ZslanZPW0kR5H4QhMw==
+        wqQpBidN2cwCuOYk4u353Q61mIwIdHypE0A44I7rIMrjOoBBNOKN6w==
+        5N90EMyfPdk/fB3iSqnhFmAEbN7c3hmmxA6GT64neBU412GQ9fFC0g==
+        KtMrJb+qvPgcgZSaEKCpqW680mjlqgR6bfK8IqnMr99TZSrJOyJdNg==
+        qenHixUWed7tw+WZFSCtfnP/sx80Txqh3vox+z153ou6aoIlePq7yA==
+        705rzGfe9MfJZl2x+ID6IWcDCmM4CegcRatrnDKnhpJ2jKJovj1Big==
+        SrFUnReJ69n66AFsjpjP9N8oQcn0mFIz2VPn2vddqY39JU9d/Bwenw==
+        eNZB+wYoR9oZgr17PPpt/VF9i/7o+s9VBKCr+vvgq2wXAAiwxzujew==
+        Yj5HN2VOedRQzjaeQF78lTnvzG6oMIgUARCpDCJVAEQag0gTAJHOIA==
+        0gVAZDCIDAEQmQwiUwBEFoPI4o8oSPmoDXJ0VKvpnLp1gUKDUng3aw==
+        gUrDEYCOAo0GJAAbBToNSAAyCgwakABcFJg0IAGoKLBoQAIwkSvT3w==
+        +NBUxAmPwuBRuONRGTwqdzwag0fjjkdn8Ojc8RgMHoM7HpPBY3LHYw==
+        MXgs3njClH868RwJd/4JFQYPd/4JVQYPd/4JNQYPd/4JdQYPd/4JDQ==
+        Bg93/glNBg93/gktBg93/glQ1hUbkfJOvSl/EgqQUgCl8AelFkCp/A==
+        QWkFUBp/UHoBlM4flFEAZfAHZRZAmfxBWQVQ/HlqxPKUACQ1YklKAA==
+        hhqxDCUAPY1YehKAm0YsNwlATCOWmARgpRHLSgJQ0oilJP58hFM6mg==
+        T0JzZyOsMHi4cxFWGTzcmQhrDB7uPIR1Bg93FsIGg4c7B2GTwcOdgQ==
+        sMXg4c8/LktAYoxeY1cpouLPRa5aRMWfkVytiIo/L7l6ERV/dnKNIg==
+        Kv4c5ZpFVPyZyrWKqPiPcwv2xVC6gruBuH8E0F/3oQsfONHar4E4AQ==
+        aoJ+2tiRv5EHI6qp47RapIXsbOoY2RQgXnvNtP2QQUR+80dF7KXkbQ==
+        x31pDdGOQmuKe4YS207J2447KmIvNW87VQDbqbSmVBFsp+ZtpwpgOw==
+        LW87TQDbabSmNBFsp+VtpwlgOz1vO10A2+m0pnQRbKfnbacLYDsjbw==
+        O0MA2xm0pgwRbGfkbWcIYDszbztTANuZtKZMEWxn5m1nCmA7K287Sw==
+        ANtZtKYsEWxn5W1nvfWPA1V6v/B2+GiP4AF0wOPys8CZHI38QLevxg==
+        k9ZR7WK6f2i0WsPX2KYmgfHW9qlR38V3gR3PfuYZGK+zPy21ySn7TQ==
+        tcXpm+r0NOq5m0pdxHyuqCl6ndc+K9fTMNv3IfZryJs5s+1MDmDEHA==
+        +8lrVOwo3a4BwkGf+ficU7xFXXaMN+dRvFBdT3Ow8i7Fi5+ig9yguA==
+        lPctTrlUSuRN7IehJIqDpacPsgcPcotA1GI2ypCYU4Le6kYLikklUw==
+        t8iLwBBKtxD3l9mUdfZwYH/5pZ0cnk/V4Gb2S0c3R42PzWDyWdT72A==
+        7K+TTimcXofQgXaWu2ic+jDKqj31SSKlc9oEpqWuPCbsbRDAXnX1Rg==
+        oHvVIa5gQvrfP8e/MARORFpze7HzyqCfxcnSMfeSew7EAxCBeV3JpQ==
+        OzRcbqWa3J13MCj6WV6XHN8eL7ZZXWR+51IbDoBDhdb8boyFtOCkag==
+        sfYVS4s3xXX8xU9yP/KHQ4c9UPPpUs6RPT7wZ96GgmqmShUkb1FQZw==
+        Fjdckvx0QXJNq1MFKVlBcsmClA0FqTWdKkjdviCVKUguFKQbtI00ug==
+        IHpL2zSsMu9d1Q4t+HdxWBt4qKQEKZHIqaTRlx6rKs3lVlhWTbbPnQ==
+        YCduWojw+NgHEgaLX3gIE+RJc5hcStKPmKSXVyZuf+7SlMaqmcpKaQ==
+        UdugRUs2KS3qpbXIDI28ohKT8Znfr0O5qEP9aR0qtMMb5TW4ODqM/A==
+        Ny2pQZXV4LN1l9dbQWmV36E1Y4PWLDp8zW3VdgkfopJqUwRUWzc+tA==
+        +WmF6SodqVZphSVFvCRGmaOxn6k1rRin8VnbfyBMraf1Z9bpprZeWg==
+        f9QR1C/RYRcEJVqKovK6we9tJw4fSGU94Czyok15hKIqdB4hb5Ma5Q==
+        StyQUCi6RfOrXDpHuiSdw2Rzv6cdhD6FNStPKR9oy0OU5Jd5Snvepg==
+        PtNVjHrRVQKnnKvQV3LpdvIAiNt5UuVnJN+Lggtpd6xYKqMuHFO/7g==
+        9SyfXkiQS0vIEuWFBIWVID9bgrKUoG4rQV1K0LaVoC0l6NtK0JcSjA==
+        vARmIGMuYu6VjC8n+UfRmRalPRODscRgbo1B2Q5D0hguSre21aG1lA==
+        UC8toUi7iV+XD40inyaiSsYIQ5SJiHVBsldNqCD5+cfOPdlbDGCsGA==
+        I9B2isONlQWbOyiMoBePhsSF5K7FMcO6VwKrEnNeJp8d+dlLVJUVRQ==
+        d+UyLqzQPdJnsn+ZTkzi5jTk31WZpEu1qi76W6uLtrYq1nZVeTpn/Q==
+        gzVJcsBVValvV5WnM8g/WJUkR1lVlZhotqnL0ynOE3WhRzNzBJE+Eg==
+        eiAIR35ED4Km1+bUkv5ae2rTXjUnZa+aY7Tk8rPOdUqlJg/O5wyyTA==
+        NHs904a1cSPranmpimksxfoNjM+69W6nauwPL7X7e/DTkbcVqxsbzw==
+        Tt9CbG3j2VJbCJVr6sbZq61UYC7FnvUOzuB4etW5UzoXrUt/8CWKag==
+        s+3EWvWNC5e2AVtXN54Tu41YK3Xa6cyywgfFvq7C3sVD0LXv3V51Sw==
+        1aqWuvG8wG3QGulhuQOjdaMZh0H3AvTk88v96L55erilbmV140kZaQ==
+        LlbgjsVsS2GCZTHvQooEMRVWFz9JGUlfT7rzsesCDwxjAOkxhfFDgA==
+        MOgUVubdTxCNpOR30jn18YBkoEvgRq6bmoign0XekOSDjrMg5ur3+Q==
+        zBDywghP3PlJfKOJN/7++X8X1xu2YXRhZAIAAABETlNTYmlsehYAAA==
+        ABAAAAB42mNiYGDQ9fTTNXXP9AMyGQARpQInAAA=
+      >
+      FLOATPOS 755 140 1023 702
+      FXID {6B3C9D8F-1F46-204B-A925-A6D653D2F226}
+      WAK 0
+    >
+    <ITEM
+      POSITION 452.49759375000002
+      SNAPOFFS 0.00000000000000
+      LENGTH 56.13226041666667
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.010000 0.000000 1 0
+      FADEOUT 1 0.010000 0.000000 1 0
+      MUTE 0
+      IGUID {17EA05B5-57C8-AA4D-B6A7-1CE08DC7E84B}
+      IID 802
+      NAME "02-Outro sus2 arpeggio-120424_2017-01.wav"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 0.00000000000000
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {2E64DB86-8004-8847-8184-95EC80CE71DE}
+      RECPASS 394
+      <SOURCE WAVE
+        FILE "../media/02-Outro sus2 arpeggio-120424_2017-01.wav"
+      >
+    >
+  >
+  <TRACK '{2AF13F88-291F-6149-8C5F-32C290F1ED1D}'
+    NAME "Teema lead"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.47543563359423 0.00000000000000 -1.00000000000000 -1.00000000000000 1.00000000000000
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.666700 0.500000 1 0.500000 0 -1 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5000000000 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2AF13F88-291F-6149-8C5F-32C290F1ED1D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK '{2ABF609E-7C83-384D-BED2-A87114BC8911}'
+    NAME "DI"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.00000000000000 0.00000000000000 -1.00000000000000 -1.00000000000000 1.00000000000000
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.666700 0.500000 1 0.500000 0 -1 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5000000000 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2ABF609E-7C83-384D-BED2-A87114BC8911}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 128.19826797637759
+      SNAPOFFS 0.00000000000000
+      LENGTH 36.03265910695575
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.010000 0.000000 1 0
+      FADEOUT 1 0.010000 0.000000 1 0
+      MUTE 0
+      IGUID {8B9C1286-901B-A84F-8FFC-362C3431E3DE}
+      IID 813
+      NAME "04-DI-120424_2034.wav"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 0.97426797637759
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {55E3D8C3-5873-DB41-A5E5-24AACD23FF2F}
+      RECPASS 400
+      <SOURCE WAVE
+        FILE "../media/04-DI-120424_2034.wav"
+      >
+    >
+    <ITEM
+      POSITION 298.49883999999219
+      SNAPOFFS 0.00000000000000
+      LENGTH 24.67855899999284
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.010000 0.000000 1 0
+      FADEOUT 1 0.010000 0.000000 1 0
+      MUTE 0
+      IGUID {F24EF815-A7EF-CC42-8BE1-D1158FE68842}
+      IID 873
+      NAME "07-DI-120424_2121.wav"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 0.19427749999221
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      TAKECOLOR 33488896
+      GUID {0F7FCB7E-1A16-7148-86CD-5DD4CB2D9D56}
+      RECPASS 424
+      <SOURCE WAVE
+        FILE "../media/07-DI-120424_2121.wav"
+      >
+    >
+    <ITEM
+      POSITION 352.14795805888809
+      SNAPOFFS 0.00000000000000
+      LENGTH 34.74415470377750
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.010000 0.000000 1 0
+      FADEOUT 1 0.010000 0.004781 1 1
+      MUTE 0
+      IGUID {C0A9C403-E658-084D-AACD-08AE7BFE2998}
+      IID 825
+      NAME "04-DI-120424_2050.wav"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 1.08456222555475
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {6E5D81FC-A8BC-FE48-B231-76776111D4FD}
+      RECPASS 406
+      <SOURCE WAVE
+        FILE "../media/04-DI-120424_2050.wav"
+      >
+    >
+    <ITEM
+      POSITION 386.88733184283240
+      SNAPOFFS 0.00000000000000
+      LENGTH 22.79020982383429
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.010000 0.004781 1 1
+      FADEOUT 1 0.010000 0.000000 1 0
+      MUTE 0
+      IGUID {BE95A58E-7055-454A-89C5-C02F33E70E30}
+      IID 837
+      NAME "04-DI-120424_2052.wav"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 2.52605059283241
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {B955D345-1171-A345-A9A0-5390D4346536}
+      RECPASS 411
+      <SOURCE WAVE
+        FILE "../media/04-DI-120424_2052.wav"
+      >
+    >
+    <ITEM
+      POSITION 452.60528816166692
+      SNAPOFFS 0.00000000000000
+      LENGTH 56.01714933833307
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.010000 0.000000 1 0
+      FADEOUT 1 0.010000 0.000000 1 0
+      MUTE 0
+      IGUID {3AF90228-9644-6844-815E-C26072741E0F}
+      IID 845
+      NAME "04-DI-120424_2056-02.wav"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 1.36311107833359
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {86DF2325-4C3C-554A-A72A-13D9FF8B0CC8}
+      RECPASS 414
+      <SOURCE WAVE
+        FILE "../media/04-DI-120424_2056-02.wav"
+      >
+    >
+  >
+  <TRACK '{AF0592B6-A566-344A-932E-01F1AF88A602}'
+    NAME "Engl"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.00000000000000 0.00000000000000 -1.00000000000000 -1.00000000000000 1.00000000000000
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.666700 0.500000 1 0.500000 0 -1 0
+    FREEMODE 0
+    SEL 0
+    REC 0 1 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5000000000 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {AF0592B6-A566-344A-932E-01F1AF88A602}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 50 328 1262 730
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0
+      <VST "VST: Guitar Rig 5 (Native Instruments GmbH)" "Guitar Rig 5.vst" 0 ""
+        NUdpTu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAA==
+        AAAAAAIAAAABAAAAAAAAAAIAAAAAAAAA0S4AAAEAAAC5AhAALWluLQ==
+        AgAAACNOSSNDUyNEb2N1bWVudCMjTkkjU291bmRTaGVsbCNTb3VuZA==
+        IwAAAAAAAAAAAAAARQEAAGF0YWQCAAAAZG5zc2JpbHoWAAAAEAAAAA==
+        eNpjYmBg0PX00zV1z/QDMhkAEaUCJ2F0YWQCAAAAb2ZuaWJpbHrmAA==
+        AAC3AQAAeNpdkD9vwyAQxXd/CsTe4koZOmAytZU6pu1Udbg4OEHGdw==
+        CB9RP37xnziut3s/3nsH6P1v58XVxt4RVvLpsZTCYk0nh+dKfn2+Pg==
+        PEvRM+AJPKGtJJIUe1PonhJmU0P38K4spSkKIXSIFGxkZ3uTZQYInQ==
+        Nd8fRJ5agBDcj1Yjm44h8YWieYfotJrF0KPWRQM4Ara3zmE2b8kxRA==
+        cXBnsdNqRGNwNg5zTV3IV0e+BRewSd/51newjbctU9yYVnJeBszRHQ==
+        Ey8vX8CkM7mCT9a8NI2tWatJTV71z7ySQ7lWy5eb4g/MWoubYXRhZA==
+        AgAAAHRzcnBiaWx6Iy0AAGGUAAB42u192ZaiWtZundt6ihh564gSEQ==
+        aXLkrn8sGhUBAXvjpgaiInYoKKjPcR74fDNaI5udGbmrdsZfZ+fN3g==
+        y7WYazbf7BZN3NjO6P/87W9/6//fv/3t0/+cNuubfJZmcbL97UPlHw==
+        3Ieb2TZMpvE2+u1Dv1e/lT/cZIdgOw3WyXb224dt8uHmf/75909Reg==
+        G2+zQ3rczLaH23Bx3K5uJsd4Pb3dHjeTWfrbB16QxA83YbLZ4UKs2Q==
+        BeHqNp5iE0XiBEWUZf7DzTwNNrMiSR9msPkmWCbp7TNDNfwSh2ny8g==
+        C0+/bK/X4KpdOstm39jiEG/A93A2vWG79Iav3VTkj4LykRdueK7Cfw==
+        +Off/35z8ylLjtvp7TQ4BJMgm91E62QSrG83s0OabJPN/R6LGJvcbg==
+        kunsgdF4GkPuYLudrbGh+KH8QAmKScHGTbDb3R7Ou4fFLwrGfjf49w==
+        aR6fbp91k91AabfxYbbJsKT6uObzVTckmaxwHAhuAxKqYz0vxWJauA==
+        nh1mLz89/vjtq2+OR/q5HdalVWvR64TdmWbmWrwKLvXot98+XJO6Jg==
+        dhsd49dzmM3jWXFlb0izWweH2e0k2K5++/Dha1MPjBDCknQ2vSUKjw==
+        GhagtM9GWTxZ4//nwTqbkbZfbV7+Hd6u+A6O0zi5uQLTF1LsAoLkAQ==
+        K+AIAXbENYdkExyesEamellEJiUHOcThq4WVLyhf0743RsyeLGFuyQ==
+        xcIZCw9xPoOswfp4D5wvaYAKIfSKg5t0tkmgy01wumfmaRjfs1v+Cg==
+        G+Xni7+Q/mUq+7aC75X4CmUvk1d4LH8JyE/Pjpoenjn7VH4F898Bvw==
+        eI3eOLqxki0cdP1GJ/gWlUdnODhxsRR73Y4lFqeSr7R2lqz7fznDDw==
+        OQP3DWcov0c0Vb8OhBv+rYD6NqFHTOkuP5WKzcJP9sN40Rxw/IIP/w==
+        wtRfAfaduYT8LSRX31pofJvQo0sELRZv/NjoHbrz1YDLVJ+JwV8u8Q==
+        l0u8M5fgr4DM7i1pbt/oDF8l8egG9kCXxKadd8ulpdFXM0ubG+KvLQ==
+        vSuv3KDyV7Xxb8FR5Soeoj98I4Q+v/oRPfvZeVSs+3xn6E7EfVSaXw==
+        vDkr/gqiX6Kn8iV6pJ8NolcxdHc83DSCePsSP/9R+9Mj6BcMNp4YbA==
+        wFY37rbszufPHFZ+PX+9V/z1FnCsRbKeXinxHTDpDJ64dIKMfhwk6w==
+        4+YqU/5DFmtVUf71nNpPjNrxJqYfP7M49w5Y1J55nM0PN9rDudl7wg==
+        ZEe7KlcXX7L4V2H0eft8fZbYC3YzfRaubipv7Z2/QeUxweVZX17Fsg==
+        3+3Eg4xZ+kJvKYP/ogR3gMRTSFwJjl9w/TRHEPsCOW9JjT+THJWvJg==
+        x284wWtPWj+7epLsvuM//wYP+o6bf8HeYfYMNxg7eYlB3PthMX1mMQ==
+        DbbZLslm71CPx2cmj9t3yN8uf+Lvy8QtiGLlvfCZPvPZmYVJOv28zg==
+        eDeMxt7V2cEsPdx4SRZTXHh/tl9n1zHopntAinuHXM5ecWlsp7/c6A==
+        3645vlN10PQ3ktmfVZAI15UEQlL6xlLky+sfi5BNK2maXW/dWe+V1g==
+        QPVCPrmzfu1RJf+qCOHfcZct/nAh8Zl31JMnY9STdPWempnecyDsQQ==
+        bTdefAgXz/yJyq9nMDuk4fbwxGT3kCaTWVmjBw3ekxqnu7dWOX8qew==
+        6fwlL89n6WwbvrAnCO+Awcx5tnC8piDmIBj87+tXqdOhaHvz9GhN+Q==
+        lxzPXh/SO4/P/czeekr7dSKPaWR21+qPpEWn5268ia0l/HZ4Pvr/PQ==
+        R/1PT0sFx5twTU9izeP1/elZGG8PSba4aeof7XiSBun5I9vt1nF4nw==
+        DG66x90uSQ8f2wHdiboxnx8ryz42jjFKtxu6gVj7qCXbA379+KzYjw==
+        66TATvnsH0WAIjoExdXtJD5sgmx1L83DL/9xNhbxFReb4/oQ79YP6g==
+        fNC8UBagfPLRcPbC3y0dcmyn9KgcprH5w//92Y1+7ecbfa947lN/6A==
+        jPkXlNjd7XOMPG/D98dfb7P7xmlEhX8vPDrPjb5zPLzDvnSw/majXw==
+        +9/YRr3E0T+cCF8ReKJ7e7XgMUQ+xGuEptvn2Pkqjl0Fr8cVAq8Iig==
+        KPFK7Qei2B8B/R8y1TeM9KLj268qC5d9+fMbTsavnzBkmx3bButz9g==
+        5n70m2Qe64mJOImlwuz31sM7M5+WvMJ2en89tfvf9+hArXYFBO+e1A==
+        0yHh2xD1O4QeMTWvLFvdae501WN55ztmMHRN/tfWqNwrTHHv+Kij9g==
+        s0cd3uCNGexP7TP1Z+709Pxjp9N/Kn/DZ/6GV3h+P/w5o+f6KT69Jw==
+        xrzRVSy4oeeKbsBhvI3+P7np/YrAPcnb5Hi4/caKP+a1/4ky5o966g==
+        n8LTj6L/T2HmZxD/pzD2xhj2nymKv+MCf7AqlrivPenx1nctvkXlsQ==
+        flnOYzFQ79LOYbgLi9Rfalxf8f/7nhfh39vzIuLPHyP9b7lR/86faw==
+        ibvXR103veTm4bnFv+7O/9fcnf9f8+zIv+UxAv7XPEagXD+R+Pjobw==
+        ffTGNPUNIo9Zyhj1j7agxL4TTwbHZTQapnz212P7P5Zpfvrdp7ferg==
+        eJ/3Sl9mw2R7CGK6cxo+3JK6vbdZvI4P5+czr5dvDHytEoS1j+t7DQ==
+        Tic38Ra0Xj6rIDwRwM8hLcmeiULpKfwmTYrs9ecN+C92WCTZ4cpQ2A==
+        5nN7yv/xG76f/fio8E/bZHv7tYkvb+tW5Ou3GWfz9WwFB3ry5nExDw==
+        15y78o+zu+E+rta3WyVmr7z52578HS+uByF2Ov+OM5tts/d9h76+tQ==
+        e0iPr/z5m74Mrrc5EgoZLp3ByJObxw9ecL996OuHhbdmykUXTe/klA==
+        wW7Vq3b2/Z4cjHi/vEzuzt4l0mc9JWw3jTJ3HAw8edltXeTCPWSluA==
+        nSjeRuMGdpXpCV/qtuxLHu9icyIPjV5Q7iwyLq8s9WZa8kveuRS1Sw==
+        fJ4vjLtJLTrbomJqYd/r6VbjIo7tIVfiQcxbqc7dRWLzOCoZbOt7Mw==
+        FowvPMvbhcw02fEYK/RJxlzdFAt1WPUaLJ30qkyWOIWxdOvdqXOxxw==
+        FYFiKHJ9X3iBWo4vFXZZ+kpkGxvPVDlZukTHUUnpN86jvM8uoVRh1Q==
+        aUOOtC7zLL15t6wWc0lWDNMreb3lxujVEnNhlPrNpeAN1OSgc9GxMg==
+        VpjeFcDPeH7Zs/VQlAu9fMw1dvGkSqQnZ8yLpbzLfMWujOvqrOS3nA==
+        Sn6Itv2JZHZ5t6QZhyTfLMXxRIiyereUsamWrzXWkiTf8K1SZFqr3A==
+        Z2EtvbD+RJBDp2RBnpTTq5GSc4pZ71veThO0pRBdyoJitDzfG+q1VQ==
+        j4vs2FFYQ409KO2U5szN9vLYGBj5QK9vJY6lswDzxjCPly1HqvmSMQ==
+        K2XtSidP1UFfqhVcXyxZrFbPl2qrbQuJsdiXCneS5mONW0841poHMg==
+        s73ALfRdWS9YcvYVs5mNvFALuMuZlTqCHHmhmLts3JB41jI3imxapQ==
+        fKpqglT1D+WuknkSn/f1hZRyxXnKK5nZ1MHfKEkrbCa4ytjrhHmo7g==
+        ehIX1dddJVEXgzxkFz+tRO2TqPjNnM8Zc7hJwcbyTC5UUciZXltIBQ==
+        M8tDibUjz42Y27lkrN8+ihFbmDnT6pXJmXW7e0UwOnkesPYW8vSzrg==
+        Umi9NO8vOVUSC0/dlGZM2OV7ddueQD+9fSlTs2q+YZmVSmzdCUqreg==
+        rsA+w1Na9SMB+rTTMvbvzntZJJ6YYrY7F9hrutGrflV0FEEfzryeag==
+        xXolaqwIj90K8HMQ7TzaRGeMa7N8oKmLSbVIxkfFsOIm5L/MgCe3Ig==
+        Kok+ruVjVjVSjrVLM/hD08tNrVKzz1Fb1RTBMoU8UHd3doU541jpqw==
+        4jTvaWE6qUaW3VVYe58Bj5XNhIvkZklJrEEnn2m6Y/NRE/o0be4uHw==
+        69uWzUXdlasI7QWP8XwLfqaZq0T1+SqfqFZpUmHJXFQ4e8LlvnaqTg==
+        4H/2XmHqsJ139dC2ObbfDGXGdobX0Hl1ybO7fl9hrUPu9bXRQq8Wag==
+        skJQ2ejeUF0FvUqkLjMlcR3dC9Vg3SuY1DKkSM3uckM/FTbGi6MSqQ==
+        d0P463QBfCxaIvCzueRdLTph/0W7ociGPsh7ausCvAmTkhJ5pSSfqQ==
+        5hLz9kBUolYRQZ7uWTqzVf8sM7PWPxaspAMfnMAk5iU7t9DGu0nCxg==
+        JR74GZyx/yHH/l3vLJttYwR5j9akEh0vruLbKx76Ux3YBz8rJnOiPA==
+        1Hd1yB8yHvrwHey/MaCv2ekMvHEZ7Lnyoe94MAN/6wPoFfNJxT8nsA==
+        HxvUYL9TYPNssg5Ab2rmQzb0pCqr945KYXEi1tueXY3Gl5JS2As1Dw==
+        tYMP+q0Lr0RG/wz/sE3Yf+MDj6bdzpnajeAPK2cjQV7OFXS/p58Yqw==
+        cbBPUAb+ypflme0z+Ks50T2DyenlxJp3fTlqtS+IlxUf84a6khlcEw==
+        +gm30Nd8aUqstTi6keqfJyvWtLsic6P8iPlEylgr4uVIX0xyRxtt0g==
+        gvWcvQx/reWGWjMmfJSpsE9dXuVjtd2EfJOOC3xyRt7XTMm+sCQryQ==
+        fiMuclNdLqH/tA88mXYH9KO1vWJF6EtRfVAHf6cl8KKIyA+toOQZ6g==
+        sVhC3jSRmSruPJPVl5eCDdYrOVKjpgf/dHsZOy320MdyehRUxUzPrA==
+        2eMhnyAjPuQm9jNcTWLWaQB8ME0fs27Ux/qkB/mZ2UvY3UKUGJPsow==
+        oEctkm8YyEV770FeeZeemJl2kSRFLnfUwd6Gfmsa6Ctr0K/S+ub0KA==
+        Mfeudiz0UATezo1YZFbMHSPd6KfQn9yQIhY5sN/WAj+sC7y6/T7i3Q==
+        hUP+M1YB9K/tXZ85/WXGZraDcZ66hepovTMbqg7s6/c8U/M1xGejtA==
+        kli9lIF/09EztmJ7kdWHdejzKINeOW7IrOlXoe+ijXjqqXuZObp9LA==
+        1LAC/o6mD/8wdtDfJO7BPpNMLozlBmOBLavRNMoUX89sr6+vWI9j1g==
+        0cD1jQvw1I+An/7Zl5nRjd2CZUs9YcxqiEy7dI4RY7IeMbtpSEw3bQ==
+        8OuMQb9Sg71YrHiGNuLBP6yKfCNVYe+7MuS7eLLM6r7qddWxqlfYHQ==
+        WymCF3leyNz6hY8WC04Z1/uxN1Plls6x0tkEvooQ8aZiIN5Aj6gXRg==
+        I8/Q3R34qw6xX3tlwR82I+BD048iUzt76Kezgz3WAexVt5oYJwzjbg==
+        nYnIrzzkcSr6kcU+/If1U1wPBytYODDgP0oI/Kl34N/bZBQPq56jBg==
+        C/DfazmoN44rzBeH5YUJYSj7rfIY+L2IWO+WQ7nwIF+ohuqyyhosUg==
+        4F8Nb6z32ZJj8ZzmLzHobc5Yz0Tg3XZtj6ncmPIvsMw84QB+9g78IQ==
+        6GN/rSJAv9oGY3kC/9d6sWepI9grahcC8qsxgv0GjQvHRqcC+dwcYw==
+        /46h88xlfSVi5bNn6jUe18/kkPJtDfudst6JSRPIq/ESxs2LfmbSzA==
+        hL/1ZE9TRxrwYZ36iumuptB/uQV61nmlRLqTeaE+tXvVaH0WFNNzjg==
+        2G9sXypRFsuK0OhTvshs2ItpCey5Wnld1muC32ThK4lR2KgPM4b6Tw==
+        dTnZZ9Af07Yn6DeSQpm1uwfgR9/B/7d7B3h1oS9dTKCfRhDJvlbKoA==
+        PzOFvQQR8c3axND/YoPrOwnw1bAM6GsUQr/cYAx6XAnjvo31pxjj1g==
+        iuzddEG/MoC/uUoF+jFXiK9xkMiR69WxX6eK/To5rQ8N2K+q68iXqg==
+        rxSmAzwyZkLfy26oMIftoH/XgnzuOVLGDW7tjbWV2eOjPvBcNKI7rA==
+        j+uoZ4NTqESNJPC6WrOJcX7uK4JbpF5XjxzUp/OLg/pJOENfrg1/4A==
+        zqHiO87UCzQG/LNL4SjIqsT//oJ4b0lj8MvHkO+8Af+dVoL4xSfwjw==
+        vAD/GzeSEa9buP7cXPJRcTEUwWwz8Lfvwt9zA3hpL1CBqrIP/sc9Xw==
+        EZrJ0uszw4B/lsqQn6We5zAfG7KyUMA/pin2G3dBny2hr3aEekhrew==
+        0HfPwFi/mxBeJxivqwXsxyPes7sY+r4IsE972PMcLViD3rgGfNcbcw==
+        xIdyAnmYCH7tbob17QzxxJ/4yD9xBfsPDvqFqSlDfbrZwd42rd/ccQ==
+        cqFpAa7vbYBn7g7y26Up5ccE9i5EXK+dE9qP+G/tZdA/nkHveCD/mg==
+        AD+NWMb6eQ55ZpkhF60R8qkunXD9MqP8Y3uQr1JZojhUZJlQCf52Cg==
+        5Es9DvUFp3lDbaH2eIB6rIyZ0YD+uqqOfMkM1Kc58rU6LsM+npfR9Q==
+        Mugvy4hfXGQofjsBvtidhv7AYZkydos28JKQ/8K3lcI1O6jPGcbR0A==
+        5xTB7ptewEYM+Knk4N8pkz/IVejjdDDh37mJ+O4X0Jcnwb+aexn2OA==
+        5fDvsoT9PVeAPtIM8mz20HejAf0xM4Y81YYPecMq4UvHOJ4ivje1KQ==
+        +gUuRHxV9Az5NfIxTgTkg4ktiKx5rqCeMNJlgn4hE5nBEPK0YoH6wg==
+        aJQwjvdHEM1t5EsH+cO4NGh8lGi9JjKT9V2m9znQMzZ9yo8c8mGh9A==
+        jgjV0L8mUD1T68C/Ze4efy3wJ3mw1/4C/205hMe6BfniM9bX2QH+3A==
+        c4A3G4BDkU39Z3MEfSdDjOtr2Fs/RcCDNwZerUYXeOpvQd8JVrLvnA==
+        OegzywnvIeKN2utQvK/gejYdI97bLubLND+g+N0+d2BfPsT1MwPxlA==
+        OUPs59UoX9vIv9oe9Zc+PyHf2AX02+5zmDcmsJdZC8HPGflRZxXgnQ==
+        HWXQH5W9hipQvtjnglw0t0esX1Ugjwr7RU2X/KsRgh/pDP9pjWAPdQ==
+        34Z9omZJQFOPfKeWBqjn/OYM9uusUa9kJuqFjSGKjMWpG+ndO6y/sw==
+        x8jfeYH6YqTDH5Yd5Gs9mwPvpTrs350XqB+0Mua7EeQRIgH1VFSi+g==
+        UYZ9R/YM9FiD6q0G9jPihsQa4wRj38d41ES9Vu9if82p2Mi/zAX/zg==
+        NDf1xEW9Eg82cuTcSbmBVh/1rtoqAY9iiv4ozFCPyRML8aSETpitNw==
+        0oVFY1yvt9q5yQY61s8C9IvGco16ZBWhvtsbwE9ds6GPYIP6anyHsQ==
+        0TWofhpC3m6MfqGtAa866/RQTTU3IvN6S9RvSQn10soivOqlI9P84g==
+        kjBtJWO9O8D1/gHXpw7saaY6xk6GenrbCqGf3R727VrYb+QB/w5q1Q==
+        SC8uuH7VXqE+vNzBH9gZ+FatBP4Sa7R/A/7CtDOSoJrAHwwV9clk4w==
+        wl5n6E/fiTbwckI9Z7YMyNsKUY9exkfkKz5AfWon0MfOcuHf7gT9qw==
+        H6M+1al/a5sJ9JVfQM+OqR5WsZ829sDveYz63wvAP+pV2PPS9lEP6Q==
+        0tFXSx7sw1tn+J90AX6UOvR71yV77FTQz7oY+wbVsycG+xwsjEcdqg==
+        P3X0D3rtBHzxAextHBewN0sxltoW6mV0EKj/bPTvxQD2dGon1NtiJA==
+        nRCkYf8m72C8iCFPR6D+GL7FtFGAfk+sx8hvFRvjtAP5jqsZ+LlDfQ==
+        zRZ97K+soY/2YQM8nUPgaVPdoH84iai/ezRu1EvIL1OD5k2MJ2Xgsw==
+        uUd/oI1racJ4DfVg0/eAl5JL/eQS9mwxsndyBJ58laux1rIHfG3mkA==
+        J1RcKbKFIehlPvY/DUvIN10H9qknsI8hQR9Wo4T9qyfINwiPclHPwQ==
+        vzo/T05MyAKqLwzIczihX5rKkM+RupDHrGHeLYty4STtfKiPmnYlqg==
+        aXuF4nEe6IlvV1mlP1MK485G/yx10U/XuUApnELJh1rZwZidMbb9cQ==
+        7utVTeKYFGmKr+Yn7OfReVTiNtCfSRH6uZKA/ddt2Fcth7nDhpXJBQ==
+        4Qf6s4Y18MPtYC9ljP6qrWSQt+9D/5Mu7GcXLuzpadBnd2GhPwiBNw==
+        tdWF/FpDpPrLgj7SLfofy4J9NKsK+zYL+8TSEPbTqw72H11A3wmpXw==
+        GWk5xRDwswqgL8bPc0NbrKC/qrlB/O2iudPWM+y33w4RX0/gT5UjXA==
+        vxJi8Cv6oDfdYL66t6Dv8wHxZEb02lkD8jUb2N84gT8uPcq+G2d03g==
+        s4G++XEX/E0jyFe4kE8+of81TNhTO6voL03/CLz1B+AP+DmzDG1XZA==
+        Gxdc77qQb7bcox4xqoRHB/svNOCXjWeg16sDv04HY92fYr5qgX5jKQ==
+        Iv63Rrg+n4I/KYH9zeMA/BtbrG9a6Eed0h7z2xT8iYEI/y6BX03cYQ==
+        PK5h/3bJg/zcAvy4TdjL7CSwx2iA63UD+jCL8j0+Ie/cgH7VwQj2kA==
+        x9jf5HG9WudwvTaXqJ6DPlXexv7uEvxsxrCP1RFAzx5Anks8JP8ewg==
+        v89mSudxIfq/+ID4oTDUR+dFRPUC5aNMQ36aHlAfmEET/VUyR3yj3g==
+        AvEU/qbvLdLPEPsZMzrfkBLYd0P9tp4zyCedgM95BnubqUXnfWfM6w==
+        Duzh9VzgU+aAz2TaBX70gPKBgPW2C3s61TPW8wrkK8+HwLd+Av9nEQ==
+        +WN+BB7UCeKl1uGgr3MIfek2xYNKgXElw7x7MYA37gT9njLEU0ek8w==
+        wNOR7GHvZd+2ROBhnkOfKwn+6cXlHD02nW/lsiYXba0Eeo0j+CulGg==
+        8vd5hfjsr0l/yFesdbcAPycXeMoWwJtrb6API0N+zGtd6OtsId7aKw==
+        xJeWhfiPHIl5xlP8zkWKNz7sN25CPnam/BkBT/pSp/jmIl6zWYHrGw==
+        lO8l84z8o3XciPk95KtyC/m6OUc+1C0R8Y1ayEhDfYp6ScVgz9DvWw==
+        NuX/CY98MJxQvgu2iIeTFdZbJvJFo4X6hY37GLsrn+I5WhZNtrDeiw==
+        UD9YcQv1QKGgHvDpfMa12sj//TPkib2NBH9CvNA75A+WCny2xy7stQ==
+        KUE+MxRB/xyB//ME/Hsx5Z9linzcX6M+DOoW8jPlR211Rn4WltCXag==
+        daEfn+oJgyF+NUPC83yAeCxuqT7Y6NB3dwF92QnGdqcCvIQjjCUD8Q==
+        yhKQLzRLw/r2LIb+m6hfdOsAfpUU9YQz0un8gAc/RXkvRfXMA72E/A==
+        39Y14FeGf2hyG9c3zvDnOhdCPonR/g74N12L6h0N/EUaJyAzaNCfMA==
+        gb7aNdRTdf4E/XlUTxT7hOqjPuyj0fxZw9jtjaFPc4L8g8a4xmwtcQ==
+        fa3gLqhX1L7I1EiCfcdd1BOuxomolwvXZ8XCXrEG2d8SNMpvHuQpNQ==
+        ke8c0YN+L3S+p0nIx+amCnmVFOP93Z7OA3nYy3CwfuiiPvcWB+i/WA==
+        gV6imTXUU0PQZ+okYsPGEPszB/S6AenrriQxWyJ91QXIO/FQb2o+PA==
+        Wh+RPspegLHXx34q7e+vMe+dZeRTk6E+GmsO+Jkh/2q9AvqYu6jPmg==
+        VdRT6pjq57SN+s0pU71ySIG/QWuFerWrUr01QL1VoXxtFcAri80l1Q==
+        n+hXjHGE8apJ+l2AvnaBvjRhh/36LaHGzIVE53UN4G+67T7WK2xVgA==
+        /6kCfp3qCmNVBL+LEvhV9THGtSPh4Q76dE2Z9LsCPjc66rmWuQL/mw==
+        BfYXLA70LrC3diJ5OiL8T7fa4Fem+xlau0D81MauryYL9EN1toH+Eg==
+        AfqRu6C/NsCPV+ywH9pO1BsWj/4osui8bQv7m6YJ/+6iflflNezvqA==
+        Buo3NkH9llioZww6/2Lq8uhrPkoGtiM8WbM59m8o4KeloZ83Dxb6lQ==
+        uzH6hw6f0XnXBv1NPkA/5V7ofC6M6HywhPXt1KHzTsR7zWrAHi1Hpg==
+        +nVN/V0CfXIO8KgB8fB3n/C7RfzQSgHG2g76qLUwZg3EH80dQn4FWQ==
+        nZndBPxHveWKFcYe/GoVyJcdwX/QgL87zIF+ogz4r8fUfyxkXN9OcA==
+        fcdBPKqPhpCnxoN+nmG+3UjpfHeGcVWleRX9J0saiBdeG/W85qew1w==
+        kM5nPWQViH7vH1Rvj2l/l+pj1SG8OAnw5DYU0D9SvFSoX7P9FvrPQg==
+        RT+0mcGe9WUL+KxtIa+1pn6jF2K/qKuv2LmFftZidP7acGG/gwE86Q==
+        7Ejn6xXYm5lGFUGT8iO3pH5tCv02WBP6XzVBX9H6yKfFCvYZ1um8xA==
+        R3xmPRfrrTXh6z7+XrCfmrSpPm07AmO62YY95B6d51N/Mb6AvzjGeg==
+        fULxpBrT+TJDfzzyI+QjDv2zbpE8sxzx252gv9eGJ8jDCK/NDeyn7Q==
+        F5BfbkAfTofwrFF/k8ewn9PSiX6IcVEDP23riHmdrk+m1E/qlC/OZQ==
+        9LsGo/44GkGeUgv5xr2QPp0S+t3UB97iPvp33aTzkZ1L5zU9Oo8bHw==
+        MD62gE/+vh9lPfSjZR399XGB/FU3pphXHPC/X/lYv+hDf9YI9IYbBw==
+        9fSBzsPkEdYbdcx7nTrWC23Iv4wNyp8exv0y5BNL0H+7TPa8o/jS3g==
+        gX+7AXn10gT28TfAk96ZQJ7uEPI1NohP9ZaE9ec15rMU8jfzMcVzog==
+        F59oPyGBfBzJs1iBn/Zag76bbfDnkH2tgs6TfAX6W7RxfaNE9LQUYw==
+        P0X8aqcN7D8RL0eWMDr/9eegp9p0nknnHSgNgMd9m/p/HfSa9+cJsQ==
+        A3lb3YLq1S3mmy2M+e4Y+T6h88KSA/nvlqT/FY/9XbpeXprIh9we/A==
+        2YS/O0bnYU2KZ6sD5JVN2NtWXcr39fv4NUa8ifvAH5sCf1EL/u8sZw==
+        GJeamPeoX1ZVEesrK1wviqS/LuU7+YB5QYK8RonudxQJ1Ru1iPrdLg==
+        9DsgvNab8Cf9DvFE4xrQr+WhP9V6W/JPFeNxfN9v0/ppBHqpCHtYPQ==
+        hvGwSngth1LkMgN4aFI9uosQz9QM+NHVOuSvnqA/O/OBj0LHeOyvYA==
+        D6cJ/SQq1mtFCPywBvQzU6GfiR+i/pXh/yyj87CQ7hdopk/3MwzMzw==
+        F4inthCCnm7i+liDfzXH0Kc2t6D/7hn0mhz5s2ZiXFoAz4YAf9BlAw==
+        +zNG90cii84/ddCrqbCXYQC/qmUDLxrdD1BrHux/GeP6fZPuD7kM4w==
+        cQR8ZVsOeFBz8qchxvYS8nr9Oej3S9BHZocUDznoxzSgv7jlIL/rMQ==
+        6gk21CNWOGeBGZp5BKhKGBvtpMbaahvxXd6ifl+5WI8EBHsxur9i7g==
+        KB8EqP/0O4q/NsWPpgH/0i+kn+kJ8cotOuBHIf26PuHLW2N9XmD95g==
+        Hg9n8rc+nSfWGxibO8KbOwW/+wTxymjcYVxOMD8KMG/HM4wNirfxHQ==
+        4lMrpng23mEs7en+05Hm+S3oqyLk1UUe+61OoFdtY2zT/upUQTyaFA==
+        8EczccHvqAF9rbp0P2ecgt8SxRNt2Sd70nn2lvzFp/tfptOh80YF9A==
+        7uSCzic3xM8C/A0N4N0bTwjPMvKh4QKvVgT/VTmb7rc2gE9106L6OQ==
+        AX9TCdfbkxHFTxn8SD7DfibwCuUDP9Uy6MHWWC8LoF91yB806F8f3w==
+        4fo4Qn9lLFZ0ftRNV0w1qT5Y7pA/jTrqsSym+oGtqN+i+qYRnamevA==
+        oN7JCuRDq4n8qqmto6/7TdhXsiLUc8uI/FlGvTAle9cvqOcR2jDfbQ==
+        od+rnxtU388xf2fC31vdJfbneMw3Vei/blK+YV3qD+rAg9pBPGQi1Q==
+        Z8s12a+D/M94H/LYOuYNP4c8kY35vQ486WOKFw6dTx0Ng+qfEsWfNg==
+        1RMLOm/Uz9ifW2D/SJ8J6Dfu6LxOR70EgGL/XUz9wITq3QbkbyzqqA==
+        n2J63mjTpPuleor6ta+A3wrFJyMmfrwd4YPyo57XKd5Q/uqjK2XovA==
+        qF7bgt9kh/jEtJDqAcKbsCf8zYAv1TuC/5YUUb2QgZ5P+UCsy6QP7Q==
+        Hg+obyZmg+px6n+TEfiNBfQ7Gr/E2NuDP26vgR+e+gVrQPdzI/TLWg==
+        bFO9Z6QRm9WRz70LnaeHZJ+qh/oRjgZ9rKoYH9qo/+zlAPZIBMjX9g==
+        YD+9gDyq2QB/HJ3Xe6cV+Svh1dlR/D3Seb5NeIwtyt8N8h9/Sf60pg==
+        ekAXqT6rot6Um6j3mxH0qQ9d4Clfg38X/UGhFWPUN0sd/QRiDfiNCg==
+        9H+ugf1bSxf42eigd6D6XhdQHzCjBX2rDPp1uhfI4zPwnznDGtPjMQ==
+        XV9C/Sfo0Edjt4X9xkvQl3dH0L+vz5Mt9Jfe8dQvxXQ/l84XRxPqFw==
+        y6i3dJ76tWoJ/QiUgX5M0NFvKgs6H2LUn00adL5D/bcV0nncsQz6eQ==
+        G/WZ1d1QfTim+8VeTM9DQB41YtDnwTbIn0mfnEnxNIY+m8mE8CLB3w==
+        43v/gNvDHxPYa6jN4E/dBa6XJfQHSNNYzzjQF7vgt7LRKN4pkGe4xA==
+        fqUa6n8nnoH/wwb8w/PgL2IL882I6v8G9K3XMK+yPp3P0vMD2kmn8w==
+        fR/0oiU9H5Is6by9DP/m6P68F7WxP1sjpKxUTrzHO/pnOs/UHY74qw==
+        gV+T8nfRQH/ZYBv01/IJ15eI33bLB7097V+/I3uUqN9G14l4t6J+sQ==
+        l5N+atIK/iZAXwX5U6kH/egmo/qezhsO1A/1GnT/I0K81oU9+S/Dfg==
+        +mIP/3V46OfMqB4XOnTeId0/r6BR/Y+8ocs74pfqedtE/a8XdF59pA==
+        eGuZAuFJA57RRUIePT76LCyBXrNO+iuZ0M+C9Hmm8xRtg3io+VvIUw==
+        E4An+47uh6ws6L/mAt+m5pA8dVzv18Ua+qeaiya7A/9llixgfo7+Sg==
+        CFG/F+2A+AupX6Z+IjZj4HF/JPtVsJ/glaTIQYBjWt6k5zHOM9R/7A==
+        kJvIJzbqQTov0Prb3GTDJsbOSUM+Nxt0/lmGPfc5/Kl9Qb/CKiLGvQ==
+        GfRjTCpHQUNXcWaBT8/TmE06z6bzSZ/GtgC8sxMDvpUc/uEuC8i7rg==
+        Qt6TDPmtIfpJdbcEf3oD/axF92d04wJ5fG1I/ZfkMibUgedNE/7rUg==
+        fFezM/B/cRnVXxPgJcxhv1JrhXnkb+BnjfmxDfw3e3cUn2WyVwT76w==
+        kUHPVzDYZ9BGfqGzL+h3DLxobRf1Y8ek/pbOuwY28KSX5xh75cmR2Q==
+        DPryEtKHUQK/ywPm1W6F4iWtn2/u+a+QP+nkr26J8t8B+IVnQf8xTw==
+        /V2H/IvygW6iX29ZiK8sWEMflRbt1whw/WyFcUOg+KVm9HzSGNcHGw==
+        Or8pMeyXkn9qe7p/EUjQH0f6JPuytkDnr04D8WWtNVDP9Ve5qV5adA==
+        vtiFPdQQY31N53XDRYB6fOzc20eCk+TUD9pkjwPFq3ZG+aBnUD+aYw==
+        PM7I3zw6T9mcsN/Awf7eHvFCWxzBTzCBv3ulKsmfUf+6B/684wRjYw==
+        RfE5AT2v69LzScR/LQHem8cmxsIC9IJkCPzziOfqJoJ+jhue4hH5dw==
+        wyX5l7S/SfiJ23TeYQA/ujqi/DQlf7rD2OMLwucF1+9mpJ9mjrFWsg==
+        6bxMlKKGo0H+O5J3DQdi9a1C97Nk8COXwC+bLKg/pvNN74DrjTndrw==
+        5Em+dA/+VY3uF5Y2GIsm3U+ifKDzDug7EcXPcwn+6mzpfLCFeGtrAQ==
+        8oe/tym+HRH/TJI3dMHfYYv1WkDxbJWAXiJhXB+WsJ9wJn0qdD8oxQ==
+        vO6cQV+zYd/WUcB87YjxOIV+mhOyx4Tmo6xE9cKUzjdl6ci4aIh+lA==
+        8KCPDeAhPbnonyIf8vsa7M/5dH9Eh770SYX0bcdUP+B6fRljrArEzw==
+        ic57c7JHkFA+iyPSf46x2cb+bE7nQxMV+JpGZzlyTcJfje5/ymxP+A==
+        0rB/WYQ8Rgb6bndO8S0kfC3J3roC/zDW0I/gWTU05b0j6n8P+Vq2gw==
+        GmvqIupBwcH8yjzSeSKdjxXZhO6nBuKHm/nDs/D3bxzQN72eXq65+g==
+        rlc/m6XZx2UQpNs4WH/Uk2K7ToJp9rGRTLN/acHkX5V/CB8V8WPXqQ==
+        SR/b7m2v+7Em/avyr3gbLv41m0azf9FbBf+qPnzLK04f9vjqkvtXIQ==
+        Hp+Hz57eVMkCek0BQ57n6RPa98M0OICI8vA5l6+/K/Gjr8y8/XUZvg==
+        8kNvZv6Bd2X+nBekuasXpH81M93Ky5cXL9fvq1bv//0ipviXD37+/g==
+        C5V/CjvN6hM7zfjW2Obv4OsIwvPXEWa7w+LXM9SpvbxTRP4++9U2qw==
+        i1/9Wt4v4kaXrr5m8cuZkV/AEwZX7PxDFAXhF7m8p1x9zmI6Wwe/XA==
+        TXaFe3lr+n24vVd5jtZesP31/DgV/qvfU/xFFutUqp9FoR/5rv+fBA==
+        JuE1mG7q6Wx/ZUFJlEX+F6W3Su11fvucN4Gv1IRfVZ48x/FhPH2d6Q==
+        FLn2izRWrzzHc28WrD7X1y/yxkZFfsXVd/+Y25/ClV9RXnHl/+ksfQ==
+        /QX1b76c/sVb25/KX3+9+lM5Sm/TIFz98+80SmfB+hBvZuHDn4edTg==
+        Xhqfp9r+0+Mc+qhpcAjuZcVP8zh6ej/9cRaXvOThq6tu1km4enh3/Q==
+        8e/e33izabC+6pXuZ4kXRECIdv9HO2WBOqd18jDE/CGJovXrL5T//g==
+        LlYcrqgF/c5GnFS92qjyExt1C/oTBDeV39+owgnK1Ub8y0aVN27Efw==
+        Z6MqV7vaqPrzG1W/s1FNvLaR8PMbCd/ZSKbg9bxR7Qc3qny5Ue3VRg==
+        lS/AcK048Xqb6w8fPMeKF2989U1P/AeF18P5wMPHfIPT7XPLfINAcA==
+        +5zZHz+7D03fk33+RMjj1xWO6ZpGhyCij4LBnx9GaTR78YuH0dOFTw==
+        w+NmQj55e62h8ouK3qQ18Ttak69hIP2s2tqz0+GNauPfodoe/3bN7w==
+        KaxWvYaz/GaFPW7xJlVxr1X16m9W/KDWHv5CzyvF0R/B+Ex1/w7AyQ==
+        v68/SbkO2cqb9Xf1tyH+iA57we6Hdff4tyleKa+3++PKuw6mxgnCbg==
+        g/VDfv1ePuKr/HU+qvxMiv1sx+8kJr4mX8fXyptzbXtW3GgPs7+/0w==
+        9efRX/b7Wsq91vJn9c3jgoAae/DyA9XOgzG/qHOIg6sS5os/tPKtyw==
+        XwqYBwqVN1N4qUweKPCvKVR+mAL/RKH6sxSqTxSEn6UgPFGo/SyF2g==
+        EwXxcwqvv7pDJO6h9So8PCbqLx30Ybcf5EF84kH6aR74n+PhMWs87A==
+        Lv+sDuUnCsqbKXwZnx5x/XbX+DLwPJJ6o4+8iiiPJL7lJJ/Kj6HgcQ==
+        +B/7etenh47xK02Z8OHLb2TdPoS9dZwdZltqP2mTz357fR/r0wtbtw==
+        FPNe6Euv73Y9quplq5cq4CUS3l4XMj+YTt9QQzxi/Jrff5ckjzn5aw==
+        oig/J8rvZ/TfEeW6s//Mds9Lsm2wyxbJ4fpA4Pm3e6s/j775WbhP5Q==
+        z6h8Kn8Gtseff+TDcc9EH9fd3w99qbpern5WBi/y3/2rjuW3k63K1Q==
+        737b8SfI8jXxu3+Y4WfIyvJ3/ybZz5BVqt/9DPPPkJXE7/418J8gyw==
+        fffzfT9lMOmJ7H52HhXrPt8ZuhNxH5XmF2/Ornj9VP4C4Q/nY18ciQ==
+        PZyUYc+AHLb8MMQej8XizTxJN5tgG0TEwfPXOmlRENKfMru97wmCww==
+        4uZx/NgxJOkUKeyRc1GRP2seHmlcL463ETIKAtV9/Cj/8/4wL37+Qw==
+        abfh4rhd/fPv/w+QzR8MYXRhZAIAAABETlNTYmlsehYAAAAQAAAAeA==
+        2mNiYGDQ9fTTNXXP9AMyGQARpQInAAA=
+      >
+      FLOATPOS 497 142 1023 702
+      FXID {226BE160-CED5-214D-9D9A-7FBC8BF70B4A}
+      WAK 0
+    >
+    <ITEM
+      POSITION 128.19826797637759
+      SNAPOFFS 0.00000000000000
+      LENGTH 36.03265910695575
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.010000 0.000000 1 0
+      FADEOUT 1 0.010000 0.000000 1 0
+      MUTE 0
+      IGUID {144241EB-8E6C-FE4D-8DE3-CC8A3E6C9500}
+      IID 814
+      NAME "05-Engl-120424_2034.wav"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 0.97426797637759
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {10439840-F240-D24E-BB45-8B8E9EAB041F}
+      RECPASS 400
+      <SOURCE WAVE
+        FILE "../media/05-Engl-120424_2034.wav"
+      >
+    >
+    <ITEM
+      POSITION 298.49883999999219
+      SNAPOFFS 0.00000000000000
+      LENGTH 24.67855899999284
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.010000 0.000000 1 0
+      FADEOUT 1 0.010000 0.000000 1 0
+      MUTE 0
+      IGUID {7D1058A9-E74A-804C-B9DF-B1B6C5FBB1FD}
+      IID 874
+      NAME "08-Engl-120424_2121.wav"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 0.19427749999221
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      TAKECOLOR 33488896
+      GUID {89D1DF18-C6D5-CB4F-B0D9-C1A5F40D2514}
+      RECPASS 424
+      <SOURCE WAVE
+        FILE "../media/08-Engl-120424_2121.wav"
+      >
+    >
+    <ITEM
+      POSITION 352.14795805888809
+      SNAPOFFS 0.00000000000000
+      LENGTH 34.74415470377750
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.010000 0.000000 1 0
+      FADEOUT 1 0.010000 0.004781 1 1
+      MUTE 0
+      IGUID {EE4D1A18-28B4-644E-9436-351322FB8775}
+      IID 826
+      NAME "05-Engl-120424_2050.wav"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 1.08456222555475
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {59311B34-45BB-B64B-93E8-8C1E736B2643}
+      RECPASS 406
+      <SOURCE WAVE
+        FILE "../media/05-Engl-120424_2050.wav"
+      >
+    >
+    <ITEM
+      POSITION 386.88733184283240
+      SNAPOFFS 0.00000000000000
+      LENGTH 22.79020982383429
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.010000 0.004781 1 1
+      FADEOUT 1 0.010000 0.000000 1 0
+      MUTE 0
+      IGUID {0AC53D77-AD5B-6C4F-8DEF-D98A88C709B9}
+      IID 838
+      NAME "05-Engl-120424_2052.wav"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 2.52605059283240
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {F0DA337B-1FE0-B343-AF44-771782E809D3}
+      RECPASS 411
+      <SOURCE WAVE
+        FILE "../media/05-Engl-120424_2052.wav"
+      >
+    >
+    <ITEM
+      POSITION 452.60528816166692
+      SNAPOFFS 0.00000000000000
+      LENGTH 56.01714933833307
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.010000 0.000000 1 0
+      FADEOUT 1 0.010000 0.000000 1 0
+      MUTE 0
+      IGUID {515F982A-F57C-C542-A528-B26C2216D49C}
+      IID 846
+      NAME "05-Engl-120424_2056-02.wav"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 1.36311107833359
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {4D663711-CE72-7C43-9130-8C82D84CFC37}
+      RECPASS 414
+      <SOURCE WAVE
+        FILE "../media/05-Engl-120424_2056-02.wav"
+      >
+    >
+  >
+  <TRACK '{6DBEE041-71CD-8C43-A8C1-D8AE6519E061}'
+    NAME "Kertsi/soolo"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.62932758817064 0.00000000000000 -1.00000000000000 -1.00000000000000 1.00000000000000
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.666700 0.500000 1 0.500000 0 -1 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5000000000 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6DBEE041-71CD-8C43-A8C1-D8AE6519E061}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK '{7B2960C9-1E3F-D74F-8DD8-93250314B80A}'
+    NAME "DI"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.00000000000000 0.00000000000000 -1.00000000000000 -1.00000000000000 1.00000000000000
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.666700 0.500000 1 0.500000 0 -1 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5000000000 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7B2960C9-1E3F-D74F-8DD8-93250314B80A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 241.95334000000761
+      SNAPOFFS 0.00000000000000
+      LENGTH 1.86490327073312
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.010000 0.000000 1 0
+      FADEOUT 1 0.010000 0.228538 1 1
+      MUTE 0
+      IGUID {BF132430-E290-CA47-8077-0B5016CA2FFF}
+      IID 899
+      NAME "07-DI-120424_2136-01.wav"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 2.72726708334093
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {AC745FF6-8C7C-364D-849C-4E5F166426B0}
+      RECPASS 437
+      <SOURCE WAVE
+        FILE "../media/07-DI-120424_2136-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 243.58970500000774
+      SNAPOFFS 0.00000000000000
+      LENGTH 34.90911999999227
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.010000 0.228538 1 1
+      FADEOUT 1 0.010000 0.000000 1 0
+      MUTE 0
+      IGUID {F3DEF010-0400-4C43-AE58-3DF15CC0FB74}
+      IID 869
+      NAME "07-DI-120424_2118.wav"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 3.14229875000774
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {8C8A77C5-18D0-964D-B4E6-6D2755EBE6A5}
+      RECPASS 422
+      <SOURCE WAVE
+        FILE "../media/07-DI-120424_2118.wav"
+      >
+    >
+    <ITEM
+      POSITION 316.74883099998704
+      SNAPOFFS 0.00000000000000
+      LENGTH 29.46426999999085
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.010000 0.000000 1 0
+      FADEOUT 1 0.010000 0.535714 1 1
+      MUTE 0
+      IGUID {C042C9E2-9120-6E41-8D83-5C9043E83C44}
+      IID 877
+      NAME "07-DI-120424_2124-01.wav"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 1.60713308332038
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {AF21F12E-429E-6A40-B4A3-56AE0DE197CF}
+      RECPASS 426
+      <SOURCE WAVE
+        FILE "../media/07-DI-120424_2124-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 345.67738699997801
+      SNAPOFFS 0.00000000000000
+      LENGTH 6.96428199999787
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.010000 0.535714 1 1
+      FADEOUT 1 0.010000 0.000000 1 0
+      MUTE 0
+      IGUID {CE46973A-4EA9-A64B-A7AA-E1822F49E369}
+      IID 891
+      NAME "07-DI-120424_2133-01.wav"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 0.64952241664469
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {F5AB3E70-1F41-594B-9597-7E23D1612877}
+      RECPASS 433
+      <SOURCE WAVE
+        FILE "../media/07-DI-120424_2133-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 500.49873958333336
+      SNAPOFFS 0.00000000000000
+      LENGTH 13.88587370801309
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.010000 0.000000 1 0
+      FADEOUT 1 0.010000 0.000000 1 0
+      MUTE 0
+      IGUID {FBC4927B-843D-4344-8C52-CCE576ACECD9}
+      IID 907
+      NAME "07-DI-120424_2143.wav"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 0.00000000000000
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {0DF7902C-60CC-6641-A1D0-B14C85518880}
+      RECPASS 441
+      <SOURCE WAVE
+        FILE "../media/07-DI-120424_2143.wav"
+      >
+    >
+  >
+  <TRACK '{84E06B2B-1978-8440-9CA1-983986762A58}'
+    NAME "Engl"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.00000000000000 0.00000000000000 -1.00000000000000 -1.00000000000000 1.00000000000000
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.666700 0.500000 1 0.500000 0 -1 0
+    FREEMODE 0
+    SEL 0
+    REC 0 1 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5000000000 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {84E06B2B-1978-8440-9CA1-983986762A58}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 332 -782 1262 734
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0
+      <VST "VST: Guitar Rig 5 (Native Instruments GmbH)" "Guitar Rig 5.vst" 0 ""
+        NUdpTu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAA==
+        AAAAAAIAAAABAAAAAAAAAAIAAAAAAAAANFQAAAEAAAC8AhAALWluLQ==
+        AgAAACNOSSNDUyNEb2N1bWVudCMjTkkjU291bmRTaGVsbCNTb3VuZA==
+        IwAAAAAAAAAAAAAARQEAAGF0YWQCAAAAZG5zc2JpbHoWAAAAEAAAAA==
+        eNpjYmBg0PX00zV1z/QDMhkAEaUCJ2F0YWQCAAAAb2ZuaWJpbHr4AA==
+        AADzAQAAeNp9kT9PwzAQxfd8ipN3cEAdGBx3okiMLUyI4ZpeWiuOzw==
+        cpwKvj3On6ahQ7d7T7/3fLbV+qexcKbQGnaFeHrMBZAr+WDcsRCfHw==
+        m4cXAW1Ed0DLjgrhWMBaZ6rlziWo4mt4ledCZxmA8oE9hWio1Ukmww==
+        YUP6a8dsuUb03sDzt5KDOwLYxRMH/Y7BKDmJvkkuq3pjj66+tPazfg==
+        60zEAFtzhJWSgzUEJ7CfS258Wt7FS3A2btJX/x4HGywjh1/YkaUypg==
+        u99LbqmyVCf+BlrIaU2MMZh9F+dXm41RJ+eMtiP9WlXpXCVHNbLyHw==
+        vJB9uZLzd+nsD1ayoABhdGFkAgAAAHRzcnBiaWx6dFIAAHTrAAB42g==
+        7L3b1qJIujY61+m8im/UKSNbQGRTo/v/R7ARERAQ3OBJD0REREVBQA==
+        veV1E+uJrKyszKrK7q7u2ZU5e1UdZXwRRLyb592FEVFvjrv+f/7rvw==
+        /uvw//7Xf/35/z7Op7cuq5uiuvzlO+5P7Hdv2SWtdsUl/8t3i2j8Tg==
+        /u6tuSeXXXKqLtlfvrtU37393//z33/O63fFpbnX7Tm73N+lh/ZSvg==
+        bdvitHt3ac/brP7Ld7wgid+9pdX5ig8x5pqk5btih0UUiRUUUZb57w==
+        3vZ1cs76qv6hB4ufk2NVv/tI0Ah/KdK6+ukvPP3L5dMx+OpaZ032hQ==
+        Je7FGXSvst0budZv/OiNk78XlO954Y1nOf67//Pf//329uemai+7dw==
+        u+SebJMme8tP1TY5vTtn97q6VOf3axwKLPLuXO2yHwgtdgX4Ti6X7A==
+        hAXF7wY/zATB1CDjLble392f1x8G/yRgrPeG//68Lx7vPsqmeYPQ3g==
+        Fffs3GDI8MOYn496o5zJCstiwktCmZrbH4diMB14yu7ZT3/68Mcvfw==
+        /da29M/mjOO71XMZ5ee4EC5Mv19dhvlf/vLdp1N9Otm7vC0+70NvVw==
+        ZP0n+gY311Nyz95tk0v5l++++7WuHwihCKvqbPeOzvBBwgKE9rNWUw==
+        bE/49z45NRmV9meLD/4GbZ/QnbS7onr7BEy/4OKaUEjeMQKGkGBFfA==
+        c6/Oyf1HrFFV/TSIqpQayL1IPxvI/WLmT+d+r4yC/KgJ60JNLM1Ieg==
+        L7oMvCan9j1wfjkHZqEI/YSCtzo7V5DlOXm8J+bHZvGe3MGvkDH4+A==
+        8S+4/6mr+bKA3wvxM5T91PkJHge/BOSfPxpqff9I2Z8Hn8H8b4Bf/A==
+        FL1F/mZXFxjo6TcawZdm+WAMd7foj2IUzm2xfzCBMr3ash78YQz/kA==
+        MbBfMIbBt4im4a8D4Y3/rYD68kQfMKV7/E7qz4eguq2Kw2TJ8gc+/Q==
+        A1N/ONhvzCTkLyF5+FsTjS9P9MEkkikpzkFhRPdwXy7ZRg2ImPxhEg==
+        f5jEN2YS/CdAJu81aV1+ozH86hQfzKAW+KPrOLPQ1ZbyZGe/Rqqu9w==
+        X9UMuM/MgPsj2/gfwRH3iT9EffgbIfTzrz+g55Y91/1pwc9X3la85Q==
+        zP7l70n/hxP9JXq4X6JH+med6Cc+9Nre38ykuPzkP/80+t096C8INA==
+        fyTQhK7evMvA2++/oof/BX3RZ/RFBxjWoTrtPhEiJ8gyK319St3ljw==
+        pLpJQ/+4rE7t+ZNw+SdZHA1F+etT6vxIqFOcC/rHb0/tjvaRxmx/fw==
+        037YPPtIIff1KZxrn+Ssh1+S+Ed29PMa+tMNxSi5ZnqWlm/cby2gvw==
+        MMuHKNc1C7ks5CCcF8uG2PpBnyrL/6AodwfHO3DMJe0vqP6xj0LsFw==
+        yPkt8fGfiZDKr0bILxjB55Z0+mjqVXX9O/bzP2BBf8fMf0HePfsINw==
+        KLv6yQex3w6J9UcS6+TSXKsm+wbl2H4ksr18g/Rdux/p+2XgFkSR+w==
+        VuisP9I5z9Kq3v08z/hmCC38TzYQsvr+5ldNQf3Ct6f7U/OpD3oL7w==
+        CHHfIJXZZ1Qal91XV/qXc46/k3XQ7i8Es98rIRE+zSTgkurfmIr88g==
+        +w9JyHlaTazQP81PN2W6VP2Urzb2192v5D9LQvhvuNQW/+FE4mfWMQ==
+        rn5Uxriqy2+qhv3oCCOI7c0v7unhI32i8vUJbO51ern/SGR4r6ttNg==
+        0Ohpg29JjLvrb81yflfy6v1PcXmf1dkl/Yk8QfgGCGzcjxouTtSJuQ==
+        cAb/++pVWulQb/v24/mawVfZo/10p979cPgn+61btb8+yYcwkm2miw==
+        tXSYR97Z3zpaxV9Wzzb4z9nv//HIVNK+pSd6HGtfnN7vnqXF5V41hw==
+        t4n+vVNs66R+fk+u11ORvg8Gb2F7vVb1/ftZQn+OerM+ni1rvjfbAg==
+        qdsb/RVx9L1WXe746/cfBfv9qeqxUpf9qU+QRKeYsXy3Le7npCnfcw==
+        88Nf/u1kHIpPqDi3p3txPf0gzh8kLwwECJ/aaJr9RN87uslx2dHzcg==
+        6MbiP/zr9y70R/98oe/3H+vUn+04fjM1S3j56COfl/Tboy86X7+wGw==
+        wfHfCo3ux0Lfbe/fYF26PH2x0B/9byyjfvKj/3Ig/GyCH+d998mADw==
+        LvIHfw3X9O6j7/zMj33ivD6MEHhFUESJV0b/gBf7V0D/L6nqC0r6SQ==
+        xu9+VVj47Jd//g07458eMyTnK7kkp2fzm+vRL07zIZ+o+m1wbeZZUA==
+        2LZ1l9XtViT7P47u/uedHxiNPgGC/36qHzcJfxui/sZEHzC1547TcA==
+        17mh2g6ugWslK8/iv26Oyn6GKfYb3uoY/bNbHf7yN0aw37XO1D9Spw==
+        189/bHf6d6Vv9ZG+1Sd4/nboc9cf86fi8S0R5q8/8QVv9HDRGygsLg==
+        +f9PfvT+bIL3U76r2vu7L4z416z235HG/KuW+rvQ9I+i/3ch5p9B/A==
+        70LYb/Rh/56k+O+YwL+YFUvsr530+K0XLr40y4f85bgvxETd1PP76g==
+        mvZ1cNTYhRL8550X4b+18yLiP7+N9L/lh/pv/FxLEX661fUWVW8/nA==
+        W/zj1/n/mF/n/9ecHfkfOUbAf51jBMqnJxI/HP0dr39jmPrCJB+ilA==
+        sV60jqAUgVtsl+0xX69qvvnj7P4/Fmn+6QtQv/Xnim/zt9KfetPqcg==
+        Twr6y2n6w09S797rrDgV9+fHPa+fHhr4tUwQ2m5P7yW4274VF8z10w==
+        2wrCjxPgzykd0nycFEKvYTd11Tefv3HA/2KFQ9XcP1EUlvmFPrl/+w==
+        L74/++MHif/5Ul3e/VrHryadH4PrFfL9eDz58EjXk+I017W07XXB0g==
+        pP3PLvd+2Yj/nQb86TbZvW4/s98v2u4/are/3WbZL2SHX6DqM9z/Cg==
+        Hn7+szsnf3rlNNufshLy+VFJcb9PT6xXBm22Wd2K4fhyUQryP6OkcQ==
+        kmKl59/QlTWzor+vL+6f1NelQ8Cn0qwzKGv79uFVEvYv3zXTpeMf5g==
+        l/YoZBOSD4yyb/xBxYa6nC/HwkArp70v94PsxXjeuhww+uHki4fSfw==
+        DRKrZweB7938Ss3FiOsH6VMxXTHu7tpUlEYB34uDyO2jTpS2as3kRA==
+        EZl2Yp+788FZSVJvpaJCyIPxVb1kXly+YlnGnXG1f9LLlS5V2TNlYg==
+        a3D0F+q9jIakjlKln+ipbxEp13uCCeTAK2f+TlcORy6Yp7kSa9uHnw==
+        EJ+JOJIzpRJP6sBfkro5sv2sSpXYZwM/0NN6e8ubfKX0Wil3mXYaOw==
+        LJnNbTm3o9i3tDTXWTJ2U8V2Y9U/ktk4knLnkTKE9BP/qDWczvbrUQ==
+        oASaJfgBGT2inrhBIJPJ5Nr2xHltn2R9ZBTLv827ueY9Ha5XepPpTQ==
+        cujq4ujXQi8vPcZ2uV1XHNj1VhRWy4SR7ce0u+bxbCsGr/mKkTUn7g==
+        FtpkK/GkizQ58Be6v9KbQufJRWoUog0Tf68VI53PXaVUGkMcQh7tQQ==
+        Z/P4wSr5+Ex8EG3VdzITQ9masE0X6mHp8MHrHiqmU7qgh7frUc4YGg==
+        Q8ac1+VktXSkwDyFjOYvva4kaiCJvVLwjGUYPvSbszUX9JWt9Gr06A==
+        iHas64b0riURyze8Xks7pyLJ2ZP7SUq6gNzWNUdmdqgIhr/sYk1iHA==
+        1uLIivGs2AIelmotkGLPQL/ba5cQ9bVlCZFMRbaKXbclwqnmA/maKA==
+        lnledQt1dNxyZLq+KZYz3XSpPpvXPDlReU97rlvo/cThyMnX5N7U2g==
+        ztLcUnoQPnnK/ez16DTi2dth7p5NpSF8gO8fTc3noVIoRB0yXaz2xg==
+        VggmocdodvAC/20A/TSLgjHcx6S7qJxfi8FNA57HTdIdcpvUQnBxbw==
+        ysIspl1Mck1iyeF0k4jzbH2NrCbQzyaSlUAf68BnaetDMt41MiHiyw==
+        E1QL3gH6DRXDuhHoRzvVbCCNRCV3wH+mDtHOPeGmkKn66gItiYCHkQ==
+        biqWLRwhj5W95fLM0CA/tQCek4PDE3FUKK7fNt1W67otH6hNorjGRA==
+        6/aq00hcfp+KiqBqDtaLM4fLj3ymCKZSQD9agvlnlqcI1i3pVoRvaw==
+        luwVXmEnktLt9Jm2HVVaLzLPce5Afx2ppeDoZcBDMug26h76ye+FiA==
+        9s0HPoa53hH7VsoBCACE9/aLzyOWKNaE0/xULdyIzZlAVmB/FvC6Xw==
+        wJ4MLRdzn8OXqv+SIJ9QUyxX2XQhKQrY6+pmKq7GC5AH9wQ/5v2mBA==
+        6vDQpeQ1lPggnoVKpe21bquTWz3s/Sv9/lTh+7sLfS97U+lnN66z1A==
+        TS71JB4ncq5fF51F7Az6uNum3E/Xi05TL6o0JP3TU2K7l7pQNSLgLw==
+        PBWYf7ZD21k7w7xYJkpvjWbAbz6HPHc6rxAvlYD/IqD9xlkhE24NeQ==
+        b5Itn98njOLObna3JlUpccEK+A78NupW+va4HRI2TpSFWqjgZ5VJbA==
+        PrhkCpmNhl2qCRnso1g/lcqfMeDnspf43Ji0Suwte+jvtYY8ciNTLA==
+        b1FhvrEKeeXbs5xP59CHmm6khjSTSiJuE/qWTubwp8qpQv8p8Yk6mw==
+        v3qy1GKZmMiBez26Rw2Rzhg/PVZeTkji5OTqhyKx5vu2V58l5ruIvA==
+        RHQ9aAV9pEKe2vEpk/FZhTz9G9qTWSHHtqwBT+4Y8uSeK6UyrAb2lw==
+        2+DHCE0lNlj4B/2oOUNi+AW+r7edqz3a7YucRvDPujIDnlge61XaUw==
+        JHpbg76ZfezJiu9lMl3Z8N9GeXyRayXLucPoiBfrNfg5FuDHdYjXkw==
+        5vSqiHz2JECTawXysEHf2ID+x0urs/TY3fZkkCcy8fgC/jxQpIoIug==
+        MCIu6b1cyxmpJMaRgTzWk7bX4G+AVy6Re5U3O6KHF+dJcrGVc3XVgQ==
+        Xv9av8hj6sm5MaJ4G/vA85JAPrO9ipTQzLcNGZehRMaPFdrVxWmIxQ==
+        nCViu1vQc5tRPB55ObeMO+a/aKBvUicSPPMN65NxlJMbEUDPVfF61Q==
+        vkFfWbOAfusA/N6ex4bstwbmv43hn3P11ZCUnEWMz+n3T/hvI4e8LQ==
+        N4G/nJugXyWaTNTwAP3GAfg3r4aU2/EF8twdogcppEAOxq/MJ1o9OA==
+        PvJhniuVadh+oPKwQGK2lUzsl4bx7An6MTnER10eY3x0BD33PJCIEQ==
+        mV6uPgO0F2kjEVPofFcN8uhFkqTC/J3vu2QpHfv8FVgKhG/Df3T6iw==
+        JdbBhb+OV/6C2OaRI9uDDHvLT/5KYx3420FkKcQ3hn6qNd6RzWfHSg==
+        EaYBh3g9d/RhflBZxIuF7cfqTIyeRHfgj31m5lvqKAS9lx54cbIK8g==
+        WiDkkruO+OYfEshzWIHePushD2MPe8nnGN/ysZz7ysB3taAA/emGyA==
+        +ey5AL/B6fUgzgj8OM+M5hfX45NokgU8Xwjsb/N6vUi7k+VerzvfUA==
+        nQH4TYMY+Ukz8wPtbhxZEs1jhdjsGu3j+DjM5YOlCGPD9WPdJ0eeZA==
+        jCAjcK2wntXrTxLUBPmIeMF8s+vrSQa2LEP0KvoNHvT1g1hGzIY8yQ==
+        0qT+N0Q+45I75HNzXzxRokCJZ8LTj0nooL8oAkVw08QPiWzAeUtBDg==
+        fw1wL1QD+idxJ8iV5up+qF000POaB8g/rBz6Kqm/37xiJdbJwE/JfA==
+        jv6Z0SjW7O75ieovIqw3tuAPxgs/0SZL5G81FyuVvllDP/IS+jXHAQ==
+        8sUx8jeVC4983hsu/L0l+wuNuK9hHjyhXz/OMR9j6lx+PhhKNQlc6A==
+        /6UhHyKQp2U2hp+RQgU++AD8Wosx5HdVgYcNsZTAHMjA60qG/zhlkA==
+        jzfZ+K6uPSG/57ZHPMhayDOooK/rFG1jtUW8ii/oF5MU9ixywKvxRA==
+        /Mo8yJ9IIvS91JC/ao+FQsbxHvkb4j9HjJel5K4l+qF6CMBPZOTQNw==
+        QnZCNhHwGrIC8PuAftVDCP0rJei3T7qfaUUAeXWsoRBdNcDfNAT9Og==
+        xgeeGvmJPlyBvzlSzsrfpBi/W+H7cLlA/nWaQf5+APuZvFLFUtkbxg==
+        5xPI63AgSj5JTaxHCOiLfegT4ER83urHIUmQT5JJ3IHeXYC2eHKVXg==
+        3xXQr5wAL5cLofl8D30YyZHL92ei9PY1BL4syt8oRHx34h3Ww3+Ibw==
+        fiP32usI+aWs/iKD1AIeeck3NLmFPXqwx35qMpBf3EMfbRPDfo42tQ==
+        txfs57Iz5GAaLTA+4KAPblfJvbWn9lUJGG8xKfz/q/YNQmTMHw5cOQ==
+        9y4s7NtSEO/8Ab7X6wb+Rh9hfNMSuXec1Cf6ikdbviMejjvUG6o/BA==
+        vtfQZz65FMDDcoT5Dpgfjv8GPJQS/GHQoZ8MXvh+qoD+1T5HvnMUQQ==
+        rzBA+xwg3zFLHfIt1BdHEtLDfyH+hsQyIY8e/qiauQXwYUyhf1srkQ==
+        n1RX2N/ejuCvnqh/HPcE/eVT4BlprVJ5QQH9Tiz42wHss1fLC+S/sQ==
+        Iy6fFz3yibzFepKL77OXq8RWycJ+1BnWy47A+9jtYA+eDfuRNOBDIw==
+        1F6f1B8ID+jXJh78jaKBnjX8u6UtJvg+UaF/jyzQDnS04wHwz+wDyA==
+        73WG/I8c5JNt4c98s4J8tBL6iS3qj6YFIMVR/xpGuQz8V9C/OqH6OA==
+        WLAfl8ZvhyBep74rkYkfw99uW8SzYoP4MBZRX6jmBvFrXvbIr/MX/A==
+        s2zBH/MF4p0+t5APLA4YHziIL9PXFf2hAX9YhvDv0yvyAT1Zwj5VEw==
+        +vJ3B+g3WoOe2bJEvD7Af6rKEu3JEvHLmObQZ5KAvs2a1nca/KdaUw==
+        /y5egRfVWwNf3UVHPEwM4CGpgKe4gb4L4DcgnQn+VRb9vIL5jTXwQw==
+        BBFtKUN7djyhn+chn4tL7cETII9tBf6nlYD4O+MgD22B9isC/RP5iQ==
+        9Uce8H/kXOQnV4ovl8bXzRby8yY+pV/SX/kN/kyYVg7wtNCBDyGAPw==
+        0asp6t/xAPO1GfBrTxwa72rQU1uYf3an/JdUH9E9pfWLC3mXLuTN+g==
+        uUjc6Ip43Zpo++cS+cmKxseDAHlbpEf9XB0pvTPI9xLR/KsZUPudYQ==
+        vuCB+DM2EKx0heYj8yvV78Gk+pMi5FdjFvkkCb1A76ttSVz1JhLzcA==
+        bXOtbJF/cGqB8VfU1/qzQv7Xz5D/6JWJ/HJtIX/bLmzwfz92hFxoPg==
+        f9ug/vS8Q2fozA35llejHhwnd+RTWVVj/NREfnvlkA9PA7QjIgIfTw==
+        EflOFiIfO1om8kt976Fyovlib8toFynyX2ENeo0pOyKqrrQBybsa9Q==
+        rkrz35EF+pgI9I0KtCdHp81VctzmhHdTkRgPFXhmcshvc42R7/Ab8A==
+        fzpCfvIZeNYC4FlnFZqf2rFINFWCvKvkWBF7UkL+mublerXH+qVJQA==
+        T96iH7VjSQLfE5AUrbGeIG4rUtN8cspHyO+WL9CTkRby6V/IR8ka/A==
+        ljHkMy0WnUGUynkRJgkRr7yiM1TrBHklwgr2ed9CPvspxq88G/SdTQ==
+        5MONCvkIJuTj5FGb6+4B+gkI+DWnQ/BPWuSTzuAJfLApvg9m0EdpIA==
+        f1Vne+S/xwTzOTyP9e5n6O+8RDssoQ/VbaC/yEQ7DTCeWMjHyUxHfg==
+        vXwgn9Yr5M86WSL/VSYJ/Otqivmak4P8YwP+1Bbz66sL1jtMeeibiQ==
+        UT8EJeoHo8L37s1EWz9sn+RhIV+fhvT76oi2P0V94Z3XnasOLpg/pg==
+        9Z8P/Fjq8oL8O9lgvcnTRn7c7zC+NhiMN0rQy8qQL2tn0P+mBP+9DQ==
+        /pdqi/zcqiAvK0R/J9B6g3mgfZIgP/6BekwdEegj30DepyqTgxmTQA==
+        H/sa9FZbyGdycbDegMN6s90T9L6o/AIB9BWtjXxxgvVVboTvAw/4dQ==
+        dbGDz6b1KquiXp3IBerjl4t6MzA0JR5zs26l8ivUg8Q0ldw8nFGPyQ==
+        icORlZkoFhkfukCPVmhfShH5yk5Hfbn0UL8OQl4RiHvGfGsL9e3+wQ==
+        I76wW9SnGxP1pjw/I1801mh3Y/RfelHJvYXZLdSIqR9kyoSIp8NZ5w==
+        EqYF3rpbQu0xQXt+gn6zaYh8yka9R25X8DORIG/PGYP/loN+zwz0YQ==
+        OcCHtlYgD76DPGBMqBfPZMvlam4qxPJl6D+Sof+Zdwa+Xhn07bAS4g==
+        kXuDP1/rwLfXoR6Db4O/WmE8WfSY/+qu5MCqXejf41D/jJSnHBiDMw==
+        /EclYT57X0DfDh0/HoDeYg96Z0fgV9ty4GfgMMDfs+5cvTrR9QXUUw==
+        2liCftwU+nqsTeB3NgJ9sxz0yxX410QH/HpHyMcRgCe98ICnXYHvVw==
+        6M+9J8F6VQZ6jAn8m6U8UP9JO/SPUEwTjZ9hvuMZeCnFDPWWx6I/6Q==
+        0P+SC+RTW9T7KE3Rryug392uQU/Iot9LW9RXkQp5WncqH1tEPtWeIA==
+        r/UF8tghYSNGQvcL2iPscXeF/MftivrXs/Qgsyv41VdH8Du8or2wYQ==
+        r673AH6fDdpPkYG+GGrf/Qnte0z5H8+o/eiYb7+BfZBwDv/Rj+Dfeg==
+        s0I9mLi0ns9Rb7EF6lmV0P0Gg8B+oiSTcsdwsP5iju8va8w/OSeg3w==
+        abYPeG9PDrRoDvrnPNqbuwg8XQ5onwXwZzOo532pgv2UEvTn+PA3+g==
+        QOhsfQ9nRHwC/GvE6RJ1oNdszveMYo1Zv0u1ub7lyIDckG9Zky5TXw==
+        qsPmRg/7cS8y1QeD9diO4s2BvjWPAX6n+xvNB4for2S0Vz71L9ET+g==
+        0hSs33d0v2kvQF42AzwMfOhHo+NVSQYeZu0NeAR+CclZ6P9Yg99xgQ==
+        +h9OE/0W/AUZ32vIs44gj/wIfE+aDt9rDuYvn9QfxCz4TXz4r2eJfg==
+        /7CGPrYxxmc8/LvG5Ri/WqBfe1F/U8LfoSjF92vnJpHZiO5/WI1TIQ==
+        S0O8cQWXxq8Y8eo1JcgPmDP0pTVol5KB9vmCfOF1QnxLLORfzqPAeA==
+        5NkNmWlom8Ec/axG9ydy5HNOEOL7ZIz2iuTwn0+F7q9Uekla26PxEg==
+        8UaVL/CX8x3ij+kriGedDnnd5vAnpInAv0D3Q/Q98gHvgnhH9g38bw==
+        NoK/da8PGo/maK81ircA/lgHZQ1JBQ35pNlivrvowB/PIQ+Sjyg+Vg==
+        kMfkAvu0PIPip4B9x0Im52YBe9HzLfQ5XEJf1hX+W93YWP98WEF+6Q==
+        BO0nfAvhiIb8p59Anq4BezuHHvoXNH69KH41Duv5y5TieQ1+jBPaEw==
+        Ff5OZxz0sw+az/iIJ9rhAnrLI+K5dbBbBMVMr8hRRb5rPDwq3w3yKQ==
+        9Qx9kLkG+ZIx5N04yKdMcoE8iYv8A8mOSCbkiXyqmiI/cL2Q7mcxyA==
+        X8jymBPU0yNi0/yL5BOpJIVui2QWYrzaapB/fSzo+mfI916gLVH7nQ==
+        hhfoJ79BfmSE+G8/J+iH/BoSa6CXRMjfVOOM/OhpYD6DLGHvQYS25w==
+        gh4vPtP9rwzfywn0NXGgb00WwC/vU30hfljaUIW8xz3sdbyl8tBarA==
+        b8XQ96zaYH0igd4lza/sRw48Ha/gX2tKur+0hTziIfDIz6h/0YE/Ug==
+        9mhfayqvJEV/XgB/BrJGMtsgn8XUaE/HyMf0K+oPjVliPmLIwN+D7g==
+        H8YW+icz5GMeiSDfeIb850aAT7IJwU9bgH7mBnnp4QD0+S/Qe96ZwA==
+        28RG+36n+dEV9BuHFd1fG0IeuVEJxNPp/mK2wXrCBuubIo/1tA7rRQ==
+        Et1/utF8Ud6CfkWl+33aHP4xn9bI/2zIF8k25J+ZWP90oL8/5FSe+Q==
+        k+anZoL8WhNaovcB8MM4Oc1vjzSfZJFPthbyW1e/eYFGzjUmtcwRIQ==
+        WugRImQ0/9UgL8+OsP58pLdk9kC+PzmoWLJb03rBbID30x35vb9B/Q==
+        M+MW0Jes+ETbW6i/sDjw71D7n96A12QEf2E8DYpf6u9v1F+MRfgDLQ==
+        uqF9oL8nqQ7krzK0vtjfaf13sWg9WKPdxyzFO60PWQPyaO1GJFPCQQ==
+        fpWBeOJOkD9PogPyY4bWL+4F47VVCXzcH2gfMuTfli4haxYI6pW0gw==
+        /qfDHdav6H43J6B/JrQYT2rIBxn5iEwPB+C5ekHfho/6hLxOsCejpA==
+        /nGiCUR7wt6IOMP82RXy0unvYeQiU3r7XCbOIkB95xmQ1zNPabyg9Q==
+        q/CieBJRDznqHfxWJvgfT0E/xlJ7nGL+sRVCX4cC6xEZ9rydgl/dUg==
+        QJ94wfjVDvKZLKao35gJ6kMzRP2qljXW4yzUh51qID+IRqBHp+tNRQ==
+        Kt+HQPn1oI+rirZmTdB+X9/lJeRlhrZHS0HMH85kxF+W7qcbY9B/VQ==
+        UZ96aYH1dhbkt3+gftSCCOtpGl0fBkNQmIGfdIj1binqSdN+YL7VBQ==
+        8+9G8F9OuMJ6u4rKh+LblFAPqj4PeuwM+HZS1Nsk0EE/e+gRv8o78A==
+        hhL2Sc4niqfTga6XvJCPr0CPP0c/6Wl7dE5RX49pPVqtab0/Bh5nGw==
+        1Lsko/u1HUv7lTnw2sR0//fi0nyC7seGB9TDlRUDlyLqd93LUS+f1g==
+        AvIb9YF6WYvx/ZAzEA9GdH97M8P3/RP1/FjYo92M0e4CyMNMDdAnDA==
+        wG9M8TWePCj+RfAXeZDHRG/Q1phjC9cMekgaYf0rtZfpC/PPdhq+jw==
+        FuBHOrHgd5lj/sEK8r2xLOzPYGBfSKdhX4WF/KKJ0X80QO/o4MIeUw==
+        un91dejvOy/IZ7qh+wPGCuO5FeYn9xO+v28wn8+ndP+D7t8cYrTLJQ==
+        1vM4+nv4i+6HpMv3/Qnm31N5npd0P/lO5T+K6X4nJ9D4tcb8cYj5mw==
+        I/CnWxf0Z5SejNAQ1ME/q8IDeDrf4N8MM6H6L9GWpjR/eO+PzzX1Bw==
+        Tk/tn+4/zHjIjzDUf9cc2h0DvPg+8DNe17RfwPgJ3a/wB4iHakTnVw==
+        trCn8TOj8i3Qnk+oPV5P1H+n+J7E0Id9zmi93UIfPrUfay97gnrWwQ==
+        z04tYZ8y8K3vp6D/psG/TQnwpc4c9LPUvlyBymtM7ctWZeg/2EE+zg==
+        BPo3DpDH2KD7RzsL31dFTvOVlu4Xu5CPEsV0f2QEeT186NtlCZXnGA==
+        /XII+fMl5K9dfaxXR2inJfDvKrBvTZujHS2gb8OCf0V9hu/NKABeKg==
+        uj/U0P0XxDy6v4H5VGcBenYn0GeoPb6f5ejnrQr1IxP6BuFOmG+wWQ==
+        oB66wR60oqD7V0P4d5Xuf6lDH/QuDhR/F/gPbdRDnvGI+qvrEfJzZw==
+        NP87IN6SnupL1uh+3AH6nAh76l9ctFMD/mR8hb8jixL6rOjvUVoHfw==
+        r86pfzyRGP5JDiGv4QT8cM8A/mtxpfi10Y6e4HfSA1+6qoH+5wD+2Q==
+        7YAXXaH+/FRjfX31xHo1zUeVGvggmYT+aUfxsaW/dz456v8bjLcd6g==
+        /zWR5q80vooO/I1eE5ovPNBeKsCLIeU035Vhn3f4s9x2p9C3YkA+8g==
+        o4I88xPsdeJAv5sIeHGn8Fd6HMLedBb25p6gP3KKQH9Ygn6EDoxfWg==
+        Og16LK1P4X/1moN8thLw6Hk0/sgF2heL+kOG7o9pVF63G93fNEGv9g==
+        YMHPggG/Y4Gul+uYPz1Af4RNoL+HCTwqc8QX7b08TxrWW1F5TWua/w==
+        ZFf6+9sE8veElP6+dY3o/paFeK+3baCmOeLb1H4ifywE5GukRvsypQ==
+        vxeqHfJPZM6Id046BMhVxNfmgfygVKk+Y+rfRJ/ub+nIl4we+Ytu2w==
+        oPeFsotYgoP1LELt0Ue+Zr4GiJelDno4Wh/4OeIZMRZ0v9Gk+ca0og==
+        9rtF/5PSOztgfq3Z0vrhTO19TuuLNkb/xqT5wxT1h84kmN8+Q57OgQ==
+        4pNdYTxMEfz3N4xPB8gPQoul+Q7vwV8tkA8fXcRzr6f7W4yJfDSl+w==
+        jUYwpvlli/7e55Ev53ea79H9OaHEfG4G/ehmResdB/jyJ8hPNJ7GVw==
+        I6X8FgzaA4q3xgb+jRXyCeLReKo48DfaS8f3KsVvQ+Oj+qL5pVODnw==
+        YgT+VXVB918H0A/Rcprf0Pw55iH/VntivvkW+eYtRX5Znp80ns/o/g==
+        o0nrJQf5nqqr0KdgId+7OALy74DmT7lF7bfAeoZQULyNsf6Y/n5s5g==
+        lP6FivXXtB4z+4DGb4vmm4ZF68EbbdN8md+AP1VD/adNKb07Gr8nNw==
+        8KeeLke6fwr6LatDe3ED/TlBfjTR1sCPRvcPOVqPeblE6wcH+aqThw==
+        dD4N+U0+e5WEsV3go59i/rMLek8G1ps9Iuo/IrQHhUzrR9Q7unwGfw==
+        rI38bKxXqGeCC/Rl5sjHLTJE/tsm0KdE6wXCIz9XrTPa+VQEvSHqQQ==
+        LaD5uNTQ/klM9zdFtOs9+qeujXqZHaM+Y+ZP+HOZ1svsBPWcM6f7jQ==
+        1gL1vkrrT7kD/frAg/wnFf09fYL60u6PmL/qoa+zhnrW0lfAW2UBPw==
+        oWmJZKyGdD9ZBf25LQhE12g9VlE81jSft/Qc+Wam03pIQz6PEg30yQ==
+        S9DfntGeMDrWc0pK74aBvjTUY9rsBvk+xQz8iLRe2tL60aT1mi/S8w==
+        BRI9r3Eb2XT/PqTnF0qMX8TAj7uh9Uq2Qrul+rGOMvAm30BPamjIRw==
+        VaUN6PmBkrDTeIR67op6ITg4JYnNAvS+VtCfOwE9ozH4156gV92cQA==
+        r3pD/TO90fMES7p+dKbyjwusH5/p/vEsFwh53lCPLCgeGWqv5uZA9Q==
+        u6LxXy9pvsSg39oAT9b4OcL8O8gnoftDsQb9WT2t90ML6y28FvKl+Q==
+        up5P9ZJEFs2XjwXdT9Le7zcgv5hFL7TjCvK3JhDuNByDfs0E/UcqXw==
+        K1mAXp3KM5Sg35nNY36lwfwrEfKbhQ7FT4x+vaD73bpC8/P2fb4O+w==
+        81UL61cO+OMNBvJ7Uvy7Q7SXtD4z3/9e8MywHrdB2+dltE8CtY/Alg==
+        c4uEdL+c4u0anmViNI/O0vUZ8Lh8JYgf7gvt0nFo/rdCvpbT/W/DRA==
+        vZw+MN5G2ol8wAQ+F8AvMdwD3V+fon9UtMhfZXo+7k73G4onj/whpw==
+        +0majfkvBd0fMvbA92OM76Ue83n1CPSpQ9DLNNCnn9H9oVkO+a9L4A==
+        RetTtHsZ/A0dEfyGIZX/sqb+C/WLmW/Af+XS8zRjyIdQ/Wi5D3nJng==
+        NkI8fqA+JSnwBTDBP+cC4osVwl5iFfGCaIsZ7GWH+RaE+r8r1tcfZw==
+        rB809PxMV7WCnhDwswxgrzPidUQ3qH0Gex74gz2hfuwp/mz491k2pw==
+        /oeevxEmJvWnL7SvOfjTrhrd38gwvr5h/LReAX8F3X9yHtB/2RT0PA==
+        FOKFvuro/sgW37si3Q8JrugfJRn1Lw9qjz3aQwXfu1u01aEG+ZI5/Q==
+        PUOuoY+TB/0JpQZ53020pRD9G+MG+g/0PFIaQP/MC/7GEZ7AA0P10w==
+        ahhvltCv9jIc5Bs9xuuE7pfzpH6SK/CD+tHAfKIK/lOyovkU+slJpQ==
+        +2c92mZA95ueVF7pHvL06x78eCPw/1AYml8jvqgrjvpnBXifOi765w==
+        T/DDueBP9SfoF3qMP9SQB1DR0nqO+o8r3b9JEshvR/XTjGDvqk33jw==
+        2Ib6oxTfe5M93f9hMN82p+evrBnokw2KRxVtrUxA34DieUH9rRXE4A==
+        bzwGv5OHhvxKdsB/RfeHpsRDvRHReFJIFJ8e9EGkNdXHE+sJNfWfGg==
+        /KHaHOn5KhP02CMf9Jx9jJ8cM1rvD+n3vkTjHfWnmzv1n3Q/p0nAvw==
+        /97+wwfGN3f6+9qE+i+Zrnf1oV8v4vB9IoP/lUf97R78agaVZ8hgfQ==
+        dQ35akMF/Tf6+9hUNuh+Id0Pp/aaa1VBf4+YQt98SH8/MCrwa07B7w==
+        Y85T/hFv1BHF88A/43sfeNYbyp/qAq/+E/yTJ8XjIwV9Zkf3l2pKTw==
+        HGSoj5sIeJAnwMfoCf/hlg3mHzmY71LAvv0K/gH5AP19tEe/OaDy6g==
+        6XyDKexH4+n+khZS+apUfxXa2lmDPHcE8rJiig9mjPGoSUDPNaP+kQ==
+        7r+as0T87m3/w1n496f96ZtrP15++uTdtUUDd/j9MUnqS5Gcvter/g==
+        cqqSXfO9We2av2rJ9q/cn4TvFfH70B1J38+8d1H4/Uj6K/fX4pIe/g==
+        mu3y7K/00sdf+R/eWivqH9b41SHvbyF8OA/f/HgroUnoLRI0eZ6nTw==
+        nL9v1skdkyg/PLfz63dZ/n1XI3juH7o5+y/cZfp9LrCzn1xg/9rEhA==
+        3E8vY74+vU88fP/fVyKK/+lB1r994fV3IWcy/JGcSfHOuHTfwOsVwg==
+        x9crsuv98PUJmo9+ulNE7T372jobi7/6muFXokaXPnlt5KsTI/8Eng==
+        NPmEnD+JoiB8JZP3lU+eG9llp+Sri8nh2J9utX8bZu9zH721n1y+Pg==
+        PS7H/+p7l19JY3Nu+DMv9I/8fxd+JzAJn4PpbVxnt080KImyyH+l8A==
+        xo0+j28/p03guZHwtdKTj358Vew+j3SKPPpKEhtzH/25nyXlz+X1lQ==
+        rNHk5M+o+rv/x73fhaqAUz6jKvjdSfr1BwT+hUvU8s/vuL+pH/9HpQ==
+        ejXOBtY0tM+VEInM4LiZqH/ccv+2brmLy5CR/CMTXVac6lT5cxuciw==
+        4D/9lnurbzK/etbdSxKu/WKwbN3Sf4xaCMKzl8FgfX+cfCkK00iW7Q==
+        SzooqiXvD4ttqstNzwcDct7M/SfRZkcl6NVgkKn70m9z7xqJscgHTA==
+        apQ7vyaD0WvYr9xKYV098tfqU4y43B4slEofsH6oq8qRjS0SM/yYbA==
+        /FZfObpUtVHFPKcjw78dm+gl5uuTwCz8ee0f9Th9CWS4XjBnc877Bw==
+        0mWRmMvrnpGtq+xX2nWnj4RulTK9Nd/65yJcHCXilSVTOv0I822tow==
+        UE3zkmk8/egnutNFfG5sZCUmouOn6qk4cvn2ZimLce35ab4gkVS5jw==
+        kulni9qvC3V2HPVbPWUs+qt1nu/M16if72WFJeHIX6jz6MiSW27IlQ==
+        JjtdpgUnie+fbagY02DRVaRxarFK9Jbpx6zUFXrsSCNreGiZcmLoXQ==
+        Rzje4YnnZEpqmNcu0we3LUe2W01JLW3YbfS+d7h83TBKY6/3Xag34g==
+        luvn2VnprXXeRaTj6mG/TZ+KPLYHaM9rZ0jCTaEEmuh3e9U61VygJw==
+        GaWX71LVwnzBIWWU0lh33VwPdUnqg+eNCbwTAT3KQhpVZ3PF9N5Y6g==
+        6uOmqKXgcM2Yu3s7dKdHfHOE/ireGN/Uqu5MymorCdwoZBz1ZnSH4w==
+        InZEsjlmTEJYv2t1m62HwTEWFctOqy5W9YqeIqa3Kg2xa3vNmjs9mQ==
+        MaYsTDeLLiR67XCk2q+U89jIuhuR/e0o8E8FQ7TdE/NVh60okKvJDA==
+        PHvd1YfqvBXTxzRhzioTdtV8eHSkVLdWTDDjuK7TzuutQHZGwgjTig==
+        tktnKxJSiIzg9Wx3PDaBI1r9WGPO01nRXXQnBf9CrDGPcTvuCrI9SA==
+        kru2EiY2Nb1rQRr4K89PprFPcVcSLZAkYfNkmFx1D113SM3tKOfVDA==
+        9MrbLi921lbKmWfB0AsKXa5O3Vq0ZkebsYy86wpVtetRPHmGTGJUWQ==
+        d1IXJtru4czErpF091yY1GKuax5TaOW1u+YD1xF75ZUwrVpJXVm0Hg==
+        xhvRisk0tu5qTZxAX6u5ifmJ0TXEkLd8Ls9EJTb3yy7VX1zN5q4XKg==
+        FdlLXVREmiTG3OPMPJ303F1y062Ffq8/we/D7O7He1RL/WYcMoU/Xw==
+        dp26XjpSFS1NxjZOXnfW1VASg2JxZkJzOqHXfOeQ77M0mcIlcnfIrQ==
+        2VaoIu3GkJmVdrWa6luhn3U3JSXHbbfSh53EE/l2U1w13HVr8oD9wA==
+        iZxB7+oE/Gt3ictnDfAz2566VLsPHFbgAshzJs8p/6YjCJn6ZEq/Tw==
+        u06fmKCfeyRM6hnzrsiJ7kj5JAeeoYgu0RypZskkSxTir4su1msB+A==
+        3Hu2Ikx82Je25Gs2YHYJ7G+wprfqh86wFxhPsTzpCnpzacuSp28qwQ==
+        5CV0+0NMtqM4yDPm7PcuxbtRjwTtcGN6Rz52pdo4kmgto5Y5u0vgSQ==
+        ryLg+TL2mMydr7ri2C3pqwFoh8bV7WoiBVuJjF42k4/LojvlW2Mrxg==
+        I6IxhiqdYT8c6wyDVwP/MG35LiZes2VhvqIi2/y9m2vWTeJ6H/a+0A==
+        nocuIdK55vvjxlZ6nZnCv8RZzeUHTlSIDnsPVceCfIP+puSzY9O5ag==
+        wDov8tqKcm4VAj013UkvslYSOSCTQWfpV7Meklw/g//TuktUJpX4YA==
+        I2RKMymWWD+pJI4YjqYsrJXQzUnQov9eJ4o7RuxJtc0Z/ourbKWazQ==
+        Q8g7t+ip8+ws53ZY0vUSeuvhWMjEgX0Q8lw6T1JebZmoe3pqnmjwDw==
+        qnZTYl2dwJ95a+CZXQHfY2XYrVRtB7zPzokSqA8H+pZs+gpGsFICIw==
+        mnWGNjvD/8zNVs59egpZK8z6SeYa/JGzdNG2jtKDTOREFoyAULyZNQ==
+        nw81+oqJNehWWhaCP/1kK7Exn2P+Swj/LBxvCnGCBv5/bgEf68NZsQ==
+        TDKHfM+qxBJlkMn51Dl2Fom4+kEGsigTf291rr7s4P9GYigTb0NvbQ==
+        1PSU9ISeOnFfF09QlX30IJlDTy0dR76lSWOdzyON3oJ2Oz/WA+c1JA==
+        Ey2F/tiVH5ApViAHWZZ7R9zQU3P0lN+0DiRi57c2185t3ZLjw6SnFA==
+        6a2eB/3VLKG/yumHEz0l/nzlpL7SU6ll5lvksn89SFFbwENd+pp6pw==
+        t3gHc1YRvKbzQ631X3xesSz4VTf+SnPjiM1Pq0Cp7OXBX5FmhXbN9g==
+        Sj9eMP5Cu7s6m1+esRJr/RHjUxv8ZMdUEfSdh/j8SJAvyJarWOoz8g==
+        U31dRWxg32TEOxHxVjO7F99nKVFitVAwProj/jKJoCz059lf68+LPg==
+        JMXGVQKbsf2EzPIXl6vrCvHw8PAzcksgr5MJeXnId2J9vol4oq9ShQ==
+        WOoV+Um3pa+SrA3gZ8b7gb7Z68N8J7hK6tiYT5+ULz5YjFjFGGcnfw==
+        S7zbkSNXuwL+tAu+5yudI5drrrh64oPe5BAN82hYKrl+uvmBxq9Bbw==
+        N46V3p/P/ZV6XUAeD85SKlVNQN9q82JzDfS6Kj9FOzwhnxKThbJwMw==
+        Fvx0/YsnwztRZOO4w/c68i3ie6DHP979DaH5VnBXZGXhdSHyG+Oh8w==
+        RNsulGbsQT4kO6N/JghKrzIm+B/kkH+8ZoHfmQJ+mRz0H4QA/DIWfQ==
+        JeioD4PJlSglOYegf1we2WA0gnxmYoD11yV91eVqKIKmLf29uqTynw==
+        26lSTgrO3+jtI2L75J4qgTOo/J1+YvRhnAYuQzxi+e1hpeujqglYxg==
+        0MqZf1V17SUGJ5IzueWO/ZtqkOMoV/eCgn8IyCdVGfw7PkE8GLR+TA==
+        nhLwR/ZYX0V+mRHCQJ77rlFyMlRAT8y8WPJA/snaTuPT6KOzwXnnKg==
+        SLrGfqoZLfjzbr1izPiDv1TP5+MwqKfAJzHX/pwY5xfbP2+G0mvFzQ==
+        3+u35sjn4rZSiLZW/aXePXSu15pYcaedAbyTHvq+141imCbnL/RVjQ==
+        /HJsl5Df8+Rv1Ev1GgaxGCjsLLtAP5M6Ggbw+sjHWsnPVDhr4K8plQ==
+        yh96/pK0HOT7vOdKo0Y7P1HvQjTsHQbrmevan2tLWQc+9oESTKUhvQ==
+        lc7oXBANUsXwfNaPtLUM+5FbVgms+ubP9eEI+L1m8B+OfwaeryPIZw==
+        6JUKUSGfgAjSkQu8AVEMw3liPkahrwbsU6VynBHa1QDrER/5r5MSvw==
+        0zckGlmj3mK0Wa4jHw9VXczFPGBchxj+9agR6HNCLAZFxcBfEJkBfw==
+        Bz9QXG0C/6W+RNhD1sZK7ksF8CgOgf9eYZXYuaT+SreG4H9G2+Sygw==
+        Pbk8+qtZDn62Cz/W9BfaDeTFaroO+Qcd6NWlBfyh3cIftLeI729JrA==
+        BIQ5+TuSXiG/J9rWrLj6a+1C5b9wDNjP7QX7iO8RS1LowyW3J+SxrQ==
+        j3zvJqViqOcS4zcX+B//2qNe8BLoX4Q9EffaKILz3AGPuyrig+4WQA==
+        X6vKX2rx7Qh/JzaIh/YNeBhdj1yf2oZS+rfEj/T9Sedya0oU17jN/A==
+        RAuP0J9hCQqZtXN/T+wz7PdmE6WxmJrWG63OBxMX/Lh1RP2bAP90bw==
+        S0X2LvDHRJSPfFBDfwG99b8jhxHme+wqRbCcAP4hekC/Ywf0axr41Q==
+        y9sL68FeA211Av/DK/DP3oAHuFqsp96B51IC/U6t+oG6e4B/Jm3gvw==
+        1h70lbxeHNnJgmK5ku1nOkftATFQqVz7BX58yD9fbOirRvYS/M7gTw==
+        CA//IkyWEvofW9hHwrtK7J42+L5YYPxuAft1r7BPnfExfx6VijVeQA==
+        H/rRBl5OTxd4rFL4o/MY3w8eBuJN6sN+VAP+63Zwld41YsSXwQT08w==
+        IeKFb+Wg9zSBv9+oOdZP4X91RUM76y3Ic8L7rh6IxxdJMlcO3C195Q==
+        YCNGyIf8VK7GizHm1w3gkTk04K+8gF7DhX7FI+QxvWuY7zEHPeUC8g==
+        0zkH/nEY0fhmsEpvPDzEh2F0HOaHEvFMPQTwPxL1/+HJUHJzOqevVA==
+        LDCeWwiIF1MX88sh8JGxC8TDpQa8W5BHzulU3kuC72dz4LVf9Eo+nQ==
+        L6F/Z41+CfGsn51a2EuWYr3LxALeVbTV/Qb99CG22FNdjGc9yCfX4A==
+        37zYhD/queOTbGxDJuPxmb4CMaGnuhl6qtFkvF7P2SN9IoKVc3VuoQ==
+        3z4gPxgmvZzrjue72pTe6pe7SibE0OGvIhX0sSRA/kxUrJ8z9JUBTw==
+        prf6jr6h5Ry+37mVnE8yeoufu0L+fiwgP1mekO+sbL0nksuiqD/yHg==
+        Es+AnrIhCepHeoua6PSVoaGM/IrsX51LKh356SHU4D9Ji/z46TkskQ==
+        9Rb6ZsUuU5sZ8jW7QL7moT6Dv9Zqjp5KkRHPlI7ofFkjX1rSU0Zsjg==
+        /HP4/lazzNBXkratoJkazRejG721hvVU4YS2aotyb2sK8rlTj/y1TA==
+        6SkmegtVe1zQNmJ6yuhAT2FtaH6XNZ5EXwlB/VvSW2W3aUZPFcZtTg==
+        5EqqiFXQfMwL6aky3kHRmZ/pq0c78Huwka9xz5aeWrrS/G2C+RX6ig==
+        kr2+YLxBTxVJFj0VuaGnYC4nyMvd3aTcyk8dUbcp+JvdMpleDepMtQ==
+        VSGPHPlqrLE3yGM9Q30Enwt7OmndQvfmWzaPFoXS2xsb9Y8cQZ7Jgg==
+        ofkU8nfVXG454i/Rr3JJFxBlVfPkyhWIL6gXM3JebGGfi7NSjV2aPw==
+        z9ztkJQa8n+PoN5XR1T+yz6E/0y1LtZUFf27/KlUerXuFqo13fJEOA==
+        rhDPlxbqhTGdf8Wj35vJSNbyA9afC08lHxdz0KedAO7wmiisKy67HQ==
+        SlFpmK8F1EdmMgF9gz3GB2fk54a6AD07H/n8tXgingRpFyKTcPh8EA==
+        ZIpgxAbqpQ19NWwRQD6+EWD9FvVPvghXimD3HeqDyEN98XqhnjLmKg==
+        6qEbna+NzrBH8sD40gaOlsAjmcQbrGfTVxbthw3/mkaQj2xivXOIeg==
+        0irbboEcEvxnCx7xcJYCr+dE4nN9WCipx5MO8SyXhr0moJ7xNKPbqQ==
+        M/rK3SD2FFZdGVg/Rzu4CSHa2bhLyeWA+uhoFUo509xuS+Yl6pHR6A==
+        pljW8wj5dHS/yKkhf7Wg9bFH94ccF237OEb95j9QX7KyrbDT56Db6w==
+        XYt6Ud0WqIfaF+ZPG9SjI/GJ+MDcuh2SpC3fewnkpTLXLiKb25YLdA==
+        +6zIs7bqlurxBnnlYgZ/Jp5Rn5pXh+010QT+Vjv6qt8Z8hJGHuRh+w==
+        kP+zkLigE4CfSTal9ltIbBDHjGJMmAXqzR71ZKBtRIUlq0O3UZ8V8A==
+        4SU26j07x3ryBfIhm0zJtWfQLbV1AfmosalY0zuL+lFKgD95FSrVdA==
+        VwKPJAFejQnqZeegoJ60D9BHbLXAo43vqfx40kw94H0VdpHKHuthMA==
+        tUCfG2r4XsrAn7OC/oz5CfJcxPjeXNmQ74HyK24h78faBj1jAfrKMg==
+        6GOxfiqWNpeA39NOGpIj1s/NR90FahcDv92yRf65o/s3TQR82SXwPw==
+        vtuQhx0CH1uD3tJWV8Bjv0a9qq8yyHMEPBE5ldj8PFwhHoDfhb5IsQ==
+        fmeelV6/5qD3tkS9zBnAg7ak9rfwQX/6uiH+NBLsIfOB930Jefo72A==
+        D+x/O8yvSw/51WONevexovYMe+91DvasrSLI+8aa6I9fXazvLFr/Hg==
+        8P000GB/sug8yFwx5WCyVuEvsxbt3EnkYFwInaGLrfQiR4dBvXzU4A==
+        L7vH9kWu8k3ute0c/n1Gb7Ub9NUHe9CgXpaY7TPfor4nSF+BH97Eeg==
+        zvOM+s0VID8rpPyMwa97v0HeJIN8H1WI+qm1u+T9K4P9xmLo/qgP+Q==
+        d0eMzyrgVefH3Z5sc4qHy1OJJ9MR+HEz4KW5MMDLE8UiYQvIM4h54A==
+        NQkhn+VJQnC9Qj+2dui22vS6ZXsEHIWYt1u3Ie1N4vv6dkP+D3uI9Q==
+        EP05C/wHKr/r5vriJLE9GUH/jud0G108YH518gTelJbKP4Z9hNxKqQ==
+        LJW+WukFwMMC/gehWQL/Yw/0Dd/HO5mBP8kC0H9ehMifxxPwvwqdYQ==
+        Li2AD/U+Rv+Y+qvFkdpjeYf+TnT/4jGHPPXc7mLVHCC+8NlT7tX1jg==
+        npqmr1A+UxPxj2HpqyI36OMlIt5Nwy30Z5/RzjeIp7qXQl/qZftEfg==
+        3MqBVywRDwP6ykgueIhf3BPx6L7GfBeWQfyaGvRVGh/x8cmaiL+7KQ==
+        xk+WiK/FCvF9cpIRb19F/SKjayb33hPxTB81+P4KenrT97DeiKevCA==
+        tJocqGv0k+mofpAwW4GeS4nva0F6kAfwE+ivAv28gPmilr6SU5/oqw==
+        IiLGqz7mc19iZ5ClCvnHNB7Z1RL4eEwgX61AfHDYBvY1c2B/ecGj/g==
+        f7+/7VsYn84TJZ6VdP/pRiBPrbPpq1o0/lZD+krEDvieDemrKXcJeA==
+        X3U88gVhgng3o/GHmxdKMC73+L6wYM/mE/HCC3awt8UY6yugJ58ZKg==
+        9M2I+H57p6/YmBLkB3/6JGeLvsJxGtFT1SuH7qfR+csr5LWb0FPg9A==
+        FocaHDFepKdeBxHyKcfFeK2foe0Uokx04YJ8w7Ug36gw6al4eutjbg==
+        0VdhCuhv2qNf7en3syPaXsxjPo6+0sjr9JVKUmP82qL6fiRYj6WvVg==
+        MAPkIyWTSMR5RfSUNT2169zprffjDfnVkp5iFh9Y324o/SzVfzbBfA==
+        pDUx36sEP90U+rfOW/pqzBn8PzYUD6YP/Y4P6M9WLX2VwAZ9F3qKOA==
+        Dyh9EX1l0j0g30p1eusjUugrQUN6y8Q/i8S26Kns29ZpyCWhp+iduA==
+        FUigYr6XSm8ZCNCXxjjg56mvgPdeRnsVoF0uQjn3xpS+W0hfqSypfg==
+        lwvQX9NXfbIx/b1jrnWWxtBXNpWcp69wLOgtmwP4F2dPekuD0FcKog==
+        qAEoFlI+tVR6q3YaPemtI/rK1Ya+IpXQW5VrA/agtD7RpjG9Vb6grw==
+        vMUX5M+tinyZo69eTgvfQ5Cit0aCskT+eqi9nhB667ibsVJulivMlw==
+        B/QVLV4Gf+eZ7xKpwnzIdpEf8gzqH+mJ+VS6n6it576hHln0z1wB/A==
+        RY5v6asn6HGbnL4qSm8Jaw/6qmKzkANEMbRZ+v00pbcE6ynqhSt9JQ==
+        Ok4x/3g1An9xEz1IdQP9Pp9iPCnRtuMU+NopGM+lrx55j4X+Mb0leg==
+        pbeSpxXoMVcp1n/d6C3QbQl8YH3g74V6YjGLIe8BSj7V4DCf4PYysQ==
+        kgG+39e0npk2cu6KE6zvbUGfU6LesPKhT/WDdv6EfKcsvfU5moJf6w==
+        ifrGt9BP1BD0i0uZ3qqW6C3YI+Z/AQs5MWvUP+s76MlryMe8aOAn7g==
+        0ZYbAnzcFMzPtVhfl3Lgt+WhP/tO92e3OY1/Er0l2YO/vRvDXw5mGA==
+        X3BYr9yBfm9wgPzNEdpRG8v9zCmhn1gAfQ+FvtLn01vnL/pK41CGvA==
+        bE/E+pvmCHmJ9FXY7AJ6hSva2q2SA//2RP+QvpKJ6I96a3gG/SFDbw==
+        NQcLxEvion6lr1zmjor6fFrN6auRejQkBYmVQN9T/ZxE6Iejr7q5Og==
+        9K31d8xvJsCDZe6AJ/2sv4i6Ab8G2gZ5Xl8vspcW8E9DC/T3Q9R78Q==
+        oHzvH1DvP03U/1lBX9mreD/UwgD1tM+yiIfKEv3j1Ysl0VJWcgt/Tw==
+        9BWtdzOORT372KB/sYy4nHAW4tvDp6/yRaD/UPaov8e03o0i1NtbAw==
+        9butTNFfz48sqRaGUs1SCfX5eoZ6ePUiqB+r2g9IbYPfmZYrAiFXPw==
+        IWP7RV8BZRULVbCfaMQ9DuE/AyWYLIaYT/GwXh5VSq7Goh+T1NN5Ug==
+        oZ+4pPMD7WSDv1azlNxOt/6CtGOMf/Uy4knsgJ9M01kyy1PFsg3TXw==
+        6RUsLn8S1PNaPMV8N+3Fw0sI0I8191ekGB/5XFEr6IPkoN+dRhzZPQ==
+        G4VM3R76U2bgd0RfHfWA71Dfz148CXU6f8z7mbqfgf9zRF9ZBb4DrQ==
+        nEGeQ/QLbjoEf1PanqMdENqGfI48uWO+apryfqrqsyNHktdCyd305Q==
+        h6rmot6Xnyx9ZR7yUrsp+Is0ogR2k+D7+VgfInSAX821gSeevqJ4zw==
+        Xcgn0PC9Sl4ckUiA+smdQN4XDfI+B7IS2/kC8jiY0E8/FxD/qsIP9A==
+        6RRtR0uV2CVn0O9OIT+iGYowIynof5k6n9sq6JvkoZ/pAVxSvqavfA==
+        Gsbcj9WzgfnXD8hnUm1Az2Kic0Skv2+owR7zhxPIyy6IYnksbdeIpQ==
+        uY/+YFxtwU8BesjiUUJe7Ab62ZqvIZEPPfL7Zu+jpLUgj1kRAI/s2Q==
+        X2mPKd2P0WBfKjli/XYCftl5hXqKXUA/uh7xyDdArz8U6CsWI9jzZA==
+        B3840S3YD9PBnvYO3Z96tvAXeQ37UbcG/HMxhH+49vBfcUP9lY54oQ==
+        Hkfwh/beRb7ly76pItnh8ySnr8aWBvR/IuDP7Q36ij31Z60Mf15mMQ==
+        7NnZwj4FFv68akqZzHQN/U0Hf7eSSjkwCh7+Qm1gz2OH3tpnavir6A==
+        Cv/1HPXIn24L0Csd8b0SL+AP5zJ99TiBP6zHmH+8wXzahb7asAzxvQ==
+        lS5pPNHhT4IA8cioInrr3kR/roF/p4e/VCX6KvfuhLa6OVF/nIJfdw==
+        SOPPXQZ9lz2Nf0Pq/6ctjRf0VYeHSV8JmJ7oqw9b+srDhJWDqWZhvA==
+        c4L/02zIz1vd4Q+X9NXV2nXpq9s2/Nf5Bfr5lMaLLY1v6w7+bb9FfA==
+        G68a+LvL9f9r79qaU9WS8Pv8CmteU5aCIFKVOlXcvN8vMcnLKURElA==
+        iyKi5tfP14qKMXtn69kz2TWVtwCL7l69evXqbuwveL/8Wih0muYI8w==
+        e3Lx/G1BqAgl6E8xCRVzvYA+KsqI5HEhX40HfZVtwH9mprg2CFWj/A==
+        ivVWn5DySmyZQzzHaljPno312y4qFP8Q6sTQp/paDe+3lTn0NfBxfg==
+        +K+YT9F9wnplbfjvaY5QPZrP0K9DqAjqls5rowb6r4TCMY0QDzTqGQ==
+        6uqXyX/L0L86GBGqCMUbco/0X2Chn16LzitC3axoPKHYNKG/pxnOiw==
+        hob1Vo0KxucJZaP8QiglHIP4Zb3EFm7znT2qBHWpNk1eKvvUhdawEQ==
+        /xUMxHvtaIf4Z6FQvW3aQ7xnvSA+nRLq9os8RDzy0kJ81aSuvIVJKA==
+        QchqNlLBC6gLvkZdV0vEc/O3wJeWKnXdKoM18gv/bS6tJQ3xnEUokQ==
+        ndlsLnVKO15qTjeI9ypM3ZdeCKWxaVHXWrZOXauqgnhUoq7htYbrRg==
+        M5+X6koV461ImEtWrQP5p7mWJQ+imS8xrUYe8eQU8ZoW4toqVsBfng==
+        tSSp0gX9XGOYl0r7LrBCFfGdPYO8xc2auuIqAqHMLKkL/2XfpY75cA==
+        8g7ybEbgr1PXOk9d95UXHc+1MuJRjVA1i4TyJNU0XO/akK/5VltbSg==
+        xUL8WqiwvFS3BtQVvIG+mWkB9GRCBWAcWo861rv9phMquqhifoRKIw==
+        G4SqMn6Y4bqFeLEVEOqMSSg0hpuFfH6XUHn6oLeTe4hP+9S1y2rUFQ==
+        KZO+1D7ppyL4kom0SdJmEfjPe6AncoTimQ/xfi56ox+hEMqCu4M9OA==
+        LqHoexXE3xyhEnDTN1+yFZu63E3MdzIF/U5gEkrMGPpoidDXWqIu4A==
+        gQr7mGT2qPDQTymok36WGB9RvbP9ivGq28D43JS66iXSZ60FfbY92A==
+        T63nUhc2K6wlwVpi/qsl4vViD/b1xrqITxT6LwvqjFDKqnahU1ImyA==
+        ZzUf+chGHyLeRL7ZkJs+8rd+DfmlpiAfVgYu8sfhwka8WBoi/+Qc5A==
+        Q91Fr9Cpu328/zxHflJZUFfy7jlqqLYLeu38HoV1jufjBZ5beUK5Kw==
+        EWriaDl6k56WhIpWMsFPc7Ef+nwN+11vIN8eTcFf9aEPqkdI0tKobw==
+        pBEL/jhlcD0hFDXzaQl5mjqhgj5DHo1F/qPJVC9Zm3herSAfwykHeg==
+        K2+PempCH/kdoT6uMZ8l1V+0shxpcp9QIo0R5YfmAvKGLqHq+ZiPOg==
+        JpRZk1D1alvkmxWuAv1lRKzHxKSu0kxuzalzyucKUxf+dLDBeIO6eg==
+        yyXK54o81X+mmO/Mp/p1qRNR/I/8m+Uhb71GqAJtZ7SVnvn9fxUg1A==
+        xibpQ1msEc/2kI8qe33JdTxXvSKhmtLvK2Br8IcjIaqpC3mE+E/a4Q==
+        vCt06b/caAIrKdueWNGMXjRUGiry65HlIh5aqZGhBA9Yj3GG6gd9Fw==
+        8hk5Qp0UsR51ger3wx11HRfAr1Qukfw78A/CEuwnM440pUX5eGtCKA==
+        q0YxMmFQoM9Nh4hPVvv6cgX5u20PCXXciwaSWBVYa7zTIU+H6oUi1Q==
+        y5xeSdyUODMayn4pQPy91UWOuuBfFEsVspYusYhvtHpkyNiJjFXv7A==
+        xE1Va0UU32C+2pTqYQbV54alESM9dJeiX2oYGF8uQ56trSDenM+ong==
+        UQX9fo/+q4oWRi8S36hTPFgSJTm7xXi2jufuDvpprOi/qhglyM/I9A==
+        vFPF9YOE8U9t2GdVxf6QajnYR2YMfbWEXlSRJlnYzyasUb7Yx7XG4A==
+        uQh9SZW3Bq6rG+y3gTCk/IDqM8s59Nt/JlTSJtWLIurKZ+m/MtRy1A==
+        pfxAKA4zDvl5vZvB/l7McD0RSvA3s+maU5Yq1sveYX/XwjKher6AXw==
+        MQd+bZ4Fv7EBe1zSfmmHOu3/Pp4vqD5SnEd4blK9ojOl/bIhFMN+Bg==
+        /qPaBn3VI1TbSXZEqCWuIEkl8lc1E9dZhbrobZ26/FV1Lm2rGqFE9w==
+        CMXhjVDYKgNCdfZxPvlb+Gu+SKgKLov58DL2jzbrwb5CE/ZfsajL+Q==
+        hYU+4U8kteLiecDDnss2oTyWbMg3yMH+i1uq32wI9bKcLRUQb+Yx3w==
+        fhPzEwgVodXJUZd4i1AtMT8JMQP2X5G67JfKA3XR0/ueRl3lhCrYzg==
+        YT4yS6gAjYDOq2UA+YorOg8bQ8hbdvA8S/I6MvarumEOqJs7KWTp/A==
+        XhDqqjgBPcbHfGS9SvWjGfxLnmMRDw7b2J+tOfbz5LVU6Eh2C/ulOw==
+        Jf/q5RFfjqleNKZ6yXiuEKpaCPrVCvRhyYTyafVoPhqheHZhD6o1Iw==
+        VIc67EdVqZ4S1nHdGsLfTYcKzosioUBsiJ6imdiPgzX8oaxivCwS6g==
+        hE4oJ9kmoRRXlnnEU0aro2wmdJ6XXhA/SNtWR83OEF9wGqFO1lj4sw==
+        qUL66kN/isxivUzyR7YA+VRvQOslgP9EqiG/LDSiocQV64xUlW36rw==
+        Ei9RT6kXaT93sX/KjQr2/xuhpG7X0F8xoninGhIK7iIPf9aqgl6X7A==
+        lXuCvksO9KlO2tCH3Md8G0yZ6klPsAe5BH9cbGL91TnVR12qj9V08g==
+        j/wS8hWCGvyhKWL+tW19K00NQmkNetDXSw7+a/lA6xfN8f4bh+uXNQ==
+        9F8LqJ4bvEEel86D2i5H9fYQ/AQ9D/+tWJEmrQnlV6uysM/lBOurEA==
+        qq8p9Qq/u8tdkOMud/rzbyuwHedvw/fMvyd6cOhjZy5b3X887rvf/Q==
+        u9/9u9/9u9/9u9/9u9/9u9/9u9/9u9/9u9/9u9/9u9/9u9/9w3Zq8Q==
+        qt+9YW+PzdT6olcZtB25X621o6bW83ah/SD9AR3vzJ/V8c7flcvpng==
+        lDgBU9IfcCbrnpwUSf56kZ6L+tg8yqQE/mo12d84ycV+VdrSOEWeaw==
+        3Uk1fM//6oPZbh9Fqniw7TDVnur/8+zl93uoJN5Df2N7KfUQUh98lA==
+        OB/X5s/dfL9T0kPGzT+8Dps16f8D8OG/5K4Y/vfWnr7I3FfJrDjVQA==
+        hJDeW8bqqwVbXAiGHPAPkSt0TtvIds1U3ZyEyaidEXnxiwQLLgTr2g==
+        1jQpGcczfP5rJHNOKqsjC3Pe6+yLzh4nuJTqvcK+SKzJSVlF0xyPdA==
+        Y/5eXywvFL6oODwJroS7sjNWyH1RbrhwEiWjvbd4p7ovEiu4Euud0g==
+        vkYu4yIiTB9X9KvF2nyc33+RxbunehZldCcrZwQh+0V+3l2fA9TFGg==
+        qeb/vtD2T8PTx4zne+mJvU2fHuzpPGasIB3ABv/6F10Fpu6EOMsM3w==
+        CwPfGY/O0dvRGh7jZ44ZjPVQ388Vtya2tQ/Yzk/xyrmQnXgr5fjGfA==
+        /wE2rhPWUm1zrDuJgG//lGTBMYGp0RqwBY4+PTr+4RLPQ9+yHPNChQ==
+        P+dSs405fc39hFFWyCUYMXcw6m3s0JimmJ8zYrKcmGDEnhkxNzJiPw==
+        YZTL8glGufsZ5T5hxOeTa8Tdz4j7hFGBqn8nRvwvMmKuGfEXjJgrYw==
+        SCoun2ST2IRnZ3HejafTZ2WGFEpH/46TnD0TeIL0ycmm4AjSJ2eSOg==
+        pF7Q9J7sqbS02JNKrwOHrkLdSuMO9vPhKrDM8744XB1fPF6u3RHtyQ==
+        dFJDmbOKbtJa/hOtFZJmINyrtqa5DW9UG/sHqq2/9szg5wrjc0lzLg==
+        3KywmMVNqspeqqpHP4bB0eZTleoXtcbtKxwXils1rlT3Owyu8HP9CQ==
+        YtJlizfrr2FCAs93zX+mw76++GXdMey18vqLf668pDPVtpispzuH8w==
+        9bPziM2xyfOIueeIfcfxk4OJ5QtJ/8rcfNY2zU1KOTz9OSeOFTkxLw==
+        sOIFv4+O3KSW38U38QCd8gnI8gvRzmExr+IckiARwhxtKfPZ6+cA5g==
+        QIG5mcI5MjlQYC8pML9MgT1SyN1LIXekwN1LgTtS4O+lwB8p5N9TuA==
+        BLAlEnvTunAP8UF9vUEP3H5RhvxRBuFuGdj7ZIhPjQP3wr06LBwpiA==
+        N1O49k+xXd++Na4dT0zqxj1y4VFiEj/aJI+Z2BXEl3i8dvZFaeRNtg==
+        B+WmT9lTHNCCpWcaNOQAOE33XD0MkJcF/uZw7/onnY+HjPGDpIz79w==
+        9deH9MHtOfYqND1KP4nJu3uXxfjHs1hp8nln+sJlyT5W1ZnVOQo4ew==
+        wnQykPnF4/SGGCK28aS8v2sm8Zn80VTE+6by8xP9J1NJZvbv1u40ZA==
+        5emL1dQPkwWB0739qp+ufmBYxOcdlcfMO2OLb0/9VZj47AIjvPo8cw==
+        9liP8cD9V51z2HV+/aQNNs8ev4i5Vb9c6bWdrrMUq09y22D91xpBoA==
+        Z24nmyvkjmS158G6zol2p2GPntYz63kYsKvNfWRZPn8kO2Fm1d44ag==
+        9OR1ZtFpVPRhq8LeKS39qPqTXy7cQ7VQOJI1X6uDZ2Ha7bfc9qiu+A==
+        rDfcre8VVjypdjax87r8GnTD4cLYBJ2Zkh2Id5LlhE+/jN4jrHBasA==
+        aDUozO1Cp9e1n1ZSTZ2qVfHpTjvIHom+bCaGk23NO2vzdbi0c0XPEw==
+        7Xtl5U8qWJq7540zYLvD1ii/tB4mb+2JdK/N5j/9HwOn8+xqkx9KhA==
+        V1XBQ7EQLPW9k41THrw49cGxqgf2KQ+CG3PhvpD9ZA5vQZQ4rE5N/A==
+        wHV1T7dIzv0H5lgQa23Dawa2lRhhJdO2kQ8HfPw0PdEd+rmAY07C9A==
+        hDSRvvxqnXLsyIw/acdjPTs9P0zmigxla2Zgeoa5ShN7aNeKU73Ekw==
+        D96i2cayvheACqxX92wrFkFfrWzLIy1dkd3Y3hhxgf1mpql2nM3mLg==
+        7u2wqDn+gxgA+iHZzxo7yJeQOz7ndNtLirtPnIj0SA/Si/iHm3Cn2Q==
+        i7hJD03LD3bpE4HEAXTMlw4PUiuDTtIEqcty+ZkW5pZN2XjxQsbMDw==
+        BzO3DGZvGZy7ZTB3y2D+lsH5WwYLtwwu3DJYvGEwc8sKMresIHPLCg==
+        Mj9fwcfMpY0mQq4fGvbjgnbwt71/Yu8/Vu1H+nvMfOznD4fO+Zw4nA==
+        GzqCZLjxfUFND6ep+Dp2vH4wRv4XH3lClnlXeYvPnuRg27MgEKL8fQ==
+        8J35a/8lzPZW8M57V2xM1978r3/9B73VwENhdGFkAgAAAEROU1NiaQ==
+        bHoWAAAAEAAAAHjaY2JgYND19NM1dc/0AzIZABGlAicAAA==
+      >
+      FLOATPOS 497 142 1023 702
+      FXID {226BE160-CED5-214D-9D9A-7FBC8BF70B4A}
+      WAK 0
+    >
+    <ITEM
+      POSITION 241.95334000000761
+      SNAPOFFS 0.00000000000000
+      LENGTH 1.86490327073312
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.010000 0.000000 1 0
+      FADEOUT 1 0.010000 0.228538 1 1
+      MUTE 0
+      IGUID {3E311366-1EBB-B34A-B5D3-03049E4CB8C3}
+      IID 900
+      NAME "08-Engl-120424_2136-01.wav"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 2.72726708334093
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {EF10C969-98D0-D44A-A934-B26EF99C64ED}
+      RECPASS 437
+      <SOURCE WAVE
+        FILE "../media/08-Engl-120424_2136-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 243.58970500000774
+      SNAPOFFS 0.00000000000000
+      LENGTH 34.90911999999227
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.010000 0.228538 1 1
+      FADEOUT 1 0.010000 0.000000 1 0
+      MUTE 0
+      IGUID {383E4ED8-19ED-E949-B65B-1423475B797A}
+      IID 870
+      NAME "08-Engl-120424_2118.wav"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 3.14229875000774
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {26FCD649-84FD-A246-8586-C096A5C94059}
+      RECPASS 422
+      <SOURCE WAVE
+        FILE "../media/08-Engl-120424_2118.wav"
+      >
+    >
+    <ITEM
+      POSITION 316.74883099998704
+      SNAPOFFS 0.00000000000000
+      LENGTH 29.46426999999085
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.010000 0.000000 1 0
+      FADEOUT 1 0.010000 0.535714 1 1
+      MUTE 0
+      IGUID {C18517A4-1742-B145-A0A0-C0BDA529C981}
+      IID 878
+      NAME "08-Engl-120424_2124-01.wav"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 1.60713308332038
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {87E315F8-E36B-3140-B0B2-E67ADD675076}
+      RECPASS 426
+      <SOURCE WAVE
+        FILE "../media/08-Engl-120424_2124-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 345.67738699997801
+      SNAPOFFS 0.00000000000000
+      LENGTH 6.96428199999787
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.010000 0.535714 1 1
+      FADEOUT 1 0.010000 0.000000 1 0
+      MUTE 0
+      IGUID {DF7C8376-CE6E-D449-8443-FDCB57C362FB}
+      IID 892
+      NAME "08-Engl-120424_2133-01.wav"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 0.64952241664469
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {C9DED8DA-9660-0F4A-804D-8FC86CFCC0FC}
+      RECPASS 433
+      <SOURCE WAVE
+        FILE "../media/08-Engl-120424_2133-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 500.49873958333336
+      SNAPOFFS 0.00000000000000
+      LENGTH 13.88587370801309
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.010000 0.000000 1 0
+      FADEOUT 1 0.010000 0.000000 1 0
+      MUTE 0
+      IGUID {A1B85F71-940B-014C-B1A8-C29EF184955C}
+      IID 908
+      NAME "Poweramp"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 0.00000000000000
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {575E8CF4-8D55-C845-89E5-FA0DB4ADCFB2}
+      RECPASS 441
+      <SOURCE WAVE
+        FILE "../media/08-Engl-120424_2143.wav"
+      >
+    >
+    <ITEM
+      POSITION 519.24126041666671
+      SNAPOFFS 0.00000000000000
+      LENGTH 21.11359375000000
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.010000 0.000000 1 0
+      FADEOUT 1 0.010000 0.000000 1 0
+      MUTE 0
+      IGUID {1F21CAC4-B03E-974E-8CC5-8549B787A743}
+      IID 933
+      NAME "Pre-amp"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 0.00000000000000
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {934C8248-87CA-004B-BA24-F75CADCB6CC2}
+      RECPASS 443
+      <SOURCE WAVE
+        FILE "../media/08-Engl-120425_0028.wav"
+      >
+    >
+    <ITEM
+      POSITION 541.64708333333328
+      SNAPOFFS 0.00000000000000
+      LENGTH 20.20692708333333
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.010000 0.000000 1 0
+      FADEOUT 1 0.010000 0.000000 1 0
+      MUTE 0
+      IGUID {8038FCA4-678C-7848-9F00-3EDDED8110FE}
+      IID 934
+      NAME "Pre-amp moar oomph"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 0.00000000000000
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {D9DECE7E-91AB-0742-B18A-C3F468141AF5}
+      RECPASS 444
+      <SOURCE WAVE
+        FILE "../media/08-Engl-120425_0045.wav"
+      >
+    >
+  >
+  <TRACK '{85A99B65-74CC-EE49-A60F-9840DFC38327}'
+    NAME "Solo scratches"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.69677491433128 0.00000000000000 -1.00000000000000 -1.00000000000000 1.00000000000000
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 1 0
+    SHOWINMIX 1 0.666700 0.500000 1 0.500000 0 -1 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5000000000 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {85A99B65-74CC-EE49-A60F-9840DFC38327}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK '{EB8B63B8-B3A0-4A4F-BEDD-A0C26B04228F}'
+    NAME "DI"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.00000000000000 0.00000000000000 -1.00000000000000 -1.00000000000000 1.00000000000000
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.666700 0.500000 1 0.500000 0 -1 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 1
+    INQ 0 0 0 0.5000000000 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {EB8B63B8-B3A0-4A4F-BEDD-A0C26B04228F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 352.15740035757153
+      SNAPOFFS 0.00000000000000
+      LENGTH 54.63223505909514
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.010000 0.000000 1 0
+      FADEOUT 1 0.010000 0.000000 1 0
+      MUTE 0
+      IGUID {906C24A8-7ED1-6942-9026-901BE20E6910}
+      IID 817
+      NAME "04-DI-120424_2041.wav"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 4.22535869090484
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {FDB33DB3-074F-0446-914D-B42B253193B2}
+      RECPASS 402
+      <SOURCE WAVE
+        FILE "../media/04-DI-120424_2041.wav"
+      >
+    >
+  >
+  <TRACK '{79D27483-07DC-4541-A2FA-7D28825EA067}'
+    NAME "Engl"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.00000000000000 0.00000000000000 -1.00000000000000 -1.00000000000000 1.00000000000000
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.666700 0.500000 1 0.500000 0 -1 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 1
+    INQ 0 0 0 0.5000000000 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {79D27483-07DC-4541-A2FA-7D28825EA067}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 352.15740035757153
+      SNAPOFFS 0.00000000000000
+      LENGTH 54.63223505909514
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.010000 0.000000 1 0
+      FADEOUT 1 0.010000 0.000000 1 0
+      MUTE 0
+      IGUID {FB03FFFF-9D02-314A-ABA9-83950B087CD3}
+      IID 818
+      NAME "05-Engl-120424_2041.wav"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 4.22535869090484
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {464D6C4C-791D-0642-8443-4575FD16748B}
+      RECPASS 402
+      <SOURCE WAVE
+        FILE "../media/05-Engl-120424_2041.wav"
+      >
+    >
+  >
+  <TRACK '{BACA68DD-D2CB-AB4D-BD80-513786CE7413}'
+    NAME "Soolodilsukka"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.36279289742106 0.00000000000000 -1.00000000000000 -1.00000000000000 1.00000000000000
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.666700 0.500000 1 0.500000 0 -1 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5000000000 100 0 0 100
+    NCHAN 2
+    FX 0
+    TRACKID {BACA68DD-D2CB-AB4D-BD80-513786CE7413}
+    PERF 0
+    AUXRECV 4 0 1.00000000000000 0.00000000000000 0 0 0 0 0 -1.00000000000000 0 -1 ''
+    AUXRECV 7 0 1.00000000000000 0.00000000000000 0 0 0 0 0 -1.00000000000000 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 515 0 1262 730
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0
+      <VST "VST: Guitar Rig 5 (Native Instruments GmbH)" "Guitar Rig 5.vst" 0 ""
+        NUdpTu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAA==
+        AAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAGQ0AAAEAAAD//xAALWluLQ==
+        AgAAACNOSSNDUyNEb2N1bWVudCMjTkkjU291bmRTaGVsbCNTb3VuZA==
+        IwAAAAAAAAAAAAAARQEAAGF0YWQCAAAAZG5zc2JpbHoWAAAAEAAAAA==
+        eNpjYmBg0PX00zV1z/QDMhkAEaUCJ2F0YWQCAAAAb2ZuaWJpbHq4AA==
+        AABRAQAAeNp9kL0OwiAUhXee4oZdqUkHB0ondffnAbC9bUgoNPw0Pg==
+        vjTEtjo4fl/OOdzA69egYULnlTUVPewLCmga2yrTV/RxP++OFHyQpg==
+        ldoarKixFGpBuLfRpFBn13JZFFQQAsBHZ0d0QaFnWTR2GFPdBC8Sbg==
+        hbhEFaSDq+qh5Gz1/3Jw0jjMa3BDjU1Iz/9UN+jzCTIEp54x4OeERQ==
+        ZE5mkjqiOHVdmuQsU86yr/AG53HOls8Q5A3flWy5YXRhZAIAAAB0cw==
+        cnBiaWx6mQsAAHJgAAB42u1dW3fauhLuee2v8OJ1Lxd8BbJI98qlSQ==
+        25TcoGn2fjrCCFBiW64tc+mvP5KvMsYBO21we9KXFlme+TSaGY1GYw==
+        VfjSv//PmzdvJv9986b399IyhTl0PYTtw4b0rtUQoG3gMbKnh42vww==
+        M7HTEDwC7DEwsQ0PGzZuCH+/f9ubuiKyPeL6FrSJaMx8+1EY+cgciw==
+        tm+NoHvYkNW23hAMbDn0RdrHAcajiMaUSbfdUrt6pyM3hIkLLLjAbg==
+        +IQyt8ADdsUEkEZbkOHitEVmLTbfh77luNCDBSwIsijub3AsHDmuIA==
+        a4LUOVC7B7IqyC1Jbrx/+1YQeh727bE4BgSMgAeFqYlHwBQtSFxsYw==
+        K+AxQ5SJaOExDIGiMaLjBrYNTcpQbzRDSlQwLoUhAMcRycoJO6cCpg==
+        /AT6pzdBSzGRjSdQoYmIQMujXZSoz3ovgY2s0221KEEbsEHdXiRdaQ==
+        Z9bRhASmTVFj8duC77NmxR6eTdT+6LYJjppw6p5oV+7nm8PDBk+KJw==
+        Jk59lH1Gn84RXHDzTUfjmIBAcQTsx8NGY9OjEAjTMOzCscgoRBJWqQ==
+        0NZ+eWhk0n9PgOlBJu0M8+YT2DjcwB8jLHDKlBuFA5hKEtqDGgKgHA==
+        6TsEW4DEusamKu3EppQZCEFGpqOUo8zTDiYDHcUz8clmJmbAI4OgOQ==
+        pGMFph8oTp4GpcI0lEMguNDCVJYWWAZg4p8ogNvcAKOZvJwbffrIKw==
+        FnAgxIyWpQ85fWzmFbKXGKpLEmS9ZkbNn1B+nddeNBUusE0N1CxpBA==
+        RVQiYzi+uTz+156A4eiq+w8etkf2UXc1fTWGnYyhVWAMzTpqk7JZEQ==
+        BLmsQhUTinRKm7X+bY5O3JuvgysHX3w27shD++hVp14dbL1MolOkyQ==
+        StlAo5hQHHNcthbfOvf/DH58b97dgMXq7EdbeXWzryZRM5OQOUU+Cg==
+        ZvKTXdIYNpKIzOCr/jBYrpaDgWV9/KAbhn+hOFeLvZqBlDED6TXa+A==
+        KXokcf6Q7g9LqtD623GsejX9cT687w+WqHVptOajY/Nh9RpXbNAeKQ==
+        rz3tqk6U86GOT4RzgOzUf77TXtyD5gCexwDP6VwJV3bzajJJEEr7xw==
+        N8zgG86oYc2wOeaEWAOQ/bsYZR94rPEOm77FrZTvOrqm6J39I/0SAw==
+        /YIsxBrXZrxVA4gnCUY4IcJJmDerk07ennDh6iwP8TUwWt8+87nEIQ==
+        cOApNB4FqezeuYBKtMBNTO/Lcevcv9H/+n46UO4uNfOD9gctcISOeA==
+        TEcsAT+HOn7GVCynOWWWxiqLY3fj4lhgBFlLMhNTx9jZYj8/wYK2mA==
+        eQ4egYm60cnGqQ9q1Qeim0B0ge052IM1lKOfgPTtGuJz5jG+/MKt6g==
+        ulQXnG6C8xYa2B2vxxm1AYquudwBdIlwjT3E/EL95t70eB8kDAhd4g==
+        aogSZlB+sMd7n/TimGNL1MEeFyxmLxWQqHwkQV2SWzIUyb8fBSH6pQ==
+        9fHbg3E1HH6/n9rt73fy51t1v0GInAlC5BrvsvWdA4k16zjD8WScYQ==
+        97FOm5lh4giHVGzCNSLGLMGnd/cP0COuYZMY5IC4eASbJ6zQoE5iHA==
+        O2WjnBeF507SdXkCXWgbKTxVrQFAr5/MMDKZE+tTZ/D77VfZTod5Ww==
+        IS6tae4lPcsn6ftR3Q8sm6XdTCRaRoC3/LiU+srt6fldezqTLYgelg==
+        N39Oqj+ulgK+YJisEmuCzCB7ZiCbYG8mfDw9+IJGLnBXB0eOYyIjWA==
+        DISB7zjYJQeXgJ1ECZ+SsjLv4NxHNHQT2AGidnCCbUJbDxLBHph4QQ==
+        Oc3huwWgQbRBKT6KI0Qs4D0GowlbfjmMGeJQWL5JkGOG4gwlrzZVKg==
+        fGajBkzxiSzJYY9ZqRx9TJmH/3rpjb5WfaN/vUj2qTvlmPcQYg/sxA==
+        R65so374hpZTkI2Qa7NN6Scb/b5PargvvTMLN/ra77iNSv3osxfCDA==
+        gZiuyHWIXGTor6lrEhPfmfFjnPOKeqhyV+3qbbmr7eDFnqP0z5qqgg==
+        SUplLG4UFn0t31wiM85XGB5ZzpENzJVXej9aSCaKJ66s9vzf2fFiSA==
+        LpaT1vgYKXfodPF6+PvHlQ5oGqcI1wGpOElYTqOeIBTp1OqyK1k3Hw==
+        nNtLX1Nvv1pnvoLQfmPUVkanWjVOdWhVUx3XdyVXsBfdZ54m6E7d1Q==
+        btnpF8X3LcH3jdPn+uDr3yfxE1rWCdj1PecLBFZXJFCEyJ7+nxx6Zw==
+        CAQkRewTsaDH86z2V4Qxz7XUF8G0q/a/CJgqGv8iwEr6sF8TFG8xgQ==
+        Z0bF7damSo+y31oUUYniF6N/9ddo9TC/uRicWcsHeH7/ZT6Y/nn1Ig==
+        ct3qRfTqaaTf5aC+5nUtaMCnuoQhFsK6xdfT+T/mdP63qR35KWUE8g==
+        fsoIunxFYlT6e3ZfcpkqIBKtUvbq22p0fbm8udflv467+HQun/qvmQ==
+        m91WmsrfPpU9rqjnWWn61MA2AYidnBrhkZQYzBkyEVklOa/0joFNkQ==
+        IJ1t3wwkOB4JyKa00msV1JgAbTZYFy8hSoXuUrtx8cLLXm8g5zjMsA==
+        R7iJomzW57Pzyw981xojgfdsbIubHuSMWeETsdfeypjRqNMEq9ic7w==
+        F/ezB9/qD24Gd1c/yNDsG0spWx9UbMpbzPgMGNRWV09Y86fLT8PtFg==
+        zZ/tEtfPGHShMe9qyBWMWNkpXnyGBb/Itm3AzhQ3nC/uaRd5ym0iuQ==
+        KFrtdNvqfhAlX/oEBiMMUSa8b3fa2p5m7nbupaETU2u498kjqaxIpg==
+        onpf6aSzpAAPwvEo+OwwgaRora6+J6Mjw7S0DboQr6uVvi9vQG7naw==
+        yGqiWwNyStaQrSvZfoCdJA79xMWeJ+Q0bV+JwmS5zxR37s0UUT/7zQ==
+        aaYS46UOzTeFrIXhai6O6zU3B1y9ZnRlVnh/lguBya7sMsILI2jAmA==
+        vzwremZCN76xi4WpEzSNI9boafYyrbRdMLHxGEaz0U1YwjUcA5OLUw==
+        gqcMCzVgOrTgM/6OyvYeJibxZWUET6dmtmbxaS4XyHg8xQt7C6NWWw==
+        4RhJFRgNFkxvBelpRlJL7XKM5JSRVJKRvIWR0tI4Rkp1RsoWRprOzw==
+        kVqdkbqFUUdqc4y0HRlJeUZahpGUUwZecDrPht8KJc4itcbMKT/9aw==
+        3ohi87C8ByzFxMWyG/XExJlEhbhU0gHZJGkQ7bd812S/CJiyYwJqzw==
+        4S93ClO7CH/FL8Y/o4sBRV5CzVREpaSmb5Fah1eDdlWxXcIlKSk2uQ==
+        hmKLvmZ5SmCawqtzp7TAIhalRNXKiipTxb6j1MJvdjKCY2Xxa6L7GQ==
+        Ctd5Wn7tLu+yu6Xlx1WLP0eGQ+DsLLuoWj0jvKHzfOHxzvTDkg7WBg==
+        Zri+bluPZEXm1yOpyhK7xnHLwiRrHd6/SqXX2ku4EE7iCwSf4sQXTA==
+        pvw2Lbm8lNfim6gDYJtpimWHaCeczFycwxBwIUzu04ui19MAJqQglQ==
+        ppBGJiEFOUtB2pmCHFNQqlJQYgpqVQpqTEGrSkGLKejrFDJpuIBEoA==
+        Whn3EC3UeQMNue2IQY8xtCtjkKthiFaNkHunqgw7MYVuaQp5/xTpdQ==
+        edPIO56IVEkbyXiUiESRkfSakSuIfv6yfH4v3DFu2JSpjXzWXAzdng==
+        iTwCbbb9ZEzW2rI55F4KK7iFOaXfzmaaI1GlrNIoIPWEIh/I7Liclg==
+        iCEiHefx/qyRRGvypqF0qw3l6RX9iaHwO/u1uUu6eDZwvBkmfEIgaQ==
+        C2Y9+VV4UNRrrlHpNdeULWre5SgpIRr1C84i0qgrfTu9ppzdUr7lsg==
+        mWYFslp76yVtVcjq8tav0iuQVTrK1rPpKmi7ytbCrApkW1sP3ipNmA==
+        vrUIvgrZTmfr95+JM89peJgfy6XEwkwZ5QmYwUYXz1Me8fX1E+xaFg==
+        sMGUIUjO71knENz2KQZ7AkBmQvQ72jFgd0yXsHS/md07RCT4vsie0g==
+        BYX6qcB9NN8Hubz1/xfg/dv/AWtensFhdGFkAgAAAEROU1NiaWx6Fg==
+        AAAAEAAAAHjaY2JgYND19NM1dc/0AzIZABGlAicAAA==
+      >
+      FLOATPOS 594 115 1023 702
+      FXID {130E9CC8-1C59-384C-84B4-8A5FF9EA9DD5}
+      WAK 0
+    >
+  >
+  <TRACK '{FF4C26EB-3AC2-9C46-8801-EC6187C4ECC3}'
+    NAME "EI-SOOLOT"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.39997772045111 0.00000000000000 -1.00000000000000 -1.00000000000000 1.00000000000000
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.666700 0.500000 1 0.500000 0 -1 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5000000000 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FF4C26EB-3AC2-9C46-8801-EC6187C4ECC3}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
   >
   <TRACK '{38790B21-8880-EB42-A42C-F5C44DB400BA}'
     NAME "Taustat"
@@ -228,7 +2397,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.30902659488464 0.00000000000000 -1.00000000000000 -1.00000000000000 1.00000000000000
+    VOLPAN 0.96742288549431 0.00000000000000 -1.00000000000000 -1.00000000000000 1.00000000000000
     MUTESOLO 0 0 0
     IPHASE 0
     ISBUS 0 0
@@ -274,7 +2443,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 1.00000000000000 0.00000000000000 -1.00000000000000 -1.00000000000000 1.00000000000000
+    VOLPAN 0.96742288549431 0.00000000000000 -1.00000000000000 -1.00000000000000 1.00000000000000
     MUTESOLO 0 0 0
     IPHASE 0
     ISBUS 0 0
@@ -359,6 +2528,30 @@
       >
     >
   >
+  <TRACK '{5AF7DA35-FCD9-774E-9D57-EC5A2674E103}'
+    NAME "Bass"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.52901304635576 0.00000000000000 -1.00000000000000 -1.00000000000000 1.00000000000000
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 1 0
+    SHOWINMIX 1 0.666700 0.500000 1 0.500000 0 -1 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5000000000 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5AF7DA35-FCD9-774E-9D57-EC5A2674E103}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
   <TRACK '{9BAE5309-AB29-2449-AC97-ED188C9AF186}'
     NAME "Bass DI"
     PEAKCOL 16576
@@ -371,7 +2564,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.666700 0.500000 1 0.500000 0 -1 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
@@ -382,763 +2575,788 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
-    <ITEM
-      POSITION 94.22307770780614
-      SNAPOFFS 0.00000000000000
-      LENGTH 2.37197787783246
-      LOOP 1
-      ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.010000 0.000000 1 0
-      FADEOUT 1 0.010000 0.015923 1 1
-      MUTE 0
-      IGUID {13546748-C6E7-434F-A471-C81E6549765F}
-      IID 35
-      NAME "03-Bass-120412_1728-02.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 1.20000000000000
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {57BB1BA4-6D77-B348-BCE2-F796B82A10DE}
-      RECPASS 27
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120412_1728-02.wav"
+    <FREEZE 0
+      <ITEM
+        POSITION 94.22307770780614
+        SNAPOFFS 0.00000000000000
+        LENGTH 2.37197787783246
+        LOOP 1
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.010000 0.000000 1 0
+        FADEOUT 1 0.010000 0.015923 1 1
+        MUTE 0
+        IGUID {13546748-C6E7-434F-A471-C81E6549765F}
+        IID 35
+        NAME "03-Bass-120412_1728-02.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 1.20000000000000
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {57BB1BA4-6D77-B348-BCE2-F796B82A10DE}
+        RECPASS 27
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120412_1728-02.wav"
+        >
+      >
+      <ITEM
+        POSITION 96.57913274047448
+        SNAPOFFS 0.00000000000000
+        LENGTH 1.81079260638408
+        LOOP 1
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.000000 0.015923 1 1
+        FADEOUT 1 0.010000 0.049355 1 1
+        MUTE 0
+        IGUID {2648D013-2BF0-1F4C-892E-EE59015817AC}
+        IID 35
+        NAME "03-Bass-120412_1728-02.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 3.53047873578782
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {574CBB64-B730-FB43-B66C-9915A0E26D0A}
+        RECPASS 27
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120412_1728-02.wav"
+        >
+      >
+      <ITEM
+        POSITION 98.34057054313932
+        SNAPOFFS 0.00000000000000
+        LENGTH 10.94189105105450
+        LOOP 1
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.010000 0.049355 1 1
+        FADEOUT 1 2.430955 0.000000 1 0
+        MUTE 0
+        IGUID {C97E792B-BC05-B04C-AF4D-17C896F4217F}
+        IID 35
+        NAME "03-Bass-120412_1728-02.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 5.27881022305368
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {237F8566-F7CF-664D-B6B8-EA5C33DEBDBE}
+        RECPASS 27
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120412_1728-02.wav"
+        >
+      >
+      <ITEM
+        POSITION 128.17073968863363
+        SNAPOFFS 0.00000000000000
+        LENGTH 24.13512000046615
+        LOOP 1
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.150715 0.000000 1 0
+        FADEOUT 1 0.010000 0.006486 1 1
+        MUTE 0
+        IGUID {2C5933DE-BC17-D345-8428-27ACC10B5045}
+        IID 40
+        NAME "03-Bass-120412_1730.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 3.34581992661118
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {1A691456-CB49-264E-968C-D9774A3A0ECE}
+        RECPASS 32
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120412_1730.wav"
+        >
+      >
+      <ITEM
+        POSITION 152.29937417301696
+        SNAPOFFS 0.00000000000000
+        LENGTH 1.75724757233016
+        LOOP 1
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.010000 0.006486 1 1
+        FADEOUT 1 0.010000 0.019129 1 1
+        MUTE 0
+        IGUID {F4C5D55C-3702-384D-954D-EDCFF937E5FB}
+        IID 40
+        NAME "03-Bass-120412_1730.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 27.44851234666320
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {7AED0290-8501-E545-8471-BEAE2C0B61EE}
+        RECPASS 32
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120412_1730.wav"
+        >
+      >
+      <ITEM
+        POSITION 154.03749248321446
+        SNAPOFFS 0.00000000000000
+        LENGTH 2.85941757633350
+        LOOP 1
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.010000 0.019129 1 1
+        FADEOUT 1 0.010000 0.031733 1 1
+        MUTE 0
+        IGUID {9553BFD7-A089-F44B-B7D8-D05E9309F8C8}
+        IID 40
+        NAME "03-Bass-120412_1730.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 29.20575991899336
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {B5A3A8EF-F261-A542-9243-5CF6662EAF83}
+        RECPASS 32
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120412_1730.wav"
+        >
+      >
+      <ITEM
+        POSITION 156.86517749532686
+        SNAPOFFS 0.00000000000000
+        LENGTH 17.99719750467480
+        LOOP 1
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.010000 0.031733 1 1
+        FADEOUT 1 0.010000 0.034913 1 1
+        MUTE 0
+        IGUID {FF40348A-393C-C840-ABE0-BBDD30C6125E}
+        IID 40
+        NAME "03-Bass-120412_1730.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 32.06517749532686
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {B389F07F-2E04-E94D-A3D1-DB0082A1DDFC}
+        RECPASS 32
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120412_1730.wav"
+        >
+      >
+      <ITEM
+        POSITION 174.82746169997392
+        SNAPOFFS 0.00000000000000
+        LENGTH 10.35772348521462
+        LOOP 1
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.010000 0.034913 1 1
+        FADEOUT 1 0.010000 0.040509 1 1
+        MUTE 0
+        IGUID {D5E5A0BC-EECA-614F-902C-39FECAD3E91A}
+        IID 73
+        NAME "03-Bass-120412_1741.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 4.87418044997392
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {8F0A1793-5E7E-FA49-A938-2DC20042F42D}
+        RECPASS 65
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120412_1741.wav"
+        >
+      >
+      <ITEM
+        POSITION 185.14467592592931
+        SNAPOFFS 0.00000000000000
+        LENGTH 14.21642469078384
+        LOOP 0
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.010000 0.040509 1 1
+        FADEOUT 1 0.010000 0.000000 1 0
+        MUTE 0
+        IGUID {D79305DE-D87A-9B42-9885-1CDBFE62B9A9}
+        IID 417
+        NAME "03-Bass-120417_1908-01.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 2.10046759259597
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {00F44DA9-1AD0-464A-88A8-4BA4FED7E6FA}
+        RECPASS 291
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120417_1908-01.wav"
+        >
+      >
+      <ITEM
+        POSITION 199.36110061671314
+        SNAPOFFS 0.00000000000000
+        LENGTH 4.41096089067690
+        LOOP 0
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.010000 0.000000 1 0
+        FADEOUT 1 0.010000 0.023886 1 1
+        MUTE 0
+        IGUID {8813B008-A5E3-7E4F-90BA-C136C7F34CCB}
+        IID 417
+        NAME "03-Bass-120417_1908-01.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 16.29300621357470
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {941B2979-12D2-4542-9516-80521626E789}
+        RECPASS 291
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120417_1908-01.wav"
+        >
+      >
+      <ITEM
+        POSITION 203.74817543758493
+        SNAPOFFS 0.00000000000000
+        LENGTH 13.11423456242045
+        LOOP 0
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.010000 0.023886 1 1
+        FADEOUT 1 0.010000 0.000000 1 0
+        MUTE 0
+        IGUID {5DD71057-0E2B-8941-A18A-A4A26B574DA7}
+        IID 417
+        NAME "03-Bass-120417_1908-01.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 20.70396710425160
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {DDB6F1F6-9A93-1D40-8C8A-3DD6CEB5CC4B}
+        RECPASS 291
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120417_1908-01.wav"
+        >
+      >
+      <ITEM
+        POSITION 216.86241000000538
+        SNAPOFFS 0.00000000000000
+        LENGTH 1.08818615658245
+        LOOP 1
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.000000 0.000000 1 0
+        FADEOUT 1 0.019005 0.110061 1 1
+        MUTE 0
+        IGUID {29DDFD8C-B3D0-CE4C-8DA1-D866A5A05C67}
+        IID 100
+        NAME "03-Bass-120412_1754-03.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 2.65638373187169
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {B8C3B489-6E6C-1A40-90BC-759C7F9CBFCB}
+        RECPASS 91
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120412_1754-03.wav"
+        >
+      >
+      <ITEM
+        POSITION 217.84053478875532
+        SNAPOFFS 0.00000000000000
+        LENGTH 3.40750231161860
+        LOOP 1
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.010000 0.110061 1 1
+        FADEOUT 1 0.010000 0.100863 1 1
+        MUTE 0
+        IGUID {5DE907B0-C775-AD45-936A-6C6AB0EC1140}
+        IID 100
+        NAME "03-Bass-120412_1754-03.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 3.68311812208864
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {87D3E368-760A-3146-B581-001A38852252}
+        RECPASS 91
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120412_1754-03.wav"
+        >
+      >
+      <ITEM
+        POSITION 221.14717435425379
+        SNAPOFFS 0.00000000000000
+        LENGTH 13.16979564575314
+        LOOP 1
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.010000 0.100863 1 1
+        FADEOUT 1 0.010000 0.121743 1 1
+        MUTE 0
+        IGUID {CBBD4F27-A11C-5B4F-B000-7E80F0922B33}
+        IID 467
+        NAME "03-Bass-120417_1921.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 2.10293477092046
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {DCCE94DD-DC03-A748-9E17-508D3BB58885}
+        RECPASS 338
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120417_1921.wav"
+        >
+      >
+      <ITEM
+        POSITION 234.19522747122377
+        SNAPOFFS 0.00000000000000
+        LENGTH 9.26925955327206
+        LOOP 1
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.010000 0.121743 1 1
+        FADEOUT 1 0.010000 0.253360 1 1
+        MUTE 0
+        IGUID {C2EF0B8C-2CCF-BB48-8D7A-62B2D34301E2}
+        IID 200
+        NAME "03-Bass-120412_1906-02.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 3.69643580455709
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {E123EA21-15B2-544A-9547-129657F3A41C}
+        RECPASS 189
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120412_1906-02.wav"
+        >
+      >
+      <ITEM
+        POSITION 243.21112743806808
+        SNAPOFFS 0.00000000000000
+        LENGTH 32.01496756194248
+        LOOP 1
+        ALLTAKES 0
+        SEL 1
+        FADEIN 1 0.010000 0.253360 1 1
+        FADEOUT 1 0.000000 0.545455 1 1
+        MUTE 0
+        IGUID {F15377EE-470B-7C4F-A5FE-8F86148A10ED}
+        IID 138
+        NAME "03-Bass-120412_1816.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 3.56442952140142
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {7FFB0A2C-0996-0A46-A3F0-603808A36546}
+        RECPASS 128
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120412_1816.wav"
+        >
+      >
+      <ITEM
+        POSITION 274.68064000001050
+        SNAPOFFS 0.00000000000000
+        LENGTH 3.88403302763919
+        LOOP 1
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.010000 0.545455 1 1
+        FADEOUT 1 0.061092 0.000000 1 0
+        MUTE 0
+        IGUID {995D0914-752C-AD48-8F90-28D902A162EC}
+        IID 509
+        NAME "03-Bass-120417_2015-02.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 3.27272333334383
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {37A7854F-D8AA-B74E-A5BD-46CC6F1D06DD}
+        RECPASS 342
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120417_2015-02.wav"
+        >
+      >
+      <ITEM
+        POSITION 298.70234222614653
+        SNAPOFFS 0.00000000000000
+        LENGTH 9.97645191742032
+        LOOP 1
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.010000 0.000000 1 0
+        FADEOUT 1 0.010000 0.074627 1 1
+        MUTE 0
+        IGUID {3BBB76A3-6FB3-4F4A-A8BD-ED08B28CB119}
+        IID 551
+        NAME "03-Bass-120417_2035-03.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 1.85287358258330
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {3997506C-A44F-AC45-A2DD-1EEC7B1A78D9}
+        RECPASS 384
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120417_2035-03.wav"
+        >
+      >
+      <ITEM
+        POSITION 308.60416725199832
+        SNAPOFFS 0.00000000000000
+        LENGTH 0.60982008399225
+        LOOP 1
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.010000 0.074627 1 1
+        FADEOUT 1 0.010000 0.003928 1 1
+        MUTE 0
+        IGUID {C3C51D14-FCC9-7940-B358-764D6E1AAB32}
+        IID 551
+        NAME "03-Bass-120417_2035-03.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 11.82932550000362
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {E06E1307-7729-224B-96A7-42F9640C810B}
+        RECPASS 384
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120417_2035-03.wav"
+        >
+      >
+      <ITEM
+        POSITION 309.21005911317263
+        SNAPOFFS 0.00000000000000
+        LENGTH 1.05482817669099
+        LOOP 1
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.010000 0.003928 1 1
+        FADEOUT 1 0.010000 0.043452 1 1
+        MUTE 0
+        IGUID {EAFBE7CE-976E-344B-8399-ED65170498DB}
+        IID 551
+        NAME "03-Bass-120417_2035-03.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 12.41557624708832
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {00C656F5-3C03-F244-9C4B-F3FC796F1888}
+        RECPASS 384
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120417_2035-03.wav"
+        >
+      >
+      <ITEM
+        POSITION 310.22143539862623
+        SNAPOFFS 0.00000000000000
+        LENGTH 1.11853277227533
+        LOOP 1
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.010000 0.043452 1 1
+        FADEOUT 1 0.010000 0.020655 1 1
+        MUTE 0
+        IGUID {AAE6EDC6-6C6C-754D-883E-1074CC213910}
+        IID 551
+        NAME "03-Bass-120417_2035-03.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 13.41661501757216
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {1CEFA444-E945-3441-8768-EF515DC6A91A}
+        RECPASS 384
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120417_2035-03.wav"
+        >
+      >
+      <ITEM
+        POSITION 311.31931303891804
+        SNAPOFFS 0.00000000000000
+        LENGTH 1.12045062206943
+        LOOP 1
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.010000 0.020655 1 1
+        FADEOUT 1 0.000000 0.050098 1 1
+        MUTE 0
+        IGUID {2A7BC09B-A281-1E4A-AF1C-1115EF338000}
+        IID 551
+        NAME "03-Bass-120417_2035-03.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 14.49383752588039
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {D71BCFFF-7616-E04C-B77D-10D55CD946B1}
+        RECPASS 384
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120417_2035-03.wav"
+        >
+      >
+      <ITEM
+        POSITION 312.38966518580145
+        SNAPOFFS 0.00000000000000
+        LENGTH 2.74938728011716
+        LOOP 1
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.010000 0.050098 1 1
+        FADEOUT 1 0.010000 0.041443 1 1
+        MUTE 0
+        IGUID {7F500A05-5982-F147-BDFC-37E7EEEA6E57}
+        IID 551
+        NAME "03-Bass-120417_2035-03.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 15.54340173109841
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {7EC0093F-0526-F640-87BA-D71CF03F95C8}
+        RECPASS 384
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120417_2035-03.wav"
+        >
+      >
+      <ITEM
+        POSITION 315.09760939226965
+        SNAPOFFS 0.00000000000000
+        LENGTH 3.25836360771689
+        LOOP 1
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.010000 0.041443 1 1
+        FADEOUT 1 0.010000 0.035379 1 1
+        MUTE 0
+        IGUID {2D93303F-CA31-144F-AF99-6690C73DE3DE}
+        IID 551
+        NAME "03-Bass-120417_2035-03.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 18.29278901121558
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {3548F1B2-4066-D34D-8CFD-048C0A2044A1}
+        RECPASS 384
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120417_2035-03.wav"
+        >
+      >
+      <ITEM
+        POSITION 318.32059353721837
+        SNAPOFFS 0.00000000000000
+        LENGTH 2.23153089006615
+        LOOP 1
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.010000 0.035379 1 1
+        FADEOUT 1 0.010000 0.086561 1 1
+        MUTE 0
+        IGUID {898E0987-72D1-0B42-870D-F71FA866A840}
+        IID 551
+        NAME "03-Bass-120417_2035-03.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 30.05415960991706
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {8DA05EB2-C801-4746-A00F-5FB6A3CC84AF}
+        RECPASS 384
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120417_2035-03.wav"
+        >
+      >
+      <ITEM
+        POSITION 320.46556344266770
+        SNAPOFFS 0.00000000000000
+        LENGTH 13.95573285363292
+        LOOP 1
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.010000 0.086561 1 1
+        FADEOUT 1 0.010000 0.046296 1 1
+        MUTE 0
+        IGUID {27EF4648-401D-4947-A42B-DAD52C212966}
+        IID 551
+        NAME "03-Bass-120417_2035-03.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 23.65710416667099
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {5E0B67A3-B873-1F40-B890-53CF44D09180}
+        RECPASS 384
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120417_2035-03.wav"
+        >
+      >
+      <ITEM
+        POSITION 334.37500000000432
+        SNAPOFFS 0.00000000000000
+        LENGTH 9.64799495867635
+        LOOP 1
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.010000 0.046296 1 1
+        FADEOUT 1 0.010000 0.015233 1 1
+        MUTE 0
+        IGUID {F4B7E9EB-5AF3-684C-BBCA-7D72CA036C22}
+        IID 150
+        NAME "03-Bass-120412_1830.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 40.94384375000431
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {6B034CCF-170C-934B-8A33-D5E55F2771D5}
+        RECPASS 140
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120412_1830.wav"
+        >
+      >
+      <ITEM
+        POSITION 344.00776215580572
+        SNAPOFFS 0.00000000000000
+        LENGTH 8.65912801237783
+        LOOP 1
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.010000 0.015233 1 1
+        FADEOUT 1 0.010000 0.022245 1 1
+        MUTE 0
+        IGUID {86193167-32AD-8643-AB1C-0D269B16F806}
+        IID 158
+        NAME "03-Bass-120412_1837.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 2.05812172977880
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {31E8044D-89E5-1F4B-BBF2-BB97D311C30E}
+        RECPASS 148
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120412_1837.wav"
+        >
+      >
+      <ITEM
+        POSITION 352.64464557548996
+        SNAPOFFS 0.00000000000000
+        LENGTH 52.81767734117670
+        LOOP 1
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.010000 0.022245 1 1
+        FADEOUT 1 0.010000 0.000000 1 0
+        MUTE 0
+        IGUID {AE1A332E-4B83-9744-95F1-0946C07BB6FA}
+        IID 158
+        NAME "03-Bass-120412_1837.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 10.71724974215663
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {41C248DD-A2B2-8E4F-B628-2060CA5485C7}
+        RECPASS 148
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120412_1837.wav"
+        >
+      >
+      <ITEM
+        POSITION 434.13778384820318
+        SNAPOFFS 0.00000000000000
+        LENGTH 9.53832303789562
+        LOOP 1
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.010000 0.000000 1 0
+        FADEOUT 1 0.010000 0.026272 1 1
+        MUTE 0
+        IGUID {55E98592-5948-A24B-BF48-A6FE234F50A6}
+        IID 167
+        NAME "03-Bass-120412_1848-01.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 2.14285599999931
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {2A0C00EE-6DE3-AA4B-A9A5-65C259FC2319}
+        RECPASS 156
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120412_1848-01.wav"
+        >
+      >
+      <ITEM
+        POSITION 443.64983454085586
+        SNAPOFFS 0.00000000000000
+        LENGTH 5.38188166280599
+        LOOP 1
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.010000 0.026272 1 1
+        FADEOUT 1 0.010000 0.015748 1 1
+        MUTE 0
+        IGUID {0B2188DB-07D4-AD4C-9BEC-ED6C345F50B6}
+        IID 167
+        NAME "03-Bass-120412_1848-01.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 11.72249354090462
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {A80D3BFB-733E-1648-B8E3-679AFAD11D3E}
+        RECPASS 156
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120412_1848-01.wav"
+        >
+      >
+      <ITEM
+        POSITION 449.01596818969779
+        SNAPOFFS 0.00000000000000
+        LENGTH 21.51225837267998
+        LOOP 1
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.010000 0.015748 1 1
+        FADEOUT 1 0.010000 0.106246 1 1
+        MUTE 0
+        IGUID {76AAD0AA-74F5-1C49-9280-01454F781AD9}
+        IID 167
+        NAME "03-Bass-120412_1848-01.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 17.05914962730798
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {A8EADDDC-EF3B-F245-BA02-FBA6E8F04046}
+        RECPASS 156
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120412_1848-01.wav"
+        >
+      >
+      <ITEM
+        POSITION 470.42198007560307
+        SNAPOFFS 0.00000000000000
+        LENGTH 82.67932151682481
+        LOOP 1
+        ALLTAKES 0
+        SEL 0
+        FADEIN 1 0.010000 0.106246 1 1
+        FADEOUT 1 0.010000 0.000000 1 0
+        MUTE 0
+        IGUID {747A6DA3-B74C-6145-B8FF-EDCE2E71E16B}
+        IID 181
+        NAME "03-Bass-120412_1855-01.wav"
+        VOLPAN 1.000000 0.000000 1.000000 -1.000000
+        SOFFS 4.18360556650856
+        PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+        CHANMODE 0
+        GUID {D7753A7D-7C12-6244-AD19-A458F2F8F449}
+        RECPASS 170
+        <SOURCE WAVE
+          FILE "/Users/jaarnial/Desktop/Embreach - Space Odyssey 2012/project/../media/03-Bass-120412_1855-01.wav"
+        >
       >
     >
     <ITEM
-      POSITION 96.57913274047448
+      POSITION 0.00000000000000
       SNAPOFFS 0.00000000000000
-      LENGTH 1.81079260638408
-      LOOP 1
-      ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.000000 0.015923 1 1
-      FADEOUT 1 0.010000 0.049355 1 1
-      MUTE 0
-      IGUID {2648D013-2BF0-1F4C-892E-EE59015817AC}
-      IID 35
-      NAME "03-Bass-120412_1728-02.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 3.53047873578782
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {574CBB64-B730-FB43-B66C-9915A0E26D0A}
-      RECPASS 27
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120412_1728-02.wav"
-      >
-    >
-    <ITEM
-      POSITION 98.34057054313932
-      SNAPOFFS 0.00000000000000
-      LENGTH 10.94189105105450
-      LOOP 1
-      ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.010000 0.049355 1 1
-      FADEOUT 1 2.430955 0.000000 1 0
-      MUTE 0
-      IGUID {C97E792B-BC05-B04C-AF4D-17C896F4217F}
-      IID 35
-      NAME "03-Bass-120412_1728-02.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 5.27881022305368
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {237F8566-F7CF-664D-B6B8-EA5C33DEBDBE}
-      RECPASS 27
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120412_1728-02.wav"
-      >
-    >
-    <ITEM
-      POSITION 128.17073968863363
-      SNAPOFFS 0.00000000000000
-      LENGTH 24.13512000046615
-      LOOP 1
-      ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.150715 0.000000 1 0
-      FADEOUT 1 0.010000 0.006486 1 1
-      MUTE 0
-      IGUID {2C5933DE-BC17-D345-8428-27ACC10B5045}
-      IID 40
-      NAME "03-Bass-120412_1730.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 3.34581992661118
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {1A691456-CB49-264E-968C-D9774A3A0ECE}
-      RECPASS 32
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120412_1730.wav"
-      >
-    >
-    <ITEM
-      POSITION 152.29937417301696
-      SNAPOFFS 0.00000000000000
-      LENGTH 1.75724757233016
-      LOOP 1
-      ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.010000 0.006486 1 1
-      FADEOUT 1 0.010000 0.019129 1 1
-      MUTE 0
-      IGUID {F4C5D55C-3702-384D-954D-EDCFF937E5FB}
-      IID 40
-      NAME "03-Bass-120412_1730.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 27.44851234666320
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {7AED0290-8501-E545-8471-BEAE2C0B61EE}
-      RECPASS 32
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120412_1730.wav"
-      >
-    >
-    <ITEM
-      POSITION 154.03749248321446
-      SNAPOFFS 0.00000000000000
-      LENGTH 2.85941757633350
-      LOOP 1
-      ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.010000 0.019129 1 1
-      FADEOUT 1 0.010000 0.031733 1 1
-      MUTE 0
-      IGUID {9553BFD7-A089-F44B-B7D8-D05E9309F8C8}
-      IID 40
-      NAME "03-Bass-120412_1730.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 29.20575991899336
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {B5A3A8EF-F261-A542-9243-5CF6662EAF83}
-      RECPASS 32
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120412_1730.wav"
-      >
-    >
-    <ITEM
-      POSITION 156.86517749532686
-      SNAPOFFS 0.00000000000000
-      LENGTH 17.99719750467480
-      LOOP 1
-      ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.010000 0.031733 1 1
-      FADEOUT 1 0.010000 0.034913 1 1
-      MUTE 0
-      IGUID {FF40348A-393C-C840-ABE0-BBDD30C6125E}
-      IID 40
-      NAME "03-Bass-120412_1730.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 32.06517749532686
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {B389F07F-2E04-E94D-A3D1-DB0082A1DDFC}
-      RECPASS 32
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120412_1730.wav"
-      >
-    >
-    <ITEM
-      POSITION 174.82746169997392
-      SNAPOFFS 0.00000000000000
-      LENGTH 10.35772348521462
-      LOOP 1
-      ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.010000 0.034913 1 1
-      FADEOUT 1 0.010000 0.040509 1 1
-      MUTE 0
-      IGUID {D5E5A0BC-EECA-614F-902C-39FECAD3E91A}
-      IID 73
-      NAME "03-Bass-120412_1741.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 4.87418044997392
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {8F0A1793-5E7E-FA49-A938-2DC20042F42D}
-      RECPASS 65
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120412_1741.wav"
-      >
-    >
-    <ITEM
-      POSITION 185.14467592592931
-      SNAPOFFS 0.00000000000000
-      LENGTH 14.21642469078384
+      LENGTH 591.78684375000000
       LOOP 0
       ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.010000 0.040509 1 1
-      FADEOUT 1 0.010000 0.000000 1 0
-      MUTE 0
-      IGUID {D79305DE-D87A-9B42-9885-1CDBFE62B9A9}
-      IID 417
-      NAME "03-Bass-120417_1908-01.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 2.10046759259597
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {00F44DA9-1AD0-464A-88A8-4BA4FED7E6FA}
-      RECPASS 291
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120417_1908-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 199.36110061671314
-      SNAPOFFS 0.00000000000000
-      LENGTH 4.41096089067690
-      LOOP 0
-      ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.010000 0.000000 1 0
-      FADEOUT 1 0.010000 0.023886 1 1
-      MUTE 0
-      IGUID {8813B008-A5E3-7E4F-90BA-C136C7F34CCB}
-      IID 417
-      NAME "03-Bass-120417_1908-01.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 16.29300621357470
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {941B2979-12D2-4542-9516-80521626E789}
-      RECPASS 291
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120417_1908-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 203.74817543758493
-      SNAPOFFS 0.00000000000000
-      LENGTH 13.11423456242045
-      LOOP 0
-      ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.010000 0.023886 1 1
-      FADEOUT 1 0.010000 0.000000 1 0
-      MUTE 0
-      IGUID {5DD71057-0E2B-8941-A18A-A4A26B574DA7}
-      IID 417
-      NAME "03-Bass-120417_1908-01.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 20.70396710425160
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {DDB6F1F6-9A93-1D40-8C8A-3DD6CEB5CC4B}
-      RECPASS 291
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120417_1908-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 216.86241000000538
-      SNAPOFFS 0.00000000000000
-      LENGTH 1.08818615658245
-      LOOP 1
-      ALLTAKES 0
+      LOCK 1
       SEL 0
       FADEIN 1 0.000000 0.000000 1 0
-      FADEOUT 1 0.019005 0.110061 1 1
+      FADEOUT 1 0.000000 0.000000 1 0
       MUTE 0
-      IGUID {29DDFD8C-B3D0-CE4C-8DA1-D866A5A05C67}
-      IID 100
-      NAME "03-Bass-120412_1754-03.wav"
+      IGUID {E90A3473-1D4E-A64A-8FC0-C5D6550B9ED0}
+      IID 791
+      NAME "Bass DI - freeze"
       VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 2.65638373187169
+      SOFFS 0.00000000000000
       PLAYRATE 1.00000000000000 1 0.00000000000000 -1
       CHANMODE 0
-      GUID {B8C3B489-6E6C-1A40-90BC-759C7F9CBFCB}
-      RECPASS 91
+      GUID {D30F1C9F-68D6-984E-8B7D-CC9A333738D3}
       <SOURCE WAVE
-        FILE "../media/03-Bass-120412_1754-03.wav"
-      >
-    >
-    <ITEM
-      POSITION 217.84053478875532
-      SNAPOFFS 0.00000000000000
-      LENGTH 3.40750231161860
-      LOOP 1
-      ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.010000 0.110061 1 1
-      FADEOUT 1 0.010000 0.100863 1 1
-      MUTE 0
-      IGUID {5DE907B0-C775-AD45-936A-6C6AB0EC1140}
-      IID 100
-      NAME "03-Bass-120412_1754-03.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 3.68311812208864
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {87D3E368-760A-3146-B581-001A38852252}
-      RECPASS 91
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120412_1754-03.wav"
-      >
-    >
-    <ITEM
-      POSITION 221.14717435425379
-      SNAPOFFS 0.00000000000000
-      LENGTH 13.16979564575314
-      LOOP 1
-      ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.010000 0.100863 1 1
-      FADEOUT 1 0.010000 0.121743 1 1
-      MUTE 0
-      IGUID {CBBD4F27-A11C-5B4F-B000-7E80F0922B33}
-      IID 467
-      NAME "03-Bass-120417_1921.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 2.10293477092046
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {DCCE94DD-DC03-A748-9E17-508D3BB58885}
-      RECPASS 338
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120417_1921.wav"
-      >
-    >
-    <ITEM
-      POSITION 234.19522747122377
-      SNAPOFFS 0.00000000000000
-      LENGTH 9.26925955327206
-      LOOP 1
-      ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.010000 0.121743 1 1
-      FADEOUT 1 0.010000 0.253360 1 1
-      MUTE 0
-      IGUID {C2EF0B8C-2CCF-BB48-8D7A-62B2D34301E2}
-      IID 200
-      NAME "03-Bass-120412_1906-02.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 3.69643580455709
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {E123EA21-15B2-544A-9547-129657F3A41C}
-      RECPASS 189
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120412_1906-02.wav"
-      >
-    >
-    <ITEM
-      POSITION 243.21112743806808
-      SNAPOFFS 0.00000000000000
-      LENGTH 32.01496756194248
-      LOOP 1
-      ALLTAKES 0
-      SEL 1
-      FADEIN 1 0.010000 0.253360 1 1
-      FADEOUT 1 0.000000 0.545455 1 1
-      MUTE 0
-      IGUID {F15377EE-470B-7C4F-A5FE-8F86148A10ED}
-      IID 138
-      NAME "03-Bass-120412_1816.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 3.56442952140142
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {7FFB0A2C-0996-0A46-A3F0-603808A36546}
-      RECPASS 128
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120412_1816.wav"
-      >
-    >
-    <ITEM
-      POSITION 274.68064000001050
-      SNAPOFFS 0.00000000000000
-      LENGTH 3.88403302763919
-      LOOP 1
-      ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.010000 0.545455 1 1
-      FADEOUT 1 0.061092 0.000000 1 0
-      MUTE 0
-      IGUID {995D0914-752C-AD48-8F90-28D902A162EC}
-      IID 509
-      NAME "03-Bass-120417_2015-02.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 3.27272333334383
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {37A7854F-D8AA-B74E-A5BD-46CC6F1D06DD}
-      RECPASS 342
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120417_2015-02.wav"
-      >
-    >
-    <ITEM
-      POSITION 298.70234222614653
-      SNAPOFFS 0.00000000000000
-      LENGTH 9.97645191742032
-      LOOP 1
-      ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.010000 0.000000 1 0
-      FADEOUT 1 0.010000 0.074627 1 1
-      MUTE 0
-      IGUID {3BBB76A3-6FB3-4F4A-A8BD-ED08B28CB119}
-      IID 551
-      NAME "03-Bass-120417_2035-03.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 1.85287358258330
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {3997506C-A44F-AC45-A2DD-1EEC7B1A78D9}
-      RECPASS 384
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120417_2035-03.wav"
-      >
-    >
-    <ITEM
-      POSITION 308.60416725199832
-      SNAPOFFS 0.00000000000000
-      LENGTH 0.60982008399225
-      LOOP 1
-      ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.010000 0.074627 1 1
-      FADEOUT 1 0.010000 0.003928 1 1
-      MUTE 0
-      IGUID {C3C51D14-FCC9-7940-B358-764D6E1AAB32}
-      IID 551
-      NAME "03-Bass-120417_2035-03.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 11.82932550000362
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {E06E1307-7729-224B-96A7-42F9640C810B}
-      RECPASS 384
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120417_2035-03.wav"
-      >
-    >
-    <ITEM
-      POSITION 309.21005911317263
-      SNAPOFFS 0.00000000000000
-      LENGTH 1.05482817669099
-      LOOP 1
-      ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.010000 0.003928 1 1
-      FADEOUT 1 0.010000 0.043452 1 1
-      MUTE 0
-      IGUID {EAFBE7CE-976E-344B-8399-ED65170498DB}
-      IID 551
-      NAME "03-Bass-120417_2035-03.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 12.41557624708832
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {00C656F5-3C03-F244-9C4B-F3FC796F1888}
-      RECPASS 384
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120417_2035-03.wav"
-      >
-    >
-    <ITEM
-      POSITION 310.22143539862623
-      SNAPOFFS 0.00000000000000
-      LENGTH 1.11853277227533
-      LOOP 1
-      ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.010000 0.043452 1 1
-      FADEOUT 1 0.010000 0.020655 1 1
-      MUTE 0
-      IGUID {AAE6EDC6-6C6C-754D-883E-1074CC213910}
-      IID 551
-      NAME "03-Bass-120417_2035-03.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 13.41661501757216
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {1CEFA444-E945-3441-8768-EF515DC6A91A}
-      RECPASS 384
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120417_2035-03.wav"
-      >
-    >
-    <ITEM
-      POSITION 311.31931303891804
-      SNAPOFFS 0.00000000000000
-      LENGTH 1.12045062206943
-      LOOP 1
-      ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.010000 0.020655 1 1
-      FADEOUT 1 0.000000 0.050098 1 1
-      MUTE 0
-      IGUID {2A7BC09B-A281-1E4A-AF1C-1115EF338000}
-      IID 551
-      NAME "03-Bass-120417_2035-03.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 14.49383752588039
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {D71BCFFF-7616-E04C-B77D-10D55CD946B1}
-      RECPASS 384
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120417_2035-03.wav"
-      >
-    >
-    <ITEM
-      POSITION 312.38966518580145
-      SNAPOFFS 0.00000000000000
-      LENGTH 2.74938728011716
-      LOOP 1
-      ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.010000 0.050098 1 1
-      FADEOUT 1 0.010000 0.041443 1 1
-      MUTE 0
-      IGUID {7F500A05-5982-F147-BDFC-37E7EEEA6E57}
-      IID 551
-      NAME "03-Bass-120417_2035-03.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 15.54340173109841
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {7EC0093F-0526-F640-87BA-D71CF03F95C8}
-      RECPASS 384
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120417_2035-03.wav"
-      >
-    >
-    <ITEM
-      POSITION 315.09760939226965
-      SNAPOFFS 0.00000000000000
-      LENGTH 3.25836360771689
-      LOOP 1
-      ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.010000 0.041443 1 1
-      FADEOUT 1 0.010000 0.035379 1 1
-      MUTE 0
-      IGUID {2D93303F-CA31-144F-AF99-6690C73DE3DE}
-      IID 551
-      NAME "03-Bass-120417_2035-03.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 18.29278901121558
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {3548F1B2-4066-D34D-8CFD-048C0A2044A1}
-      RECPASS 384
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120417_2035-03.wav"
-      >
-    >
-    <ITEM
-      POSITION 318.32059353721837
-      SNAPOFFS 0.00000000000000
-      LENGTH 2.23153089006615
-      LOOP 1
-      ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.010000 0.035379 1 1
-      FADEOUT 1 0.010000 0.086561 1 1
-      MUTE 0
-      IGUID {898E0987-72D1-0B42-870D-F71FA866A840}
-      IID 551
-      NAME "03-Bass-120417_2035-03.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 30.05415960991706
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {8DA05EB2-C801-4746-A00F-5FB6A3CC84AF}
-      RECPASS 384
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120417_2035-03.wav"
-      >
-    >
-    <ITEM
-      POSITION 320.46556344266770
-      SNAPOFFS 0.00000000000000
-      LENGTH 13.95573285363292
-      LOOP 1
-      ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.010000 0.086561 1 1
-      FADEOUT 1 0.010000 0.046296 1 1
-      MUTE 0
-      IGUID {27EF4648-401D-4947-A42B-DAD52C212966}
-      IID 551
-      NAME "03-Bass-120417_2035-03.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 23.65710416667099
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {5E0B67A3-B873-1F40-B890-53CF44D09180}
-      RECPASS 384
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120417_2035-03.wav"
-      >
-    >
-    <ITEM
-      POSITION 334.37500000000432
-      SNAPOFFS 0.00000000000000
-      LENGTH 9.64799495867635
-      LOOP 1
-      ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.010000 0.046296 1 1
-      FADEOUT 1 0.010000 0.015233 1 1
-      MUTE 0
-      IGUID {F4B7E9EB-5AF3-684C-BBCA-7D72CA036C22}
-      IID 150
-      NAME "03-Bass-120412_1830.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 40.94384375000431
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {6B034CCF-170C-934B-8A33-D5E55F2771D5}
-      RECPASS 140
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120412_1830.wav"
-      >
-    >
-    <ITEM
-      POSITION 344.00776215580572
-      SNAPOFFS 0.00000000000000
-      LENGTH 8.65912801237783
-      LOOP 1
-      ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.010000 0.015233 1 1
-      FADEOUT 1 0.010000 0.022245 1 1
-      MUTE 0
-      IGUID {86193167-32AD-8643-AB1C-0D269B16F806}
-      IID 158
-      NAME "03-Bass-120412_1837.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 2.05812172977880
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {31E8044D-89E5-1F4B-BBF2-BB97D311C30E}
-      RECPASS 148
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120412_1837.wav"
-      >
-    >
-    <ITEM
-      POSITION 352.64464557548996
-      SNAPOFFS 0.00000000000000
-      LENGTH 52.81767734117670
-      LOOP 1
-      ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.010000 0.022245 1 1
-      FADEOUT 1 0.010000 0.000000 1 0
-      MUTE 0
-      IGUID {AE1A332E-4B83-9744-95F1-0946C07BB6FA}
-      IID 158
-      NAME "03-Bass-120412_1837.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 10.71724974215663
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {41C248DD-A2B2-8E4F-B628-2060CA5485C7}
-      RECPASS 148
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120412_1837.wav"
-      >
-    >
-    <ITEM
-      POSITION 434.13778384820318
-      SNAPOFFS 0.00000000000000
-      LENGTH 9.53832303789562
-      LOOP 1
-      ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.010000 0.000000 1 0
-      FADEOUT 1 0.010000 0.026272 1 1
-      MUTE 0
-      IGUID {55E98592-5948-A24B-BF48-A6FE234F50A6}
-      IID 167
-      NAME "03-Bass-120412_1848-01.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 2.14285599999931
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {2A0C00EE-6DE3-AA4B-A9A5-65C259FC2319}
-      RECPASS 156
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120412_1848-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 443.64983454085586
-      SNAPOFFS 0.00000000000000
-      LENGTH 5.38188166280599
-      LOOP 1
-      ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.010000 0.026272 1 1
-      FADEOUT 1 0.010000 0.015748 1 1
-      MUTE 0
-      IGUID {0B2188DB-07D4-AD4C-9BEC-ED6C345F50B6}
-      IID 167
-      NAME "03-Bass-120412_1848-01.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 11.72249354090462
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {A80D3BFB-733E-1648-B8E3-679AFAD11D3E}
-      RECPASS 156
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120412_1848-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 449.01596818969779
-      SNAPOFFS 0.00000000000000
-      LENGTH 21.51225837267998
-      LOOP 1
-      ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.010000 0.015748 1 1
-      FADEOUT 1 0.010000 0.106246 1 1
-      MUTE 0
-      IGUID {76AAD0AA-74F5-1C49-9280-01454F781AD9}
-      IID 167
-      NAME "03-Bass-120412_1848-01.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 17.05914962730798
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {A8EADDDC-EF3B-F245-BA02-FBA6E8F04046}
-      RECPASS 156
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120412_1848-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 470.42198007560307
-      SNAPOFFS 0.00000000000000
-      LENGTH 82.67932151682481
-      LOOP 1
-      ALLTAKES 0
-      SEL 0
-      FADEIN 1 0.010000 0.106246 1 1
-      FADEOUT 1 0.010000 0.000000 1 0
-      MUTE 0
-      IGUID {747A6DA3-B74C-6145-B8FF-EDCE2E71E16B}
-      IID 181
-      NAME "03-Bass-120412_1855-01.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 4.18360556650856
-      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
-      CHANMODE 0
-      GUID {D7753A7D-7C12-6244-AD19-A458F2F8F449}
-      RECPASS 170
-      <SOURCE WAVE
-        FILE "../media/03-Bass-120412_1855-01.wav"
+        FILE "../media/Difference_freeze_Bass DI.wav"
       >
     >
   >
@@ -1150,7 +3368,7 @@
     VOLPAN 0.74502912105762 0.00000000000000 -1.00000000000000 -1.00000000000000 1.00000000000000
     MUTESOLO 0 0 0
     IPHASE 0
-    ISBUS 0 0
+    ISBUS 2 -1
     BUSCOMP 0 0
     SHOWINMIX 1 0.666700 0.500000 1 0.500000 0 -1 0
     FREEMODE 0
@@ -1163,178 +3381,199 @@
     FX 1
     TRACKID {98E92A0C-3E40-DC48-919D-0EFBACB4B18D}
     PERF 0
-    AUXRECV 3 1 1.00000000000000 0.00000000000000 0 0 0 0 0 -1.00000000000000 0 -1 ''
     MIDIOUT -1
     MAINSEND 1 0
     <FXCHAIN
       SHOW 0
       LASTSEL 0
       DOCKED 0
-      BYPASS 0 0
-      <VST "VST: Guitar Rig 5 (Native Instruments GmbH)" "Guitar Rig 5.vst" 0 ""
-        NUdpTu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAA==
-        AAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAahgAAAEAAAAiABAALWluLQ==
-        AgAAACNOSSNDUyNEb2N1bWVudCMjTkkjU291bmRTaGVsbCNTb3VuZA==
-        IwAAAAAAAAAAAAAARQEAAGF0YWQCAAAAZG5zc2JpbHoWAAAAEAAAAA==
-        eNpjYmBg0PX00zV1z/QDMhkAEaUCJ2F0YWQCAAAAb2ZuaWJpbHr0AA==
-        AAAIAgAAeNp9kU1qwzAQhfc+xaBtSeVCFqXICin9obsQ2gMojhxE7Q==
-        kdFIocevZMeKY2h38755TzODxOana+GsHRmLFXu4LxlorO3R4KliXw==
-        n2+rRwbkFR5Va1FXDC2DjSwE2YDR1NhreF2WTBYFgOid7bXzRpOMMg==
-        AlSdli8fd6ScFXxQycfnxgQOCr+nTKrlezBeOdibE6wFH9AQvBhTXQ==
-        266Pq6Gfghks0lf+nw92acUb70xeZirvnTkEnw/MYNSRnFUbtHxWRA==
-        sO16EnwEUzuQdivSXu53T5zPbLkxPswXL/856bVpdO1vxizCM5nOEA==
-        PP+hLH4BPqqiK2F0YWQCAAAAdHNycGJpbHquFgAAaPAAAHja7V1ZVw==
-        47iX73ntT+HDw7xwQrzIW02q/4d9DRCSoqg68+I4TqKKN7wQ4FPPRw==
-        GNnxInkhiQmgqqZfupCVq5/vpnuvZIm56N79119//fW///fXX53/PA==
-        WibzYHg+dOyvW9wOu8UYtu6MoD35uvVtcNRSthg/0OyRZjq28XXLdg==
-        tpj//PN3Z+K1oO0HXmgZdtDSp6E9Y4YhNEctO7SGhvd1iweytMXojg==
-        5aIfoj6ups9acIQGUWUWqJKi8FvM2NMsY+54iydocEv75XitDJCIWg==
-        oO45eQsftdh4H/Qr1zN8o2aIAFoIdz+0mV3XY3ie4YUvIvsFSAzPcg==
-        /NY/f//NMB3fCe1Ra6QF2lDzDWZiOkPNbFlG4Dm2Y8VjTCEapGU5Iw==
-        YwEUjiB6b822DRMNKG21F5QQYzwEg9FctxU8uYvOOYPReAz6rzOGjw==
-        rYw3PoOY1oKBYfmoi5D0KfZiojdTVJZFBG0teqmb86wr6hx1NI3AyA==
-        m5LG+l8zYRg1H/YH9sO3E6//uH27vft8z4Uzy939+nULJ4UTa01CSA==
-        PkNPH6Axx+SN3sY1tcBoDTV79nVrq+rRAkikYY5njFoRhYTDADGt8A==
-        lw+HJvr3WDN9I+I2MXj7BWwYbi0cQYfBlKn0Fq4WqWSAeiBD0NCI6A==
-        N4FjaUGqa5Go8k6RSCMDCaBOdORKlHHasTDgbiqJUzsyMd3Y1QP4YA==
-        oHfVzDBWnDINRCXSUAwB4xmWg3hpaY8xmPRPGMNtV8BoZz8uvX3+yA==
-        r2dwzERCy/KHmD62ywrZyQzVCzJknTah5i8ov4RrL5ww546NDNRc0w==
-        COqoJMYwmv2ajI9utcFIOrl6fniSh9P2dPKhxsARxsBRbAxsjTG0aQ==
-        1CahWhEYfl2FqieU6NT1fG/yZLV7N3BfF37sjrlQuur1Ph3sp4Olyw==
-        JJQ6TRbWDTTqCSUmcTYPvO/354+DtgXu9kYTR5OOx/NPk/g0CbpMgg==
-        xxR5N5bkqb2mMVSSSMzAEn335pfYHfy88tl7fdDXvtnq/DPa+OOiDQ==
-        DvOHKD9cU4WKv060R3uQzviLn8c3d9vez+5le34/2T3/TNwqtIcraw==
-        j9zUiWI+1A0D5liDdu4/d8R396AlgMcpwGMkK+bKbl+NxxlC7uPxDQ==
-        CHyDKTKsqWOOMCZSALJ7m6Lsan7UeOuYoYXNlDuKJAqS8vFIL1KgFw==
-        0IJRY0HiLAUQ9zOMxjhg9hd1M5p08mYfC1enZYifgVExfcZriQPNNQ==
-        Dgx9xnDr5s41VJIJzrhVZhe6eYkmOOHp9n5yGlxOn/+gLCFAbzxCbw==
-        zGlhCXX6LFKxkuasMzU2mRzVlSfHkiWZmak7jrvEfjZgQUvMvAQvMA==
-        MnVDwnZyH8TSA9HLIHqa7buOb1DIxzADGdoU4nMfUnzliRtIEkcLTg==
-        L8N5Y+iONyrGGdQAhddY7cDwAuba8WHkF+iTvenjPojpB2iKoxClQQ==
-        oDy0Rx8u9PqYY0nUET2umczeKyABeCSBXJK3ZihS/n0ShDycTPv+zA==
-        OBt4x78mxvnlyRwG3MeuCPFEEMJTnGVLTbPsIycVxpHjzWhKZgaZIw==
-        HCC2Mdcw0KcZPkn9eIB+4Ol2kILsB54zNNr70UYDmtg4cteNct4Vng==
-        N87n5bHhGbaewwOAAoB+N5MwNCMn1kXO4PfLV6NMJ/K2TLq1pv0h5Q==
-        WbxI3032/RjrVmmriSTTCH+07Q4O+/c97rv6cHgDhPbt6f4fVOpPdw==
-        S2kho5vRTqwxNOPqmQ7twPGnzMnBlws49DTv6cuu65pQjycDph+6rg==
-        4wVfLrVoJYo5zbaV+V+OQ4hCNyZaQBS/7Dt2gFq/ZIz9YjpzNNKDsQ==
-        M9dQEK0jirPWEAaW5s/it1m0vDmMKcRQWKEZQNdcsHPBeakNEPMjGw==
-        1Y0cXysqctijaKsceowGX/zrvRN9sXmifz3P8tSVaswfEGL37cxHPg==
-        2Tp9+AaWW1ON4KhJU7pZot8NAwrz0luzNtEXf8c0Kvejr54ICQIp3Q==
-        FtYhcZELf41cUyvznYQfw5xX0gPwKlAlmVfFFbzYa5T+VaKqEVLO4w==
-        ViWz0M/KzWtUxvEdhruWu2tr5pO/dj5aSyaJJ5xv9u25+s3ru8b9XQ==
-        F1o/f1gnB5+byv68rQOiiCnCdUwqLRKup1EvEEp0StpzhKef+tkAJQ==
-        tQ8/HsP9w0OofaxOsYROsRSXOsSmpY7r2zVnsHfNMw8ydAfe02rV6Q==
-        d8X3PcP3HdNnevB177L4CT7SBOz6DvMFTLSviEEIoT35lyx6EwRikg==
-        LScMWjU9Xme1bxHGvNZS3wXTqtr/LmCaaPy7AFvTh71NULzEBF4ZFQ==
-        y2zVTo91v7Woo5LEL8pcZAezo72eCEd3yrinjGH3svfn7RfhadsvIg==
-        NS8j/S4L9ZTva4F9vNTFDBxmsW/xc3X+j1md/232jmxkGwH/MdsIVA==
-        fEdisvX36G7NaaqGSDJLbYsH7tWvg7sbIM2/Kf6teWbNzyeflZuVZg==
-        msbfPq27XEHnWmn+VHfsQIPRyqm+WJJqxTKDJgyesppXfsZAVSSIpA==
-        HZoxB0dDBtqIVn6sAkgJoGY96uJnRBHTPWQ3njP3yeMN+NIIU8cPMA==
-        QaFhSvIU33zFt9CYcLxjO3ar6kHZmvGgcz9le2rN342L556z/6M3PQ==
-        DmVgCPdwAK7ImLPekt/SivH13MALCSOuNeBVjbeB4VZ/cMO+vFiwjg==
-        1b5PQrvP4aoQfdTKYSGrLKg8+ChkfBEZjyETVEFRPgqZUEQm4GE+Dw==
-        xA/jGSgiAxgynpUF6aOQiUVk4seXmLr7UhGVRAMquYhKpgGVUkSl0A==
-        gEotolJpQMWxJbfKUoGr7O45KnCVnD3HU4Gr5Oo5gQpcJUfPASpwlQ==
-        3DxHhZ/nSo6ee39PX50nvZAjReHrENoaCo2T+HWRsOieoy9ew4/C5A==
-        dmXAu3ZGRe71xihFJ8lhoXtaua5N8LPadlbDc9Gg2U6P3Yvtw92nxw==
-        m9NzpQ/O7VH32XsqV7WXVQzeNttgX8g2VigavH2Jmq1JP9prV6gqEg==
-        VPJXkfhX1wzAL1UNgO8s3tcyzQjPe4Nw6Lp9ITwRA+d55k1vvu9uXg==
-        M45vwAvKcXp5OvgDFERdKT99j62w7A4r8BKryG9QM97f7fexb0MMzw==
-        cOgrvtcvrUusqqhSM6ai3DyKRQi0O6IcM3oDoA+y1XcY2QL5aeQOrw==
-        sCLbUBtEnkPYi8jjRm4TyI+yT62gSSwZ7cgKx0tCM9SARQhBEbWisA==
-        QBA3gXovRb2n+T4Fu37LAM0coWniEFWWB7zSjK2SKkoiX2Rr3MhvZA==
-        T3r+WZYxNAnb44ACaGHuFf4RHl7mYgVO+B3XvTYcVYhgaVQh4p+8Rg==
-        RsRce04WWvij3sAb9wa/jmU2mEuafzALJ28RWojMUbQ1qDa8iJHdwA==
-        yesq3lSEGDygJsbgPmOL0rY9npXlhrEFkBVeKsLdkQAnsGATqLEzvQ==
-        iOPGFDSRyJtg7U4ScW40EPKIsyV3eFngVLkZg4V43nuLWboujJAkng==
-        mm+w8k2UI1JhRWqM3zrCQDJHnnEfGrb+hMcPiKUCNZ/e1YY5sqTI1A==
-        hDlhdrrbNzPwNOaCQo86zCamPS86PI0+hOEJycUTSB/GyWHm4j3NnQ==
-        Qp057NE3xYMsYAQsc/JMY9qlZhDVIkQgAWocEKdkONE/KeWlkCcI6A==
-        n5SCFHOQYgmkrKoKNSLPBM7MCJSSLKoyLSizhUW+iJLj6OFltpwHCg==
-        KDmZZyVqJJ7bOEvipAWh0cs2ER/2GGo+oS8nQCALgo9vwCqH3fy76g==
-        Pcg2lxZ8kj6Fdd0bx7Hwys9sn2P5R98azbZve5eXD7wgAe9NFpXEBg==
-        i0r1R5/Ruagk/tEVn/zsaUPzKDwJsv7bIpHlVGpiwQmHl3eIDaUiKw==
-        K9RMuhOewMnTOFFMBAKjQCVGQGAEVGIUCYwilRglAqNEJUaZwChTiQ==
-        USEwKjRidDMfea0VXCQ1EHkcIpXe0RVwiFQ6RxfgEKn0ja6IQ6TSNQ==
-        uhIOkUrP6Mo4RCodo6vgEKn0ixaHn8+HO0ZqEPIEQp5ChAKBUKAQIQ==
-        IBACChGKBEKRQoQSgVCiEKFMIJQpRKgQCBX6EPqZP+w7pkOjP/R5Ag==
-        IYX+0BcIhBT6Qx8QCCn0h75IIKTQH/oSgZBCf+jLBEIK/aGvEAgp9A==
-        hy7ME+cpGvvUfqDRKbqQL8HkaYQplGAKNMIEJZiARphiCaZII0ypBA==
-        U6IRplyCKdMIUynBpNFvTkm/SaXTnJJOk0qPOSU9JqVFxynpMCmtOw==
-        Tkl/SWnpcUq6S0qrj1PSW1JagJySzpLOGqSXucp4MwmFntLjCYQU+g==
-        SU8gEFLpJT1AYKTSR3oigZFKD+lJBEYq/aMnExip9I6eQmCk0zdapA==
-        c6R1lcaz+DJOGv2kJZRxCjTiBGWcgEacYhmnSCNOqYxTohGnXMYp0w==
-        iFMp46RxPYf6L4q17JYuSOFx60Paj8kIar/EpAbivjbMjwHUhtA2Ag==
-        bArnqdlH3IV6vhsE6jSGGd1rxycwor9pxInEzBdFztO3AR9xkMe5yQ==
-        0ylxvihxnkqJC0WJC1RKXMC5KdApcaEocYFKiYOixAGVEgc4NwGdEg==
-        B0WJAyolLhYlLlIpcRHnpkinxMWixEUqJS4VJS5RKXEJ56ZEp8Slog==
-        xCUqJS4XJS5TKXEZ56ZMp8TlosRlKiWuFCWuUClxBeemQqfElaLElQ==
-        zw/tsQ/tlaWf2SvFg7yZvfTberE/dkbe7dmA7Z8LYGj3jBGwdj+P8g==
-        /kOO8ua4Fc5gII7yjp2Vz/y3Zrn/wyCD81NN+fa9KwLH6vX7V4Z3eg==
-        8vM+ODk97NF5tDf9527+0YcwdG8LVw2WDjsQ2OjsxE/fzbHL7ZMl7Q==
-        81qzDTM1Sn+vPVMU7dBk991HQzBY/Wh2T5v7Xnp744ebI/cKe0S6XQ==
-        f6aHKsjUrBkgxcG+HaVxVSNerqJ45eogX/qLjtTXbN2gD+SeT/v62g==
-        wBvSv8LWf84iZvhM6xpgIWzLFwDf8Oy+yBsvhmv5gWdo8ZWsyB9HsA==
-        MrcsbMRhTX1iq+l72FoEIhrrhXfjN5R6Y1ktnXl3Ie2mDyQRCv/elw==
-        jG84rlx+9J5aqgl0o0sP0rBSeLx6NuaDI2twf3Xu6tPx7BttYSX1SQ==
-        3mtO2tPsXfygj10aJyAEbA8HuUcjyLsjLTqYM5knPcf3xxp+UmfNZQ==
-        vx8VYWZnih6Emsl0HZvC7WXwOgV5Gk+OzLvNzr9PXi+sUHgT8MrbkQ==
-        5gfMPuqQ+uBD6awnuNt6/+D+biJM+O6PY3D66YPf0QfTX2g7ZXNLdA==
-        wwAvsMk8kBvek6aCigu9NnJFVr7PTpsZoYvhBRIAoOFtdJVXE+6IIg==
-        EICykbJEtllsNwg0fUYUeDiWmsNQ+/kBH3Bk7E+Ji3n+BU4Zf5JdnQ==
-        iz1GLis0Yw8wGjLQRg9bmbcB6WW6qFmPuvjZBbvIaXjwseU580VbdQ==
-        ItjRDFN7QpJIyEQnWZuGh5goFS/ljZ8FmjcxglSvLJdJ7ibyTSeIhw==
-        CZzJxDTSBbDSTBITiXlbec9a4h5jGSJZtnLHkFxbhCSaNaK/0nW2BQ==
-        rMT/H+R/h9YwfpnSPclNkXAkhMyIq5EcvyGS/K4sAlByVVYNoNtlgA==
-        ImXEBL1UBaKp3zOigt1CA7jmGpAGFnWvm/r3VVTglH0d55dhycSOsw==
-        PnHdNZCiWWSzvEfm1z44TTnPN+e8urrC171dkq9s9gXxC2AXLyk0fw==
-        yeTu5zqJJpfakgKVXzLu29ep2BI86a2vBKDk0tcaQEdvCii9PJcAlA==
-        3J37No54CSC2ygjroMRR8RuCSW+TJbiTXCZbAym61naz9nKJEqbkNg==
-        itRgQNFg2k2oiBuhIm2EirwRKspGqKgbocKxmyHDbYYMvxkywmbIbA==
-        RoG5lzS4006CYKwJGf8Q2hqafpg8Ko5+y8aGTLZxVW2VHSt78lWNQg==
-        VSOoahQrGqtIVlGsIlhFT6pokyvalIo2lWB3KT3qtG3Hbo1RqpI9iA==
-        U65Oe+K1PJS3/vN39JdnaGYALSOhjVKhLKFJ8+9OPm6UYcUpImoaww==
-        STm7yWsM2K8Y09FniwRq8T3vOXNtjDQTq8/ETyMsxkM6M/AK4BZ6Fg==
-        /5kZM/naL45yDvXZgTO3lwzEygI2EJcPxK06UH8OA33KcC8PxLFAxQ==
-        BuKbD8QvGUhgRWwgoflAwpKBRAmXEWg+EFgykMLJ2EDiigNx5YFEYg==
-        IK6kDDjjJHwYzIvlhZY8mEniIZS0IYeJ/vewZuSPOB2TzYqtbkyqFQ==
-        emb0V6BNWqgF2fPirzi+Se0CD39KwU+LI71EyqK1uCYt4ZqCq4HclA==
-        bZfGY7Am23gK2TYIbcN7mWGigKuzsjbDkiHWzS1xVvWhGa09LG6qWw==
-        kWuLwgnBOL/7UrjdWOGUl/knq7jLVtfmX9dACGwn2p73Gh4ONHdl3g==
-        cXyZeQP39czDnenhI3pZWzMX8+uy+YgXeHw+4ppMsYURl0xMvKjg/g==
-        lePWHZGIQV8aCfAqUCWZV4nx+IrxcC4X4pukQ20ttxztEAFzHufUlA==
-        cdvLfp4HMJVlQG45hTwyqSxnrU6Br6kVrU5BqEmeV6cAahLn1SmINQ==
-        STPhNohyBe4ekom6bKBkIWEJBqkm5V4DA98MQzJrVKbqq/NQqUnTVw==
-        oFD2T0tT9RVJ8Suk669O1QsZ7dstIXUWC20VSRnAXU46py3cngn9wA==
-        sKNVu2iQQhu5gt7JYS32K2T0ya2inYRVhZpdPJHlnrCFBzIrTqdrxA==
-        EImO43g39SbJnFz1KmqzV3l5Rn/hVfDlyoLssi6+rbn+1AmwtdO8LQ==
-        lnr2V+3aZKddoNJpF5QtaZ46foBtk0BKWPpOIt/W1Uk6xpsw8rAr/w==
-        ecYNXpbSPS3GrTK70M3Lm7tt4en2fnIaXE6f51+/YmBXJisoQkp2Ww==
-        PHCvfh3c3QBp/k3xb80za34+aUYWKcjSXZANyGZEvxsXzz1n/0dveg==
-        HMrAEO7hAFz1mhHlFSUlyx9tu4PD/n2P+64+HN4AoX17ut+Qs1zG2A==
-        0B/1Bt64N/h1LLPBXNL8g1nYkLG8mpFV5iI7mB3t9UQ4ulPGPWUMuw==
-        l015IPEp2YeTad+fGWcD7/jXxDi/PEGzF9cQrZix4Lw3CIeu2xfCEw==
-        MXCeZ9705ntDJeDFzBKkPUd4+qmfDa5h8PDjMdw/PIRaUxaIckpWew==
-        kM74i5/HyMC8n93L9vx+snveEK0gLr2Au5F9iUt3uDUhy0pLP1RtRA==
-        Vln6qV0WKpT856L6Wiq4LuqwaEwtnr+SbBL9cOp4WEEDzQ4WmhWwlg==
-        ZDHwdNvXPCet1Ubppx5NZfEMk70iak5Dp+sv7Xb0LRCza7l+Drf8ww==
-        TjsFtYCI3jtJj5ix41mWZmuTiCvxTr+EzCSEaPbz4ATrMcHT76GDJg==
-        UvLzP8Y0xkFrHPG9RW4fZEz4YCR7C5O+NmzNFpwrkYmybsMzbN3wWw==
-        0fBIlpMkZceeVPwqYmaCtQggKpSX2uAkgYC4CCd2JJYS2Tm0Ryi+gw==
-        z0brMf5qUyDanpDNC2JFLIf4E2HPObbAh+FO4pV4OxPRijoi0kPNaw==
-        uY4PF1sbBZaIf7XAmDjeU+V+qDTvXTxgfD2KiDBSbGHjUkor2tHBQA==
-        9EMCY7u2M7dOZ36dzsI6ncE6ncV1OkvrdJbX6ays01ldozO3jgS5dQ==
-        JMitI0HuZQl22qSOYqFzrWJ33MiCP/V9ib7Xs7aKf512tZ9fzBr5PA==
-        sZg3NDSjIDceF0a1YMokfyeO1/FGKI/HggzPQRlYVMkzo58svltdzA==
-        VURtNZ7HoleIhsBpQRufyNr/xAue0PaR8449tT4N7dk/f/8/JyYiHg==
-        YXRhZAIAAABETlNTYmlsehYAAAAQAAAAeNpjYmBg0PX00zV1z/QDMg==
-        GQARpQInAERJK3Nhcm8A
+    >
+    <FREEZE 0
+      AUXRECV 4 1 1.00000000000000 0.00000000000000 0 0 0 0 0 -1.00000000000000 0 -1 '{9BAE5309-AB29-2449-AC97-ED188C9AF186}'
+      <FXCHAIN
+        SHOW 0
+        LASTSEL 0
+        DOCKED 0
+        BYPASS 0 0
+        FXID_NEXT {AE56C37F-D1D8-9E4C-AE76-C7DF06C974E9}
+        <VST "VST: Guitar Rig 5 (Native Instruments GmbH)" "Guitar Rig 5.vst" 0 ""
+          NUdpTu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAA==
+          AAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAHRcAAAEAAAAiABAALWluLQ==
+          AgAAACNOSSNDUyNEb2N1bWVudCMjTkkjU291bmRTaGVsbCNTb3VuZA==
+          IwAAAAAAAAAAAAAARQEAAGF0YWQCAAAAZG5zc2JpbHoWAAAAEAAAAA==
+          eNpjYmBg0PX00zV1z/QDMhkAEaUCJ2F0YWQCAAAAb2ZuaWJpbHr2AA==
+          AAAKAgAAeNp9kU9PwzAMxe/9FFauaKRIOyCUZgLxR9ymCU6IQ9a5Uw==
+          RJtUcTLx8UnaNSuV4Ob383t2rIjNd9fCCR1payp2c10yQFPbgzbHig==
+          vb89r24ZkFfmoFprsGLGMtjIQpANJpoaewmvy5LJogAQvbM9Oq+RZA==
+          lBEY1aH8eHy9IuXsp+CDTk4+tyawV+ZrSqVavgTtlYOdPsJa8AENwQ==
+          szHVte36+Djjp2AGi/SF/+eDrbML70yedyrvnd4Hn0/MYNSRnFQbUA==
+          PigiuO96EnwEUzsQuhWhl7vtHeczW26Mg/li8p+bnpoGa/9rzSI8kw==
+          6QzB8y/K4gerfKLjYXRhZAIAAAB0c3JwYmlsel8VAACh6QAAeNrtXQ==
+          21qjypffc7ufgs+LuekvBorikB57/z+NZ40ak7btviMJSegQQA5GfQ==
+          j3nIeYspCIcqCCbBqKvd9k2bAlb9WKdaa1VRxZ23bv/rr7/++t//+w==
+          66+d/zxMTe5edz3Dtr5tCdv8FqdbfXtgWKNvW9+7hzV1i/N8zRpopg==
+          benftix7i/vPP3/vjNyaYXm+G0x1y6/1x4E14XqBYQ5qVjDt6e63LQ==
+          hBV5i+vbU4c8SO5xtP6kZgxIJw2Fxw1ZVdEWN3S1qT6z3fkV0vlU+w==
+          bbu1FJBEWoy+a2ctKGyx6HvIU46re3pJF74xJbi7gc7tOi6HMCc0vg==
+          SspXJHOIF9DWP3//zXE7nh1Yg9pA87We5uncyLR7mlmb6r5rW/Y06g==
+          Y2yQTmpTe6DPgRoDg7y3Zlm6STqUt+pzSoQxLoHBaY5T8x+d+c0Zgw==
+          SX8c+bczNB5qKW88jjCtZvj61CO3iPE9+bu48M3UBs8TgpYWvtT1WQ==
+          eiu5ObzR1H09a4oby5/mgiBsvr9VrvHNoNfZ/fIbDy/utMPzg/3Rtw==
+          b1s0KZpYbRQY7DVy9d7QZ5S8yds4pubrtZ5mTb5tbS26NAcSapjt6g==
+          g1pIIeYwJkzL/fKMnkn+Hmqmp4fcZjqvP4ONwq0FA8PmKGUqvIWjhQ==
+          KumTO4ghaKRH8oxvTzU/0bVQVNlNoUhDA/GNPnOjUKBM046EYewmkg==
+          OLFCE+vru33fuNfJu2pmEClOkQahEmoohYBz9alNeDnVHiIwyU8jgg==
+          W18Ao54+XHj77JJXzuCIiYyWZRcpfawXFXInNVTXT5Ht1Bk1f0b5ZQ==
+          WnuNEXdmW8RAzTWNoIxKbAyDye/R8PBG6w7k48un+0elN66P39cYBA==
+          xhgEwMbAlxhDHaI2iYsVgUPrKlQ5oVinrmZ7o8dpvX1tNPviz92hEA==
+          yJft9qeD/XSwsExCLdNkcd1Ao5xQbBKnM9/9cXf20K1P8e3eYGRr8g==
+          0XD2aRKfJgHLJBClyLuRJE+sNY1hIYnYDHYvHpqCHTx299Bl++exaQ==
+          PF4fCO3PaOPDRRsC5Q9JfrimCuWfjrVHu5dP0fmvo+vbL+6v1kV9dg==
+          N9o92/10okXtEYrao1R1opQPdQKfO9IMK/Of29Kbe9ACwKME4BGRFQ==
+          d2nVL4fDFKHw/vi6DL7umBjW2DYHFBMBgGzdJChbmhc23thmMKVGyg==
+          bVWWRFl9f6TnCdBzY2qEjTmJ8wAgNlOM+tDnmvO6GSSdvG5S4eq4CA==
+          8TMwyqfPdC2xqzn6vt6fcMK6uXMJlXiA02/UyXnfvCADnPh4czc68Q==
+          L8ZPHyhL8MkbD8gbC1pQQJ1cC1WsoDnrDI1VBsfGwsGxxAhYSzJTUw==
+          t21nif1swIKWmHkBnq+n6kaEbWc+iIcD0U0huprlObanA+RjkIIMLA==
+          gPic+wRfceDGsixAwemmOK/1vu0O8nEGGKDGFVU70F2fu7I9I/QL8A==
+          ZG96tA/iOj4Z4gCi1BmUB9bg3YVeHnMsiTrCyyWD2VsFJJiOJIhLcg==
+          1wxFis8n06PH44430U+77tHvkX52cTwzfOF9Z4QQE4QgwFm2vHIgkQ==
+          s45DOxHGoe1OICUz3dQRdgnbuCvD749TfHLj/QF6vtu3/ARkx3ftng==
+          Xm+GCw0gsXHgrBvlvCk8d5iNy0Pd1a1+Bg9jAAC9ViphwwydWIs4gw==
+          Py9fDTOd0NtyydKa+ruUZ+kifSte96OvW6VdTCQeRtDhF6d70LlrCw==
+          Pxr3B9dYrN+cNGcfp9SfrJbSAq5vhiuxhoYZVc/6huXb3pg73v96bg==
+          9FzNffy66zim0Y8GA64TOI7t+l8vtHAmijtJl5V5X48Cg4RuXDiBKA==
+          fW3alk9av6aM/WraM9LTvb4900gQ3ScUJ7We4U81bxK9zbzl1WGMDQ==
+          CsU0MH3DMefsnHMe1zFhfmijfT3DVwuLHNYgXCpHLpPO53+9daIvVQ==
+          T/SvZmmeulKN+R1C7I6V+shHqw8PX3fqlFQjBDBpSitN9FuBDzAvvQ==
+          MUsTfelPTKMyP/rigZAhkNCtUTfELnLur4lrqqW+k/FjlPOK78CogQ==
+          G7KCGtIKXuwlSv8iUZUIKeNxbSGzyGPF5jUq4/QKw92ps2tp5qO3dg==
+          PlpKJo4nlMv7+s2o7XbcL+fn548n2Dn9ffC5qOzjLR2QJEoRriJSSQ==
+          kXA9jXqGUKxT8p4tPv7qn3ZJUnv/8yFoHhwY2vvqFM/oFA+41CFVLQ==
+          dVzdrDmCvWmeuZ+i23cfV6tOvym+Hym+H5Q+w8HXuk3jJ+MBErCrWw==
+          yhdw4boijiA0rNG/ZNKbIRCRrNmBXyu542VW+xphzEst9U0wrar9bw==
+          AqaKxr8JsDV92OsExUtM4IVRscIvWumx7rcWZVTi+EWdSXx3crjXlg==
+          jMGtOmyrQ6N10f5460UQtPUicvUy0p8yUQ98XYvRoUtdXNfm5usWPw==
+          Z+c/zOz8H7N2ZCPLCND7LCNo0CsS46W/h7drDlMlROJR6ou071z+3g==
+          v73G8uy76t2Yp9PZ2ef31quNNJW/fVp3ugLmXGl2tW9bvmaEM6f9+Q==
+          lFQtkplhGv5jWvPK9hhYFAkSaQdmxMFBjzMsQivbVgEnBEhzP7zFSw==
+          iRKmu8RuXHvmsdsboEIPY9vzKUGRbgrylF59xjfXGHN8x7Kt2qILRQ==
+          a6aDzmbC9sSaf+jnT227+bM9PgoUrIt3RhdfsjFnuSW/phXT87m+Gw==
+          MEZcasCrGm8Fw1VWihFfYLVvk9A2BVoVwo9aBSpkVcQGwu+FDOWRIQ==
+          CpnYEFX1vZCJeWQiHeYjLL0bz3AeGaaQIV4R5fdCJuWRSe9fYmo15Q==
+          PCoZAiolj0qBgErNo1IhoGrkUTUgoBL4glvlQeAqunsBBK6CsxcQCA==
+          XAVXL4ggcBUcvYBB4Cq4eQGEnxcKjl54e0+/OE96JkcKw9eeYWkkNA==
+          juPXecLSd+3+/DW8MEyuLwx4186o2LXeFKVwJzkqdE8q16UJflrbTg==
+          a3gO6TTJMOzd8y8Hu48P1ydnagefWYPWk/tYrGovqxi8brbBP5NtrA==
+          UDR4/RI1X5J+1NeuUC1IUNmnQvGvrhkYLVUNTK8sbmqpZgRn7W7Qcw==
+          nI4YHEu+/TRxx9c/djevGUfX+BnlOLk46X4ABWmAWQrLb/MiknlVeQ==
+          hZpxc7fTob4N0V3dhld8L59al/mG2pCrMZXk5mEswqDdlpSI0RsAvQ==
+          n86+G6EtsJ9GbiOVl/iK2iAhgWDPI48ahU0gP0w/tTJMZspoW1EFJA==
+          i9VQY54gxHnUqspjUdoE6r0E9Z7meQBW/RYBmhlC06QhNniEkVqNrQ==
+          ckOSJZRna9SINrImPfssS++ZjO0JWMVQmHtJf4RHl7l4URD/xHmvDQ==
+          RxUSXhpVSPQnr6ERcVeunYYW3qDddYft7u8jhfdnsubtT4LRa4QWEg==
+          dxguDSoNLyJk18boZRVvECEGwh/6c5s/PLaQEK8oFWMLrKhIzsPdlg==
+          sSDyeBOoqT29mO3GVDKQKJtg7XYccW40EHKZvSW3kSIKDaUag8Vo3A==
+          e41RuiyMkGUE5husbBHlgFVYCYzxTw8pkNyhq98FutV/pOMHwlIRzA==
+          p3elYY4iqwqYMCdId3f7bvquxp0D9Ki9dGDac8PN0+AhDI5ZLh4b8A==
+          MI4OUhfvas7Y6HMHbXhDPE4DRsxzx08Q065GCrGRh4hlDMYBCWqKkw==
+          /AmUl2KWIJA/gYKUMpBSAaTSaKhgRJ4KnJswKGVFaihQUKYTiyiPUg==
+          EODwMp3OwzmUgoJ4GYzEMxvnWZxQEOrtdBHxQZsD8wl9MQHCaRB8dA==
+          jVfZ7ObfVe8htrm04BPfk5vXvbbtKV35mTQFHj1408Hky0374uIeiQ==
+          MnZfZVJJqjCpVL71GcxJpY+9wUq297SuuQB3giz/tkjihQaYWHAk0A==
+          5R1mQanEKyqYQXeEGJwI4kAxEhmMIkiMmMGIQWKUGIwSSIwyg1EGiQ==
+          UWEwKiAxqgxGFSJGJ/WRV1rORYKBiGiIIL2jI9IQQTpHB9MQQfpGRw==
+          oiGCdI2OTEME6RkdhYYI0jE6Kg0RpF+cCvT+fLRjBIMQMQgRQIQigw==
+          UASIEDMIMUCEEoNQAohQZhDKABEqDEIFIEKVQajCQ+il/rBjmzZEfw==
+          6CEGIUB/6IkMQoD+0MMMQoD+0JMYhAD9oSczCAH6Q09hEAL0h57KIA==
+          BOgPHSNLnMek7xPrHqJTdAxUgIkgwhQLMEWIMHEBJoYIUyrAlCDClA==
+          CzBliDCVAkwFIky1ABOi3xyzfhOk0xyzThOkxxyzHhNo0XHMOkygdQ==
+          xzHrL4GWHsesuwRafRyz3hJoAXLMOkuYNUg3dZXRYhKAntJFDEKAfg==
+          0hUZhCC9pIsZjCB9pCsxGEF6SFdmMIL0j67CYATpHV2VwQjTN05Z5w==
+          CHWWxp2iIk6IfnIqFnGKEHHiIk4MEadUxClBxCkXccoQcSpFnApEnA==
+          ahEnxPkc8F8Ua+kpXQbA7dZ70LfJ8Eu/xAQDsan1sm0AtZ5h6T41hA==
+          IzDriFtGP1sNYvQhhhmtK9tjMJLfEHESMaO8yBG8BfiEg4jmJoIpcQ==
+          lJc4AilxMS9xEaTERZqbIkyJi3mJiyAljvMSxyAljmluYpgSx3mJYw==
+          kBKX8hKXQEpcorkpwZS4lJe4BFLicl7iMkiJyzQ3ZZgSl/MSl0FKXA==
+          yUtcASlxheamAlPiSl7iCkiJq3mJqyAlrtLcVGFKXM1LXP380J760A==
+          Xl36mb2a38ib20u+rZc6Q3vg3px2+c6ZiHtWWx/g6e7nVt4fZCtvQQ==
+          WGEPBmYr78hZedx/a1PnfzhicF6iKd9/tCRsT9udzqXunhz/uvOPTw==
+          Dtowt/aGv+/mh96EoXWTO2qwsNmById7J376boFfbp88a59XmqWbiQ==
+          UXp79Ymqagcm33QedFHn+4eTO2jue+npje9ujsIL7JHodvmeHg1RAQ==
+          M2dAFIf6dhTirEY0XQV45mo/m/oLt9TXrL4OD+SeB31+rev24M+wdQ==
+          ntKI2XiCOgeYC9uyCcBX3Lsv9Mbz7mqe7+padCQr8cchrNQtixtxWA==
+          Y49ZavoWthaCCPt65t3QhlJvKquFmXfn0m54IJlQ+M8+ZHzDceXyrQ==
+          9xqFmkArPPQgCSvFh8snfdY9nHbvLs+c/ng4+Q4trASf5L1kpz3N2g==
+          pTf62IU4ABFgezTIPYggbw+1cGPOeJx0bc8bavROnSWH/b5XhJnuKQ==
+          uh9oJteyLYDLy4yrBORJNDhybzY6/zl5vbhC4U2kK2+HmudzTXJD4g==
+          gw/k07bofOl39u9uR+IItX4e4ZNPH/yGPhh+oe2EzyzRCXy6wKYgrA==
+          VDwnrYEXHOi1kSOysnV22kQPHAovljHGFU+jW3g04bYkYRGrGylLpA==
+          i8V2fV/rT5gCj8CD2Qy1k23wYQz05pg5mOdf4JTpK+nRudRl4rICMw==
+          8gCDHmdY5GIt9TY4OUyXNPfDW7z0gF3iNFzjoebas3nb4kRwR9NN7Q==
+          kUgiJhPuZG3qLmGinD+UN7rma+5I9xO9mjpcfDaRZ9p+1I1vj0amng==
+          TIAVRpKISMTbheesxe4xkiGRZS1zDPGxRUSiaSP5lcyzzWHF/n8/+w==
+          HUx70csUzkmuikRgIaRGvBjJ0Ssiyc7KYgDFR2WVALpZBihURkrQSw==
+          VSAc+l09LNjNNUCorgFJYFH2uol/X0UFTviXcX4ZllTsNOtj110CKQ==
+          HEU2y3tifvX9k4TzqDrnG6srfNnbxfnKZl+QPgB2/pJi9ZeMz34ukw==
+          aHyoLStQ5TnjvnmZii3Bk5z6ygCKD30tAXT4qoCSw3MZQPHZua/jiA==
+          lwDiFxlhGZQoKn5FMMlpsgx34sNkSyCFx9pu1l4uSMIUn0aRGAzOGw==
+          TL0KFWkjVOSNUFE2QkXdCJXGRqgI/GbICJshgzZDRtwMmc0osPCcBg==
+          79TjIJhqIsbfMyyNDD9cFhWHz/KRIbNtwqK2hTcuvBMtahQXNeJFjQ==
+          0oLGRSQXUVxEcBE9eUGbsqBNXdDWYNhdSI926pZt1YYkVUkvRCnXTg==
+          feTWXJK3/vN3+MvVNdM3pnpMm6RCaUKT5N87Wb9hhhWliKRpaIyK2Q==
+          TVZjoJ7iTLs/mSdQ8+95z7grfaCZVH0muhpi0e+TkQGpWJjrWfQzNQ==
+          Zva1n+3lzOhP9u2ZtaQjXhGpjoSsI2HVjjozw++POeH5jgQeN6iOUA==
+          9Y7Qko5EXqI6Eqt3JC7pSJJpGeHqHeElHamCQnUkrdiRUOxIYjoSCg==
+          ykAzTqa7obxYVmjJgpk4HiJJG3GY5L/7NSN/wumIbFpsdSJStcA1ww==
+          X742qpEWYs/zX1F8k9gFHf4Ugp+awHqJhEVrcU1ewjWVVgOlKtsu9A==
+          B39NtiGAbOsGlu4+zzBJpNVZXZthcRfr5pY0qzqGGc49zE+qW5Fr8w==
+          wgnDOK/1XLhdWeHU5/mnNGiX3Vibfy2dILDscHneS3jY1ZyVeSegIg==
+          87rOy5lHO9ODB/KylmbOx9dl4xESET0eCVWG2FyPSwYmJKm0fxWEdQ==
+          e2Ri0Od6wqiBG7KCGkx/aEF/NJdz8U18Q2kttxjtMAFzFueUlHHryw==
+          Hs8CmIVlQGE5hSwyWVjOWp0CKqkVrU5BLEmeV6eASxLn1SlIJUkz4w==
+          NphyBe0e4oG6aKBsIWEJBrkk5V4DA6qGIR41Fqbqq/NQLUnTV6BQ9A==
+          T0tT9RVJoRXS9Ren6rmM9vWmkHbmE20LkjJMu5xkTJu7PdPwfN0KZw==
+          7cJOcm3sDPpOBmu+XiGlzy4V3YlZlavZRQNZ5glrdCCz4nC6RgwR6w==
+          OI13U28Sj8mLXqVR7VWeH9GfeRV6ujInu/QWz9Icb2z71Nxp1hZJPQ==
+          /VU6N7lTz1HZqeeULW4e255PLZMgSlj4TiJb1rUT3xgtwsjCruzxlA==
+          G0iRkzUt+o06Oe+bF9e3X8THm7vRiX8xfpp9+0aBXZmsqIoJ2S/Svg==
+          c/l7//Yay7Pvqndjnk5nZ6NqZImCLF0FWYFsSvSHfv7Utps/2+OjQA==
+          wbp4Z3TxZbsaUaSqCVl0+MXpHnTu2sKPxv3BNRbrNyfNipwVUsYG3g==
+          oN11h+3u7yOF92ey5u1PgoqMRY2UrDqT+O7kcK8tGYNbddhWh0brog==
+          Kg9klJC9Px53vIl+2nWPfo/0s4tjMnoJFdFKKQvO2t2g5zgdMTiWfA==
+          +2nijq9/VFQCJKWWIO/Z4uOv/mn3yvDvfz4EzYMDQ6vKAklJyGr38g==
+          KTr/dUQMzP3VuqjP7ka7ZxXRitLSA7gr2Ze0dIVbFbK8vPRD1Upk1Q==
+          pZ/apaFCwX/Oq6+Fguu8Dkv61MLhoD7/SfqIUxFuaLvTqWZpoxBB+g==
+          wVx4k0ZGkXu9FmWcmj/m4t9xPmq7AxIgUdJjMtOYBH2vYY1IuEJGwQ==
+          aHCq/xNVig3L891gGi2iGQfW5J+//x8qAhKnYXRhZAIAAABETlNTYg==
+          aWx6FgAAABAAAAB42mNiYGDQ9fTTNXXP9AMyGQARpQInAAA=
+        >
+        FLOATPOS 32 324 1023 702
+        WAK 0
       >
-      FLOATPOS 32 324 1023 702
-      FXID {AE56C37F-D1D8-9E4C-AE76-C7DF06C974E9}
-      WAK 0
+    >
+    <ITEM
+      POSITION 0.00000000000000
+      SNAPOFFS 0.00000000000000
+      LENGTH 591.78684375000000
+      LOOP 0
+      ALLTAKES 0
+      LOCK 1
+      SEL 0
+      FADEIN 1 0.000000 0.000000 1 0
+      FADEOUT 1 0.000000 0.000000 1 0
+      MUTE 0
+      IGUID {E547DBCF-2889-A34F-A383-028EDB080698}
+      IID 792
+      NAME "Bass GR - freeze"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 0.00000000000000
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {A5F74F11-B132-194A-8DF7-FC6152EED80A}
+      <SOURCE WAVE
+        FILE "../media/Difference_freeze_Bass GR.wav"
+      >
     >
   >
   <TRACK '{F2516B9A-C2E7-F64C-99F7-F9C857D262E9}'
@@ -1342,11 +3581,11 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.13662844271417 0.00000000000000 -1.00000000000000 -1.00000000000000 1.00000000000000
+    VOLPAN 0.31512284826423 0.00000000000000 -1.00000000000000 -1.00000000000000 1.00000000000000
     MUTESOLO 0 0 0
     IPHASE 0
     ISBUS 1 1
-    BUSCOMP 2 0
+    BUSCOMP 1 0
     SHOWINMIX 1 0.666700 0.500000 1 0.500000 0 -1 0
     FREEMODE 0
     SEL 0

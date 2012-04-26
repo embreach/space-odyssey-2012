@@ -12,3 +12,5 @@ Bass DI
 
 Bass Dawg
 - Ch 2, gain 18.0dB, Inst
+
+Difference telecaster: gain +21dB
